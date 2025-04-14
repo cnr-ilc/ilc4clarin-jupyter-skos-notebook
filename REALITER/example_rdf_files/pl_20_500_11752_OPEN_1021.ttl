@@ -1,0 +1,4846 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix iso369-3: <http://iso639-3.sil.org/code/> .
+@prefix pl_20_500_11752_OPEN_1021: <https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/realiter/pl_20_500_11752_OPEN_1021/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+pl_20_500_11752_OPEN_1021:Delicious a skos:Concept ;
+    skos:definition "Plataforma de servei de marcadors socials en línia que funciona com a repositori d'adreces de llocs web interessants o de documents de tota mena que estiguin publicats a la xarxa."@ca ;
+    skos:note "Delicious (n.m.)"@ca,
+        "Delicious (n.)"@en,
+        "Delicious (s.m.)"@es,
+        "Delicious (s.m.)"@es-MX,
+        "Delicious (n.m.)"@fr,
+        "Delicious (n.m.)"@gl,
+        "Delicious (s.m.)"@it,
+        "Delicious (s.m.)"@pt,
+        "Delicious (s.m.)"@pt-BR,
+        "Delicious (s.m.)"@ro ;
+    skos:prefLabel "Delicious"@ca,
+        "Delicious"@en,
+        "Delicious"@es,
+        "Delicious"@es-MX,
+        "Delicious"@fr,
+        "Delicious"@gl,
+        "Delicious"@it,
+        "Delicious"@pt,
+        "Delicious"@pt-BR,
+        "Delicious"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Facebook a skos:Concept ;
+    skos:definition "Plataforma de xarxa social que permet als seus usuaris establir vincles per compartir informació, principalment a través de missatges, enllaços, vídeos o fotografies."@ca ;
+    skos:note "Facebook (n.m.)"@ca,
+        "Facebook (n.)"@en,
+        "Facebook (s.m.)"@es,
+        "Facebook (s.m.)"@es-MX,
+        "Facebook (n.m.)"@fr,
+        "Facebook (n.m.)"@gl,
+        "Facebook (s.m.)"@it,
+        "Facebook (s.m.)"@pt,
+        "Facebook (s.m.)"@pt-BR,
+        "Facebook (s.m.)"@ro ;
+    skos:prefLabel "Facebook"@ca,
+        "Facebook"@en,
+        "Facebook"@es,
+        "Facebook"@es-MX,
+        "Facebook"@fr,
+        "Facebook"@gl,
+        "Facebook"@it,
+        "Facebook"@pt,
+        "Facebook"@pt-BR,
+        "Facebook"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Flickr a skos:Concept ;
+    skos:definition "Plataforma de xarxa social que funciona com un repositori d'imatges i vídeos que permet als usuaris compartir continguts, emmagatzemar-los, ordenar-los i vendre'ls."@ca ;
+    skos:note "Flickr (n.m.)"@ca,
+        "Flickr (n.)"@en,
+        "Flickr (s.m.)"@es,
+        "Flickr (s.m.)"@es-MX,
+        "Flickr (n.m.)"@fr,
+        "Flickr (n.m.)"@gl,
+        "Flickr (s.m.)"@it,
+        "Flickr (s.m.)"@pt,
+        "Flickr (s.m.)"@pt-BR,
+        "Flickr (s.m.)"@ro ;
+    skos:prefLabel "Flickr"@ca,
+        "Flickr"@en,
+        "Flickr"@es,
+        "Flickr"@es-MX,
+        "Flickr"@fr,
+        "Flickr"@gl,
+        "Flickr"@it,
+        "Flickr"@pt,
+        "Flickr"@pt-BR,
+        "Flickr"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Foursquare a skos:Concept ;
+    skos:definition "Plataforma de xarxa social basada en la geolocalització que permet als usuaris assenyalar la presència a un lloc d'oci i fer-ne comentaris per formar una xarxa de recomanacions i, alhora, anar obtenint punts."@ca ;
+    skos:note "Foursquare (n.m.)"@ca,
+        "Foursquare (n.)"@en,
+        "Foursquare (s.m.)"@es,
+        "Foursquare (s.m.)"@es-MX,
+        "Foursquare (n.m.)"@fr,
+        "Foursquare (n.m.)"@gl,
+        "Foursquare (s.m.)"@it,
+        "Foursquare (s.m.)"@pt,
+        "Foursquare (s.m.)"@pt-BR,
+        "Foursquare (s.m.)"@ro ;
+    skos:prefLabel "Foursquare"@ca,
+        "Foursquare"@en,
+        "Foursquare"@es,
+        "Foursquare"@es-MX,
+        "Foursquare"@fr,
+        "Foursquare"@gl,
+        "Foursquare"@it,
+        "Foursquare"@pt,
+        "Foursquare"@pt-BR,
+        "Foursquare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Instagram a skos:Concept ;
+    skos:definition "Plataforma de xarxa social que permet als usuaris establir vincles per compartir informació, principalment a través de continguts visuals."@ca ;
+    skos:note "Instagram (n.m.)"@ca,
+        "Instagram (n.)"@en,
+        "Instagram (s.m.)"@es,
+        "Instagram (s.m.)"@es-MX,
+        "Instagram (n.m.)"@fr,
+        "Instagram (n.m.)"@gl,
+        "Instagram (s.m.)"@it,
+        "Instagram (s.m.)"@pt,
+        "Instagram (s.m.)"@pt-BR,
+        "Instagram (s.m.)"@ro ;
+    skos:prefLabel "Instagram"@ca,
+        "Instagram"@en,
+        "Instagram"@es,
+        "Instagram"@es-MX,
+        "Instagram"@fr,
+        "Instagram"@gl,
+        "Instagram"@it,
+        "Instagram"@pt,
+        "Instagram"@pt-BR,
+        "Instagram"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Instagram_Reels a skos:Concept ;
+    skos:definition "Eina d'Instagram que permet enregistrar, editar i publicar vídeos curts amb àudio i diversos efectes creatius disponibles."@ca ;
+    skos:note "Instagram Reels (n.m.)"@ca,
+        "Instagram Reels (n.)"@en,
+        "Instagram Reels (s.m.)"@es,
+        "Instagram Reels (s.m.)"@es-MX,
+        "Instagram Reels (n.m.)"@fr,
+        "Instagram Reels (n.m.)"@gl,
+        "Instagram Reels (s.m.)"@it,
+        "Instagram Reels (s.m.)"@pt,
+        "Instagram Reels (s.m.)"@pt-BR,
+        "Instagram Reels (s.m.)"@ro ;
+    skos:prefLabel "Instagram Reels"@ca,
+        "Instagram Reels"@en,
+        "Instagram Reels"@es,
+        "Instagram Reels"@es-MX,
+        "Instagram Reels"@fr,
+        "Instagram Reels"@gl,
+        "Instagram Reels"@it,
+        "Instagram Reels"@pt,
+        "Instagram Reels"@pt-BR,
+        "Instagram Reels"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:LinkedIn a skos:Concept ;
+    skos:definition "Plataforma d'interacció de professionals que permet l'intercanvi d'experiències i l'ampliació de les col·laboracions i dels cercles de contactes."@ca ;
+    skos:note "LinkedIn (n.m.)"@ca,
+        "LinkedIn (n.)"@en,
+        "LinkedIn (s.m.)"@es,
+        "LinkedIn (s.m.)"@es-MX,
+        "LinkedIn (n.m.)"@fr,
+        "LinkedIn (n.m.)"@gl,
+        "LinkedIn (s.m.)"@it,
+        "LinkedIn (s.m.)"@pt,
+        "LinkedIn (s.m.)"@pt-BR,
+        "LinkedIn (s.m.)"@ro ;
+    skos:prefLabel "LinkedIn"@ca,
+        "LinkedIn"@en,
+        "LinkedIn"@es,
+        "LinkedIn"@es-MX,
+        "LinkedIn"@fr,
+        "LinkedIn"@gl,
+        "LinkedIn"@it,
+        "LinkedIn"@pt,
+        "LinkedIn"@pt-BR,
+        "LinkedIn"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Mastodon a skos:Concept ;
+    skos:definition "Plataforma de microblogs que permet publicar tuts i seguir altres usuaris."@ca ;
+    skos:note "Mastodon (n.m.)"@ca,
+        "Mastodon (n.)"@en,
+        "Mastodon (s.m.)"@es,
+        "Mastodon (s.m.)"@es-MX,
+        "Mastodon (n.m.)"@fr,
+        "Mastodon (s.m.)"@ro ;
+    skos:prefLabel "Mastodon"@ca,
+        "Mastodon"@en,
+        "Mastodon"@es,
+        "Mastodon"@es-MX,
+        "Mastodon"@fr,
+        "Mastodon"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Pinterest a skos:Concept ;
+    skos:definition "Plataforma de xarxa social que permet organitzar imatges i vídeos d'internet i crear col·leccions per interessos."@ca ;
+    skos:note "Pinterest (n.m.)"@ca,
+        "Pinterest (n.)"@en,
+        "Pinterest (s.m.)"@es,
+        "Pinterest (s.m.)"@es-MX,
+        "Pinterest (n.m.)"@fr,
+        "Pinterest (n.m.)"@gl,
+        "Pinterest (s.m.)"@it,
+        "Pinterest (s.m.)"@pt,
+        "Pinterest (s.m.)"@pt-BR,
+        "Pinterest (s.m.)"@ro ;
+    skos:prefLabel "Pinterest"@ca,
+        "Pinterest"@en,
+        "Pinterest"@es,
+        "Pinterest"@es-MX,
+        "Pinterest"@fr,
+        "Pinterest"@gl,
+        "Pinterest"@it,
+        "Pinterest"@pt,
+        "Pinterest"@pt-BR,
+        "Pinterest"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:RSS a skos:Concept ;
+    skos:altLabel "RSS"@es-MX ;
+    skos:definition "Format de fitxer basat en el llenguatge XML i desenvolupat específicament per a la creació de canals de continguts."@ca ;
+    skos:note "RSS (n.m.,f.)"@ca,
+        "RSS (n.)"@en,
+        "RSS (s.m.)"@es,
+        "formato RSS (s.m.)"@es-MX,
+        "format RSS (n.m.)"@fr,
+        "RSS (n.m.)"@gl,
+        "RSS (n.m.)"@it,
+        "tecnologia RSS (s.f.)"@pt,
+        "RSS (s.m.)"@pt-BR,
+        "format RSS (s.n.)"@ro ;
+    skos:prefLabel "RSS"@ca,
+        "RSS"@en,
+        "RSS"@es,
+        "formato RSS"@es-MX,
+        "format RSS"@fr,
+        "RSS"@gl,
+        "RSS"@it,
+        "tecnologia RSS"@pt,
+        "RSS"@pt-BR,
+        "format RSS"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:SlideShare a skos:Concept ;
+    skos:definition "Plataforma de xarxa social que permet als usuaris publicar presentacions, documents de text i PDF."@ca ;
+    skos:note "SlideShare (n.m.)"@ca,
+        "SlideShare (n.)"@en,
+        "SlideShare (s.m.)"@es,
+        "SlideShare (s.m.)"@es-MX,
+        "SlideShare (n.m.)"@fr,
+        "SlideShare (n.m.)"@gl,
+        "SlideShare (s.m.)"@it,
+        "SlideShare (s.m.)"@pt,
+        "SlideShare (s.m.)"@pt-BR,
+        "SlideShare (s.m.)"@ro ;
+    skos:prefLabel "SlideShare"@ca,
+        "SlideShare"@en,
+        "SlideShare"@es,
+        "SlideShare"@es-MX,
+        "SlideShare"@fr,
+        "SlideShare"@gl,
+        "SlideShare"@it,
+        "SlideShare"@pt,
+        "SlideShare"@pt-BR,
+        "SlideShare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Snapchat a skos:Concept ;
+    skos:definition "Plataforma de xarxa social que permet als usuaris compartir de manera molt àgil imatges o vídeos que al cap de 24 hores s'esborren automàticament."@ca ;
+    skos:note "Snapchat (n.m.)"@ca,
+        "Snapchat (n.)"@en,
+        "Snapchat (s.m.)"@es,
+        "Snapchat (s.m.)"@es-MX,
+        "Snapchat (n.m.)"@fr,
+        "Snapchat (n.m.)"@gl,
+        "Snapchat (s.m.)"@it,
+        "Snapchat (s.m.)"@pt,
+        "Snapchat (s.m.)"@pt-BR,
+        "Snapchat (s.m.)"@ro ;
+    skos:prefLabel "Snapchat"@ca,
+        "Snapchat"@en,
+        "Snapchat"@es,
+        "Snapchat"@es-MX,
+        "Snapchat"@fr,
+        "Snapchat"@gl,
+        "Snapchat"@it,
+        "Snapchat"@pt,
+        "Snapchat"@pt-BR,
+        "Snapchat"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:TikTok a skos:Concept ;
+    skos:definition "Plataforma de xarxa social que permet crear i compartir vídeos personalitzats curts."@ca ;
+    skos:note "TikTok (n.m.)"@ca,
+        "TikTok (n.)"@en,
+        "TikTok (s.m.)"@es,
+        "TikTok (s.m.)"@es-MX,
+        "TikTok (n.m.)"@fr,
+        "TikTok (n.m.)"@gl,
+        "TikTok (s.m.)"@it,
+        "TikTok (s.m.)"@pt,
+        "TikTok (s.m.)"@pt-BR,
+        "TikTok (s.m.)"@ro ;
+    skos:prefLabel "TikTok"@ca,
+        "TikTok"@en,
+        "TikTok"@es,
+        "TikTok"@es-MX,
+        "TikTok"@fr,
+        "TikTok"@gl,
+        "TikTok"@it,
+        "TikTok"@pt,
+        "TikTok"@pt-BR,
+        "TikTok"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:Twitter a skos:Concept ;
+    skos:definition "Plataforma de microblogs que permet publicar piulades i seguir altres usuaris."@ca ;
+    skos:note "Twitter (n.m.)"@ca,
+        "Twitter (n.)"@en,
+        "Twitter (s.m.)"@es,
+        "Twitter (s.m.)"@es-MX,
+        "Twitter (n.m.)"@gl,
+        "Twitter (s.m.)"@it,
+        "Twitter (s.m.)"@pt,
+        "Twitter (s.m.)"@pt-BR,
+        "Twitter (s.m.)"@ro ;
+    skos:prefLabel "Twitter"@ca,
+        "Twitter"@en,
+        "Twitter"@es,
+        "Twitter"@es-MX,
+        "Twitter"@gl,
+        "Twitter"@it,
+        "Twitter"@pt,
+        "Twitter"@pt-BR,
+        "Twitter"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:YouTube a skos:Concept ;
+    skos:definition "Plataforma que permet als usuaris publicar, veure i compartir vídeos."@ca ;
+    skos:note "YouTube (n.m.)"@ca,
+        "YouTube (n.)"@en,
+        "YouTube (s.m.)"@es,
+        "YouTube (s.m.)"@es-MX,
+        "YouTube (n.m.)"@gl,
+        "YouTube (s.m.)"@it,
+        "YouTube (s.m.)"@pt,
+        "YouTube (s.m.)"@pt-BR,
+        "YouTube (s.m.)"@ro ;
+    skos:prefLabel "YouTube"@ca,
+        "YouTube"@en,
+        "YouTube"@es,
+        "YouTube"@es-MX,
+        "YouTube"@gl,
+        "YouTube"@it,
+        "YouTube"@pt,
+        "YouTube"@pt-BR,
+        "YouTube"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:abast a skos:Concept ;
+    skos:definition "Nombre de persones que ha vist una publicació d'una xarxa social, especialment al Facebook i al Twitter."@ca ;
+    skos:note "abast (n.m.)"@ca,
+        "reach (n.)"@en,
+        "alcance (s.m.)"@es,
+        "alcance (s.m.)"@es-MX,
+        "portée (n.f.)"@fr,
+        "alcance (n.m.)"@gl,
+        "alcance (s.m.)"@pt,
+        "alcance (s.m.)"@pt-BR,
+        "anvergură (s.f.)"@ro ;
+    skos:prefLabel "abast"@ca,
+        "reach"@en,
+        "alcance"@es,
+        "alcance"@es-MX,
+        "portée"@fr,
+        "alcance"@gl,
+        "alcance"@pt,
+        "alcance"@pt-BR,
+        "anvergură"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:accessibilitat_informàtica a skos:Concept ;
+    skos:altLabel "accesibilidad informática"@es,
+        "accesibilidad computacional"@es-MX,
+        "accesibilidad informática"@es-MX,
+        "accesibilitate informatică"@ro ;
+    skos:definition "Condició d'un entorn informàtic que permet que qualsevol persona hi accedeixi o l'utilitzi amb independència de les seves necessitats específiques de tipus sensorial, motriu, cognitiu o social."@ca ;
+    skos:note "accessibilitat informàtica (n.f.)"@ca,
+        "computer accessibility (n.)"@en,
+        "accesibilidad (s.f.)"@es,
+        "accesibilidad (s.f.)"@es-MX,
+        "accessibilité numérique (n.f.)"@fr,
+        "accesibilidade informática (n.f.)"@gl,
+        "accessibilità informatica (s.f.)"@it,
+        "acessibilidade informática (s.f.)"@pt,
+        "acessibilidade informática (s.f.)"@pt-BR,
+        "accesibilitate (s.f.)"@ro ;
+    skos:prefLabel "accessibilitat informàtica"@ca,
+        "computer accessibility"@en,
+        "accesibilidad"@es,
+        "accesibilidad"@es-MX,
+        "accessibilité numérique"@fr,
+        "accesibilidade informática"@gl,
+        "accessibilità informatica"@it,
+        "acessibilidade informática"@pt,
+        "acessibilidade informática"@pt-BR,
+        "accesibilitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:adhesiu a skos:Concept ;
+    skos:definition "Imatge que s'utilitza en les xarxes socials amb diverses funcions, especialment per a decorar una fotografia o il·lustrar un missatge."@ca ;
+    skos:note "adhesiu (n.m.)"@ca,
+        "sticker (n.)"@en,
+        "pegatina (s.f.)"@es,
+        "pegatina (s.f.)"@es-MX,
+        "autocollant (n.m.)"@fr,
+        "adhesivo (n.m.)"@gl,
+        "sticker (s.m.)"@pt,
+        "sticker (s.m.)"@pt-BR,
+        "sticker (s.n.)"@ro ;
+    skos:prefLabel "adhesiu"@ca,
+        "sticker"@en,
+        "pegatina"@es,
+        "pegatina"@es-MX,
+        "autocollant"@fr,
+        "adhesivo"@gl,
+        "sticker"@pt,
+        "sticker"@pt-BR,
+        "sticker"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:administració_electrònica a skos:Concept ;
+    skos:altLabel "e-government"@en,
+        "electronic administration"@en,
+        "electronic government"@en,
+        "administración virtual"@es,
+        "gobierno electrónico"@es,
+        "administración virtual"@es-MX,
+        "e-gobierno"@es-MX,
+        "gobierno electrónico"@es-MX,
+        "e-gov"@it ;
+    skos:definition "Sistema d'administració pública en què s'utilitzen les tecnologies de la informació i la comunicació per a optimitzar el disseny i la implementació de polítiques i serveis públics de manera eficient, i per a establir una comunicació bidireccional amb els administrats."@ca ;
+    skos:note "administració electrònica (n.f.)"@ca,
+        "e-administration (n.)"@en,
+        "administración electrónica (s.f.)"@es,
+        "administración electrónica (s.f.)"@es-MX,
+        "Administration en ligne (n.f.)"@fr,
+        "administración electrónica (n.f.)"@gl,
+        "amministrazione digitale (s.f.)"@it,
+        "administração eletrónica (s.f.)"@pt,
+        "administração eletrónica (s.f.)"@pt-BR,
+        "administrare online (s.f.)"@ro ;
+    skos:prefLabel "administració electrònica"@ca,
+        "e-administration"@en,
+        "administración electrónica"@es,
+        "administración electrónica"@es-MX,
+        "Administration en ligne"@fr,
+        "administración electrónica"@gl,
+        "amministrazione digitale"@it,
+        "administração eletrónica"@pt,
+        "administração eletrónica"@pt-BR,
+        "administrare online"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:administrador a skos:Concept ;
+    skos:altLabel "administradora"@ca,
+        "administradora"@es,
+        "administradora"@es-MX,
+        "administratice"@fr,
+        "administradora"@gl,
+        "amministratrice"@it,
+        "administradora"@pt,
+        "administradora"@pt-BR,
+        "administratoare"@ro ;
+    skos:definition "Usuari que gestiona una pàgina o grup a determinades xarxes socials, especialment del Facebook o del Linkedin."@ca ;
+    skos:note "administrador (n.m.)"@ca,
+        "administrator (n.)"@en,
+        "administrador (s.m.)"@es,
+        "administrador (s.m.)"@es-MX,
+        "administrateur (n.m.)"@fr,
+        "administrador (n.m.)"@gl,
+        "amministratore (s.m.)"@it,
+        "administrador (s.m.)"@pt,
+        "administrador (s.m.)"@pt-BR,
+        "administrator (s.m.)"@ro ;
+    skos:prefLabel "administrador"@ca,
+        "administrator"@en,
+        "administrador"@es,
+        "administrador"@es-MX,
+        "administrateur"@fr,
+        "administrador"@gl,
+        "amministratore"@it,
+        "administrador"@pt,
+        "administrador"@pt-BR,
+        "administrator"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:agregador a skos:Concept ;
+    skos:altLabel "RSS reader"@en,
+        "feed aggregator"@en,
+        "feed reader"@en,
+        "news aggregator"@en,
+        "news reader"@en,
+        "lector RSS"@es,
+        "agregador de noticias"@es-MX,
+        "lector RSS"@es-MX,
+        "logiciel d'agrégation"@fr,
+        "agregador de novas"@gl,
+        "agregador de feeds"@pt-BR,
+        "agregator de feed-uri"@ro,
+        "cititor de tiri"@ro ;
+    skos:definition "Aplicació informàtica que permet subscriure's a un o més canals de continguts i gestionar-ne la recepció i la visualització."@ca ;
+    skos:note "agregador (n.m.)"@ca,
+        "aggregator (n.)"@en,
+        "agregador (s.m.)"@es,
+        "agregador (s.m.)"@es-MX,
+        "agrégateur (n.m.)"@fr,
+        "agregador (n.m.)"@gl,
+        "aggregatore (s.m.)"@it,
+        "agregador (s.m.)"@pt,
+        "agregador (s.m.)"@pt-BR,
+        "agregator de știri (s.m.)"@ro ;
+    skos:prefLabel "agregador"@ca,
+        "aggregator"@en,
+        "agregador"@es,
+        "agregador"@es-MX,
+        "agrégateur"@fr,
+        "agregador"@gl,
+        "aggregatore"@it,
+        "agregador"@pt,
+        "agregador"@pt-BR,
+        "agregator de știri"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:amfitrió a skos:Concept ;
+    skos:altLabel "amfitriona"@ca,
+        "amfitriona"@es,
+        "organizador"@es,
+        "organizadora"@es,
+        "amfitriona"@es-MX,
+        "organizador"@es-MX,
+        "organizadora"@es-MX,
+        "hôtesse"@fr,
+        "anfitrioa"@gl,
+        "organizzatrice"@it,
+        "anfitriã"@pt,
+        "organizador"@pt-BR,
+        "organizadora"@pt-BR,
+        "organizatoare"@ro,
+        "organizator"@ro ;
+    skos:definition "Usuari del Facebook que crea un esdeveniment."@ca ;
+    skos:note "amfitrió (n.m.)"@ca,
+        "host (n.)"@en,
+        "anfitrión (s.m.)"@es,
+        "anfitrión (s.m.)"@es-MX,
+        "hôte (n.m.)"@fr,
+        "anfitrión (n.m.)"@gl,
+        "organizzatore (s.m.)"@it,
+        "anfitrião (s.m.)"@pt,
+        "host (s.m., f.)"@pt-BR,
+        "gazdă (s.m., f.)"@ro ;
+    skos:prefLabel "amfitrió"@ca,
+        "host"@en,
+        "anfitrión"@es,
+        "anfitrión"@es-MX,
+        "hôte"@fr,
+        "anfitrión"@gl,
+        "organizzatore"@it,
+        "anfitrião"@pt,
+        "host"@pt-BR,
+        "gazdă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:amic a skos:Concept ;
+    skos:altLabel "amiga"@ca,
+        "amiga"@es,
+        "amiga"@es-MX,
+        "amie"@fr,
+        "amiga"@gl,
+        "amica"@it,
+        "amiga"@pt,
+        "amiga"@pt-BR,
+        "prietenă"@ro ;
+    skos:definition "Usuari del Facebook que forma part de la llista de contactes d'un altre usuari per acord mutu, amb la finalitat de compartir informació i mantenir una relació."@ca ;
+    skos:note "amic (n.m.)"@ca,
+        "friend (n.)"@en,
+        "amigo (s.m.)"@es,
+        "amigo (s.m.)"@es-MX,
+        "ami (n.m.)"@fr,
+        "amigo (n.m.)"@gl,
+        "amico (s.m.)"@it,
+        "amigo (s.m.)"@pt,
+        "amigo (s.m.)"@pt-BR,
+        "prieten (s.m.)"@ro ;
+    skos:prefLabel "amic"@ca,
+        "friend"@en,
+        "amigo"@es,
+        "amigo"@es-MX,
+        "ami"@fr,
+        "amigo"@gl,
+        "amico"@it,
+        "amigo"@pt,
+        "amigo"@pt-BR,
+        "prieten"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:analítica_web a skos:Concept ;
+    skos:altLabel "Web metering"@en,
+        "Web metrics"@en,
+        "Web site metering"@en,
+        "estadística web"@es,
+        "webmetría"@es,
+        "estadística web"@es-MX,
+        "webmetría"@es-MX,
+        "audimétrie Web"@fr,
+        "mesure d'audience Web"@fr,
+        "mesure d'audience sur le Web"@fr,
+        "analítica web"@pt ;
+    skos:definition "Tècnica consistent a recollir, mesurar i analitzar les dades corresponents als accessos a un lloc web amb l'objectiu de conèixer els usos i el rendiment d'aquest lloc web i el comportament dels usuaris."@ca ;
+    skos:note "analítica web (n.f.)"@ca,
+        "Web analytics (n.)"@en,
+        "analítica web (s.f.)"@es,
+        "analítica web (s.f.)"@es-MX,
+        "analytique Web (n.f.)"@fr,
+        "análise web (n.f.)"@gl,
+        "web analytics (s.f.)"@it,
+        "análise web (s.f.)"@pt,
+        "análise de conteúdo da internet (s.f.)"@pt-BR,
+        "statistici web (s.f.)"@ro ;
+    skos:prefLabel "analítica web"@ca,
+        "Web analytics"@en,
+        "analítica web"@es,
+        "analítica web"@es-MX,
+        "analytique Web"@fr,
+        "análise web"@gl,
+        "web analytics"@it,
+        "análise web"@pt,
+        "análise de conteúdo da internet"@pt-BR,
+        "statistici web"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:aplicació_mòbil a skos:Concept ;
+    skos:altLabel "apli"@ca,
+        "app"@ca,
+        "app"@en,
+        "apli"@es,
+        "aplicación móvil"@es,
+        "apli"@es-MX,
+        "aplicación móvil"@es-MX,
+        "application mobile"@fr,
+        "applicazione mobile"@it,
+        "aplicație mobilă"@ro,
+        "app"@ro ;
+    skos:definition "Programa informàtic que desenvolupa una tasca específica en un aparell mòbil."@ca ;
+    skos:note "aplicació mòbil (n.f.)"@ca,
+        "mobile application (n.)"@en,
+        "aplicación (s.m.)"@es,
+        "aplicación (s.m.)"@es-MX,
+        "appli mobile (n.f.)"@fr,
+        "aplicación móbil (n.f.)"@gl,
+        "app (s.f.)"@it,
+        "aplicação móvel (s.f.)"@pt,
+        "aplicação móvel (s.f.)"@pt-BR,
+        "aplicație de mobil (s.f.)"@ro ;
+    skos:prefLabel "aplicació mòbil"@ca,
+        "mobile application"@en,
+        "aplicación"@es,
+        "aplicación"@es-MX,
+        "appli mobile"@fr,
+        "aplicación móbil"@gl,
+        "app"@it,
+        "aplicação móvel"@pt,
+        "aplicação móvel"@pt-BR,
+        "aplicație de mobil"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:apunt a skos:Concept ;
+    skos:altLabel "posting"@en,
+        "contribución"@es,
+        "entrada"@es,
+        "mensaje"@es,
+        "post"@es,
+        "contribución"@es-MX,
+        "entrada"@es-MX,
+        "mensaje"@es-MX,
+        "post"@es-MX,
+        "billet"@fr,
+        "publication"@fr,
+        "post"@gl,
+        "publicación"@gl,
+        "post"@pt,
+        "publicação"@pt,
+        "post"@pt-BR,
+        "postagem"@pt-BR,
+        "contribuție"@ro,
+        "postare"@ro,
+        "publicație"@ro ;
+    skos:definition "Publicació en forma de text feta en una xarxa social, un fòrum o un blog."@ca ;
+    skos:note "apunt (n.m.)"@ca,
+        "post (n.)"@en,
+        "artículo (s.m.)"@es,
+        "artículo (s.m.)"@es-MX,
+        "article (n.m.)"@fr,
+        "apuntamento (n.m.)"@gl,
+        "post (s.m.)"@it,
+        "artigo (s.m.)"@pt,
+        "artigo (s.m.)"@pt-BR,
+        "comentariu (s.n.)"@ro ;
+    skos:prefLabel "apunt"@ca,
+        "post"@en,
+        "artículo"@es,
+        "artículo"@es-MX,
+        "article"@fr,
+        "apuntamento"@gl,
+        "post"@it,
+        "artigo"@pt,
+        "artigo"@pt-BR,
+        "comentariu"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:arxiu_digital a skos:Concept ;
+    skos:definition "Contingut que una persona ha generat o de què ha disposat en els entorns digitals, especialment a les xarxes socials."@ca ;
+    skos:note "arxiu digital (n.m.)"@ca,
+        "digital archive (n.)"@en,
+        "archivo digital (s.m.)"@es,
+        "archivo digital (s.m.)"@es-MX,
+        "archive numérique (n.f.)"@fr,
+        "arquivo dixital (n.m.)"@gl,
+        "arquivo digital (s.m.)"@pt,
+        "arquivo digital (s.m.)"@pt-BR,
+        "arhivă digitală (s.f.)"@ro ;
+    skos:prefLabel "arxiu digital"@ca,
+        "digital archive"@en,
+        "archivo digital"@es,
+        "archivo digital"@es-MX,
+        "archive numérique"@fr,
+        "arquivo dixital"@gl,
+        "arquivo digital"@pt,
+        "arquivo digital"@pt-BR,
+        "arhivă digitală"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:autofoto a skos:Concept ;
+    skos:altLabel "selfie"@en,
+        "autorretrato"@es,
+        "autorretrato"@es-MX,
+        "égoportrait"@fr,
+        "selfie"@it ;
+    skos:definition "Fotografia que es fa un mateix, sol o acompanyat d'altres persones, habitualment amb un telèfon mòbil, una tauleta o una càmera web, amb la finalitat de publicar-la en una xarxa social."@ca ;
+    skos:note "autofoto (n.f.)"@ca,
+        "self-portrait (n.)"@en,
+        "autofoto (s.f.)"@es,
+        "autofoto (s.f.)"@es-MX,
+        "autophoto (n.f.)"@fr,
+        "autofoto (n.f.)"@gl,
+        "self portrait (s.m.)"@it,
+        "selfie (s.f.)"@pt,
+        "selfie (s.f.)"@pt-BR,
+        "selfie (s.n.)"@ro ;
+    skos:prefLabel "autofoto"@ca,
+        "self-portrait"@en,
+        "autofoto"@es,
+        "autofoto"@es-MX,
+        "autophoto"@fr,
+        "autofoto"@gl,
+        "self portrait"@it,
+        "selfie"@pt,
+        "selfie"@pt-BR,
+        "selfie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:avatar a skos:Concept ;
+    skos:definition "Personatge virtual o imatge escollits per un usuari d'una xarxa social perquè el representi en aquesta xarxa."@ca ;
+    skos:note "avatar (n.m.)"@ca,
+        "avatar (n.)"@en,
+        "avatar (s.m.)"@es,
+        "avatar (s.m.)"@es-MX,
+        "avatar (n.m.)"@fr,
+        "avatar (n.m.)"@gl,
+        "avatar (s.m.)"@it,
+        "avatar (s.m.)"@pt,
+        "avatar (s.m.)"@pt-BR,
+        "avatar (s.n.)"@ro ;
+    skos:prefLabel "avatar"@ca,
+        "avatar"@en,
+        "avatar"@es,
+        "avatar"@es-MX,
+        "avatar"@fr,
+        "avatar"@gl,
+        "avatar"@it,
+        "avatar"@pt,
+        "avatar"@pt-BR,
+        "avatar"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:big_data a skos:Concept ;
+    skos:altLabel "dades massives"@ca,
+        "massive data"@en,
+        "données volumineuses"@fr,
+        "mégadonnées"@fr,
+        "macrodatos"@gl,
+        "date masive"@ro ;
+    skos:definition "Conjunt de dades que pel seu volum, la seva naturalesa i la velocitat a què han de ser processades ultrapassen la capacitat dels sistemes informàtics habituals."@ca ;
+    skos:note "big data (n.m.)"@ca,
+        "big data (n.)"@en,
+        "macrodatos (s.m.pl.)"@es,
+        "macrodatos (s.m.pl.)"@es-MX,
+        "données massives (n.f.pl.)"@fr,
+        "datos masivos (n.m.pl.)"@gl,
+        "dados massivos (s.f.pl.)"@pt,
+        "dados massivos (s.f.pl.)"@pt-BR,
+        "big data (s.n.)"@ro ;
+    skos:prefLabel "big data"@ca,
+        "big data"@en,
+        "macrodatos"@es,
+        "macrodatos"@es-MX,
+        "données massives"@fr,
+        "datos masivos"@gl,
+        "dados massivos"@pt,
+        "dados massivos"@pt-BR,
+        "big data"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:bio a skos:Concept ;
+    skos:altLabel "biografía"@es,
+        "información de usuario"@es,
+        "biodatos"@es-MX,
+        "biografía"@es-MX,
+        "información de usuario"@es-MX,
+        "biographie"@fr,
+        "biografie"@ro,
+        "date utilizator"@ro ;
+    skos:definition "Text breu que un usuari d'algunes xarxes socials redacta a la part inicial del seu perfil per a presentar-se."@ca ;
+    skos:note "bio (n.f.)"@ca,
+        "bio (n.)"@en,
+        "bio (s.f.)"@es,
+        "bio (s.f.)"@es-MX,
+        "bio (n.f.)"@fr,
+        "biografia (n.f.)"@gl,
+        "bio (s.f.)"@it,
+        "biografia (s.f.)"@pt,
+        "bio (s.f.)"@pt-BR,
+        "bio (s.f.)"@ro ;
+    skos:prefLabel "bio"@ca,
+        "bio"@en,
+        "bio"@es,
+        "bio"@es-MX,
+        "bio"@fr,
+        "biografia"@gl,
+        "bio"@it,
+        "biografia"@pt,
+        "bio"@pt-BR,
+        "bio"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:blog a skos:Concept ;
+    skos:altLabel "weblog"@en,
+        "blog"@es,
+        "blog"@es-MX,
+        "weblog"@es-MX,
+        "blog"@gl,
+        "weblog"@ro ;
+    skos:definition "Pàgina web, generalment de caràcter personal i poc institucional, amb una estructura cronològica que s'actualitza regularment i que presenta informació o opinions sobre temes diversos."@ca ;
+    skos:note "blog (n.m.)"@ca,
+        "blog (n.)"@en,
+        "bitácora (s.f.)"@es,
+        "bitácora (s.f.)"@es-MX,
+        "blogue (n.m.)"@fr,
+        "bitácora (n.f.)"@gl,
+        "blog (s.m.)"@it,
+        "blogue (s.m.)"@pt,
+        "blog (s.m.)"@pt-BR,
+        "blog (s.n.)"@ro ;
+    skos:prefLabel "blog"@ca,
+        "blog"@en,
+        "bitácora"@es,
+        "bitácora"@es-MX,
+        "blogue"@fr,
+        "bitácora"@gl,
+        "blog"@it,
+        "blogue"@pt,
+        "blog"@pt-BR,
+        "blog"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:bloguer a skos:Concept ;
+    skos:altLabel "bloguera"@ca,
+        "weblogger"@en,
+        "bloguera"@es,
+        "bloguero"@es,
+        "bloggera"@es-MX,
+        "bloggero"@es-MX,
+        "bloguera"@es-MX,
+        "bloguero"@es-MX,
+        "blogueuse"@fr,
+        "blogueira"@gl,
+        "blogueira"@pt-BR,
+        "bloggeriță"@ro ;
+    skos:definition "Persona que gestiona un blog o que és aficionada a navegar per aquest tipus de pàgines web."@ca ;
+    skos:note "bloguer (n.m.)"@ca,
+        "blogger (n.)"@en,
+        "blogger (s.m., f.)"@es,
+        "blogger (s.m., f.)"@es-MX,
+        "blogueur (n.m.)"@fr,
+        "blogueiro (n.m.)"@gl,
+        "blogger (s.m., f.)"@it,
+        "bloguista (s.m., f.)"@pt,
+        "blogueiro (s.m.)"@pt-BR,
+        "blogger (s.m.)"@ro ;
+    skos:prefLabel "bloguer"@ca,
+        "blogger"@en,
+        "blogger"@es,
+        "blogger"@es-MX,
+        "blogueur"@fr,
+        "blogueiro"@gl,
+        "blogger"@it,
+        "bloguista"@pt,
+        "blogueiro"@pt-BR,
+        "blogger"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:canal_de_continguts a skos:Concept ;
+    skos:altLabel "fil de continguts"@ca,
+        "news feed"@en,
+        "syndication feed"@en,
+        "web feed"@en,
+        "canal de contenidos RSS"@es,
+        "fuente"@es,
+        "fuente web"@es,
+        "canal de contenidos RSS"@es-MX,
+        "fuente"@es-MX,
+        "fuente web"@es-MX,
+        "flux de syndication"@fr,
+        "flusso"@it,
+        "fonte (web)"@pt,
+        "fornecimento (web)"@pt,
+        "flux de știri"@ro ;
+    skos:definition "Fitxer que recull informació resumida sobre les actualitzacions d'un web i hi pot oferir enllaços."@ca ;
+    skos:note "canal de continguts (n.m.)"@ca,
+        "feed (n.)"@en,
+        "canal (s.m.)"@es,
+        "canal (s.m.)"@es-MX,
+        "fil de syndication (n.m.)"@fr,
+        "canle de novas (n.f.)"@gl,
+        "feed (s.m.)"@it,
+        "feed (s.m.)"@pt,
+        "feed (s.m.)"@pt-BR,
+        "feed (s.n.)"@ro ;
+    skos:prefLabel "canal de continguts"@ca,
+        "feed"@en,
+        "canal"@es,
+        "canal"@es-MX,
+        "fil de syndication"@fr,
+        "canle de novas"@gl,
+        "feed"@it,
+        "feed"@pt,
+        "feed"@pt-BR,
+        "feed"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:canal_de_notícies a skos:Concept ;
+    skos:altLabel "últimas noticias"@es,
+        "últimas noticias"@es-MX,
+        "news feed"@it,
+        "feed de notícias"@pt,
+        "feed de notícias"@pt-BR,
+        "flux de știri"@ro ;
+    skos:definition "Canal de continguts específic del Facebook que recull informació sobre les actualitzacions més recents dels contactes d'un usuari i hi ofereix enllaços."@ca ;
+    skos:note "canal de notícies (n.m.)"@ca,
+        "news feed (n.)"@en,
+        "canal de noticias (s.m.)"@es,
+        "canal de noticias (s.m.)"@es-MX,
+        "fil d'actualité (n.m.)"@fr,
+        "novas (n.f.pl.)"@gl,
+        "flusso di notizie (s.m.)"@it,
+        "destaque (s.m.)"@pt,
+        "destaque (s.m.)"@pt-BR,
+        "canal de știri (s.n.)"@ro ;
+    skos:prefLabel "canal de notícies"@ca,
+        "news feed"@en,
+        "canal de noticias"@es,
+        "canal de noticias"@es-MX,
+        "fil d'actualité"@fr,
+        "novas"@gl,
+        "flusso di notizie"@it,
+        "destaque"@pt,
+        "destaque"@pt-BR,
+        "canal de știri"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:canal_web a skos:Concept ;
+    skos:altLabel "push channel"@es,
+        "push channel"@es-MX,
+        "canal web"@ro ;
+    skos:definition "Servei que subministra informació temàtica, actualitzada regularment, per mitjà de correus electrònics que s'envien de manera automàtica pel navegador als internautes que hi estan abonats."@ca ;
+    skos:note "canal web (n.m.)"@ca,
+        "push channel (n.)"@en,
+        "canal web (s.m.)"@es,
+        "canal web (s.m.)"@es-MX,
+        "chaîne Web (n.f.)"@fr,
+        "canle web (n.f.)"@gl,
+        "push channel (s.m.)"@it,
+        "canal de envio (s.m.)"@pt,
+        "push channel (s.m.)"@pt-BR,
+        "canal de promovare (s.n.)"@ro ;
+    skos:prefLabel "canal web"@ca,
+        "push channel"@en,
+        "canal web"@es,
+        "canal web"@es-MX,
+        "chaîne Web"@fr,
+        "canle web"@gl,
+        "push channel"@it,
+        "canal de envio"@pt,
+        "push channel"@pt-BR,
+        "canal de promovare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:cercador a skos:Concept ;
+    skos:altLabel "search engine"@en ;
+    skos:definition "Eina de cerca que en una xarxa social permet a l'usuari de fer consultes a partir d'una o més paraules que apareguin en els continguts indexats en la xarxa, per mitjà d'un llenguatge d'interrogació."@ca ;
+    skos:note "cercador (n.m.)"@ca,
+        "explorer (n.m.)"@en,
+        "buscador (s.m.)"@es,
+        "buscador (s.m.)"@es-MX,
+        "chercheur (n.m.)"@fr,
+        "buscador (n.m.)"@gl,
+        "buscador (s.m.)"@pt,
+        "buscador (s.m.)"@pt-BR,
+        "motor de căutare (s.n.)"@ro ;
+    skos:prefLabel "cercador"@ca,
+        "explorer"@en,
+        "buscador"@es,
+        "buscador"@es-MX,
+        "chercheur"@fr,
+        "buscador"@gl,
+        "buscador"@pt,
+        "buscador"@pt-BR,
+        "motor de căutare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:ciberassetjament a skos:Concept ;
+    skos:altLabel "Internet harassment"@en,
+        "on-line harassment"@en,
+        "ciberacoso"@es,
+        "ciberacoso"@es-MX,
+        "harcèlement en ligne"@fr,
+        "harcèlement électronique"@fr,
+        "ciberperseguição"@pt,
+        "cyberbullying"@pt,
+        "ciberperseguição"@pt-BR,
+        "cyberbullying"@pt-BR,
+        "ciberbullying"@ro,
+        "hărțuire online"@ro ;
+    skos:definition "Assetjament que es produeix a través d'internet, especialment per mitjà de les xarxes socials i de les aplicacions mòbils."@ca ;
+    skos:note "ciberassetjament (n.m.)"@ca,
+        "cyberstalking (n.)"@en,
+        "ciberacoso (s.m.)"@es,
+        "ciberacoso (s.m.)"@es-MX,
+        "cyber-harcèlement (n.m.)"@fr,
+        "assédio virtual (s.m.)"@pt,
+        "assédio virtual (s.m.)"@pt-BR,
+        "bullying (s.n.)"@ro ;
+    skos:prefLabel "ciberassetjament"@ca,
+        "cyberstalking"@en,
+        "ciberacoso"@es,
+        "ciberacoso"@es-MX,
+        "cyber-harcèlement"@fr,
+        "assédio virtual"@pt,
+        "assédio virtual"@pt-BR,
+        "bullying"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:clavar a skos:Concept ;
+    skos:altLabel "punaiser"@fr,
+        "to pin"@it ;
+    skos:definition "Publicar un apunt o una imatge a la plataforma Pinterest."@ca ;
+    skos:note "clavar (v.tr.)"@ca,
+        "pin, to (v.tr.)"@en,
+        "pinear (v.tr.)"@es,
+        "pinear (v.tr.)"@es-MX,
+        "épingler (v.tr.)"@fr,
+        "cravar (v.tr.)"@gl,
+        "appendere (v.tr.)"@it,
+        "pinar (v.tr.)"@pt,
+        "postar pin (v. intr.)"@pt-BR,
+        "a posta un pin (v.intr.)"@ro ;
+    skos:prefLabel "clavar"@ca,
+        "pin, to"@en,
+        "pinear"@es,
+        "pinear"@es-MX,
+        "épingler"@fr,
+        "cravar"@gl,
+        "appendere"@it,
+        "pinar"@pt,
+        "postar pin"@pt-BR,
+        "a posta un pin"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:clicar_m_agrada a skos:Concept ;
+    skos:altLabel "fer clic en m'agrada"@ca,
+        "fer clic sobre m'agrada"@ca,
+        "fer m'agrada"@ca,
+        "fer un m'agrada"@ca,
+        "like, to"@en,
+        "clicar me gusta"@es,
+        "hacer clic en me gusta"@es,
+        "hacer me gusta"@es,
+        "hacer un me gusta"@es,
+        "clicar me gusta"@es-MX,
+        "hacer clic en me gusta"@es-MX,
+        "hacer me gusta"@es-MX,
+        "hacer un me gusta"@es-MX,
+        "faire j'aime"@fr,
+        "premer en gústame"@gl,
+        "dar like"@pt,
+        "dar like"@pt-BR,
+        "aprecia, a"@ro ;
+    skos:definition "Manifestar el suport a un determinat contingut publicat a les xarxes socials clicant sobre la icona específica destinada a aquest fi."@ca ;
+    skos:note "clicar m'agrada (v.intr.)"@ca,
+        "give a like, to (v.intr.)"@en,
+        "clicar en me gusta (v.intr.)"@es,
+        "clicar en me gusta (v.intr.)"@es-MX,
+        "aimer (v.tr.)"@fr,
+        "facer clic en gústame (v.intr.)"@gl,
+        "dar curtida (v.intr.)"@pt,
+        "dar curtida (v.intr.)"@pt-BR,
+        "a da like (v.tr.)"@ro ;
+    skos:prefLabel "clicar m'agrada"@ca,
+        "give a like, to"@en,
+        "clicar en me gusta"@es,
+        "clicar en me gusta"@es-MX,
+        "aimer"@fr,
+        "facer clic en gústame"@gl,
+        "dar curtida"@pt,
+        "dar curtida"@pt-BR,
+        "a da like"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:client a skos:Concept ;
+    skos:altLabel "programa cliente"@es ;
+    skos:definition "Programa informàtic que sol·licita informació, serveis o recursos diversos a un programa servidor."@ca ;
+    skos:note "client (n.m.)"@ca,
+        "client (n.)"@en,
+        "cliente (s.m.)"@es,
+        "cliente (s.m.)"@es-MX,
+        "client (n.m.)"@fr,
+        "cliente (n.m.)"@gl,
+        "client (s.m.)"@it,
+        "client (s.m.)"@pt,
+        "client (s.m.)"@pt-BR,
+        "client (s.m.)"@ro ;
+    skos:prefLabel "client"@ca,
+        "client"@en,
+        "cliente"@es,
+        "cliente"@es-MX,
+        "client"@fr,
+        "cliente"@gl,
+        "client"@it,
+        "client"@pt,
+        "client"@pt-BR,
+        "client"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:client_FTP a skos:Concept ;
+    skos:definition "Programari que permet que un usuari que es connecta a un servidor pugui transferir fitxers."@ca ;
+    skos:note "client FTP (n.m.)"@ca,
+        "FTP client (n.)"@en,
+        "cliente FTP (s.m.)"@es,
+        "cliente FTP (s.m.)"@es-MX,
+        "client FTP (n.m.)"@fr,
+        "cliente FTP (n.m.)"@gl,
+        "client FTP (s.m.)"@it,
+        "cliente FTP (s.m.)"@pt,
+        "cliente FTP (s.m.)"@pt-BR,
+        "client FTP (s.m.)"@ro ;
+    skos:prefLabel "client FTP"@ca,
+        "FTP client"@en,
+        "cliente FTP"@es,
+        "cliente FTP"@es-MX,
+        "client FTP"@fr,
+        "cliente FTP"@gl,
+        "client FTP"@it,
+        "cliente FTP"@pt,
+        "cliente FTP"@pt-BR,
+        "client FTP"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:client_d_aparell_mòbil a skos:Concept ;
+    skos:altLabel "cliente de movilidad"@es-MX,
+        "cliente móvil"@es-MX ;
+    skos:definition "Client instal·lat en un aparell mòbil, com un telèfon o una tauleta, per a connectar-se a una xarxa social aprofitant la seva interfície de programació d'aplicacions."@ca ;
+    skos:note "client d'aparell mòbil (n.m.)"@ca,
+        "mobile client (n.)"@en,
+        "cliente de movilidad (s.m.)"@es,
+        "cliente de dispositivo móvil (s.m.)"@es-MX,
+        "client mobile (n.m.)"@fr,
+        "cliente móbil (n.m.)"@gl,
+        "cliente mobile (s.m.)"@it,
+        "cliente móvel (s.m.)"@pt,
+        "cliente de dispositivo móvel (s.m.)"@pt-BR,
+        "client mobil (s.m.)"@ro ;
+    skos:prefLabel "client d'aparell mòbil"@ca,
+        "mobile client"@en,
+        "cliente de movilidad"@es,
+        "cliente de dispositivo móvil"@es-MX,
+        "client mobile"@fr,
+        "cliente móbil"@gl,
+        "cliente mobile"@it,
+        "cliente móvel"@pt,
+        "cliente de dispositivo móvel"@pt-BR,
+        "client mobil"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:coixinet a skos:Concept ;
+    skos:altLabel "quadradet"@ca,
+        "hash key"@en,
+        "number key"@en,
+        "pound"@en,
+        "pound key"@en,
+        "square"@en,
+        "cuadradillo"@es,
+        "sostenido"@es,
+        "cuadradillo"@es-MX,
+        "sostenido"@es-MX,
+        "tecla #"@es-MX,
+        "tecla de número"@es-MX,
+        "tecla grade"@gl,
+        "sustenido"@pt-BR ;
+    skos:definition "Tecla dels aparells telefònics i d'altres aparells electrònics, amb diverses funcions segons la programació, que s'identifica amb dues ratlles paral·leles verticals o inclinades que s'encreuen amb dues ratlles paral·leles horitzontals."@ca ;
+    skos:note "coixinet (n.m.)"@ca,
+        "hash (n.)"@en,
+        "almohadilla (s.f.)"@es,
+        "almohadilla (s.f.)"@es-MX,
+        "carré (n.m.)"@fr,
+        "tecla cancelo (n.f.)"@gl,
+        "cancelletto (s.m.)"@it,
+        "cardinal (s.m.)"@pt,
+        "jogo da velha (s.m.)"@pt-BR,
+        "hashtag (s.n.)"@ro ;
+    skos:prefLabel "coixinet"@ca,
+        "hash"@en,
+        "almohadilla"@es,
+        "almohadilla"@es-MX,
+        "carré"@fr,
+        "tecla cancelo"@gl,
+        "cancelletto"@it,
+        "cardinal"@pt,
+        "jogo da velha"@pt-BR,
+        "hashtag"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:comentari a skos:Concept ;
+    skos:definition "Text curt que un internauta escriu com a resposta a un apunt, una publicació o un comentari previ que ha llegit en alguna xarxa social."@ca ;
+    skos:note "comentari (n.m.)"@ca,
+        "comment (n.)"@en,
+        "comentario (s.m.)"@es,
+        "comentario (s.m.)"@es-MX,
+        "commentaire (n.m.)"@fr,
+        "comentario (n.m.)"@gl,
+        "commento (s.m.)"@it,
+        "comentário (s.m.)"@pt,
+        "comentário (s.m.)"@pt-BR,
+        "comentariu (s.n.)"@ro ;
+    skos:prefLabel "comentari"@ca,
+        "comment"@en,
+        "comentario"@es,
+        "comentario"@es-MX,
+        "commentaire"@fr,
+        "comentario"@gl,
+        "commento"@it,
+        "comentário"@pt,
+        "comentário"@pt-BR,
+        "comentariu"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:comerç_electrònic a skos:Concept ;
+    skos:altLabel "electronic commerce"@en,
+        "commerce en ligne"@fr,
+        "cybercommerce"@fr,
+        "e-commerce"@pt,
+        "e-commerce"@pt-BR,
+        "e-comerț"@ro,
+        "e-commerce"@ro ;
+    skos:definition "Comerç realitzat a través d'internet o d'altres xarxes informàtiques."@ca ;
+    skos:note "comerç electrònic (n.m.)"@ca,
+        "e-commerce (n.)"@en,
+        "comercio electrónico (s.m.)"@es,
+        "comercio electrónico (s.m.)"@es-MX,
+        "commerce électronique (n.m.)"@fr,
+        "comercio electrónico (n.m.)"@gl,
+        "comércio eletrônico (s.m.)"@pt,
+        "comércio eletrônico (s.m.)"@pt-BR,
+        "comerț electronic (s.n.)"@ro ;
+    skos:prefLabel "comerç electrònic"@ca,
+        "e-commerce"@en,
+        "comercio electrónico"@es,
+        "comercio electrónico"@es-MX,
+        "commerce électronique"@fr,
+        "comercio electrónico"@gl,
+        "comércio eletrônico"@pt,
+        "comércio eletrônico"@pt-BR,
+        "comerț electronic"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:compartir a skos:Concept ;
+    skos:definition "Acció mitjançant la qual es mostra el contingut publicat pels usuaris."@ca ;
+    skos:note "compartir (v.tr.)"@ca,
+        "share, to (v.tr.)"@en,
+        "compartir (v.tr.)"@es,
+        "compartir (v.tr.)"@es-MX,
+        "partager (v.tr.)"@fr ;
+    skos:prefLabel "compartir"@ca,
+        "share, to"@en,
+        "compartir"@es,
+        "compartir"@es-MX,
+        "partager"@fr ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:compromís a skos:Concept ;
+    skos:altLabel "conexión"@es,
+        "conexión"@es-MX,
+        "taux d'engagement"@fr ;
+    skos:definition "Indicador que permet mesurar l'interès dels usuaris per una publicació."@ca ;
+    skos:note "compromís (n.m.)"@ca,
+        "engagement (n.)"@en,
+        "compromiso (s.m.)"@es,
+        "compromiso (s.m.)"@es-MX,
+        "engagement (n.m.)"@fr,
+        "compromiso (n.m.)"@gl,
+        "engagement (s.m.)"@it,
+        "compromisso (s.m.)"@pt,
+        "engajamento (s.m.)"@pt-BR,
+        "implicare (s.f.)"@ro ;
+    skos:prefLabel "compromís"@ca,
+        "engagement"@en,
+        "compromiso"@es,
+        "compromiso"@es-MX,
+        "engagement"@fr,
+        "compromiso"@gl,
+        "engagement"@it,
+        "compromisso"@pt,
+        "engajamento"@pt-BR,
+        "implicare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:compte a skos:Concept ;
+    skos:altLabel "compte utilisateur"@fr ;
+    skos:definition "Informació d'una xarxa social a la qual un usuari accedeix mitjançant un nom d'usuari i una contrasenya per gestionar-la de manera personalitzada."@ca ;
+    skos:note "compte (n.m.)"@ca,
+        "account (n.)"@en,
+        "cuenta (s.f.)"@es,
+        "cuenta (s.f.)"@es-MX,
+        "compte (n.m.)"@fr,
+        "conta (n.f.)"@gl,
+        "account (s.m.)"@it,
+        "conta (s.f.)"@pt,
+        "conta (s.f.)"@pt-BR,
+        "cont (s.n.)"@ro ;
+    skos:prefLabel "compte"@ca,
+        "account"@en,
+        "cuenta"@es,
+        "cuenta"@es-MX,
+        "compte"@fr,
+        "conta"@gl,
+        "account"@it,
+        "conta"@pt,
+        "conta"@pt-BR,
+        "cont"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:compte_fals a skos:Concept ;
+    skos:altLabel "faux compte d'utilisateur"@fr,
+        "faux compte utilisateur"@fr,
+        "cont fals"@ro ;
+    skos:definition "Compte d'una xarxa social el titular del qual no és real."@ca ;
+    skos:note "compte fals (n.m.)"@ca,
+        "fake account (n.)"@en,
+        "cuenta falsa (s.f.)"@es,
+        "cuenta falsa (s.f.)"@es-MX,
+        "faux compte (n.m.)"@fr,
+        "conta falsa (n.f.)"@gl,
+        "fakeaccount (s.m.)"@it,
+        "conta falsa (s.f.)"@pt,
+        "conta falsa (s.f.)"@pt-BR,
+        "cont fake (s.n.)"@ro ;
+    skos:prefLabel "compte fals"@ca,
+        "fake account"@en,
+        "cuenta falsa"@es,
+        "cuenta falsa"@es-MX,
+        "faux compte"@fr,
+        "conta falsa"@gl,
+        "fakeaccount"@it,
+        "conta falsa"@pt,
+        "conta falsa"@pt-BR,
+        "cont fake"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:compte_verificat a skos:Concept ;
+    skos:definition "Compte que s'ha confirmat com a autèntic, especialment al Twitter."@ca ;
+    skos:note "compte verificat (n.m.)"@ca,
+        "verified account (n.)"@en,
+        "cuenta verificada (s.f.)"@es,
+        "cuenta verificada (s.f.)"@es-MX,
+        "compte certifié (n.m.)"@fr,
+        "conta verificada (n.f.)"@gl,
+        "account verificato (s.m.)"@it,
+        "conta verificada (s.f.)"@pt,
+        "conta verificada (s.f.)"@pt-BR,
+        "cont verificat (s.n.)"@ro ;
+    skos:prefLabel "compte verificat"@ca,
+        "verified account"@en,
+        "cuenta verificada"@es,
+        "cuenta verificada"@es-MX,
+        "compte certifié"@fr,
+        "conta verificada"@gl,
+        "account verificato"@it,
+        "conta verificada"@pt,
+        "conta verificada"@pt-BR,
+        "cont verificat"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:comunitat_virtual a skos:Concept ;
+    skos:altLabel "comunidade virtual"@pt,
+        "comunidade virtual"@pt-BR ;
+    skos:definition "Conjunt d'internautes que comparteixen interessos i sobre els quals intercanvien opinions i comentaris per mitjà d'una xarxa telemàtica, generalment internet."@ca ;
+    skos:note "comunitat virtual (n.f.)"@ca,
+        "virtual community (n.)"@en,
+        "comunidad virtual (s.f.)"@es,
+        "comunidad virtual (s.f.)"@es-MX,
+        "communauté virtuelle (n.f.)"@fr,
+        "comunidade virtual (n.f.)"@gl,
+        "comunità virtuale (s.f.)"@it,
+        "cibercomunidade (s.f.)"@pt,
+        "cibercomunidade (s.f.)"@pt-BR,
+        "comunitate virtuală (s.f.)"@ro ;
+    skos:prefLabel "comunitat virtual"@ca,
+        "virtual community"@en,
+        "comunidad virtual"@es,
+        "comunidad virtual"@es-MX,
+        "communauté virtuelle"@fr,
+        "comunidade virtual"@gl,
+        "comunità virtuale"@it,
+        "cibercomunidade"@pt,
+        "cibercomunidade"@pt-BR,
+        "comunitate virtuală"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:configuració a skos:Concept ;
+    skos:altLabel "settings"@en,
+        "configuración"@gl,
+        "settings"@ro,
+        "setări"@ro ;
+    skos:definition "Adaptació d'una aplicació de programari o d'un component de maquinari als altres elements d'un sistema informàtic o a les necessitats d'un usuari."@ca ;
+    skos:note "configuració (n.f.)"@ca,
+        "configuration (n.)"@en,
+        "configuración (s.f.)"@es,
+        "configuración (s.f.)"@es-MX,
+        "configuration (n.f.)"@fr,
+        "axustes (n.m.pl.)"@gl,
+        "configurazione (s.f.)"@it,
+        "configuração (s.f.)"@pt,
+        "configuração (s.f.)"@pt-BR,
+        "configurare (s.f.)"@ro ;
+    skos:prefLabel "configuració"@ca,
+        "configuration"@en,
+        "configuración"@es,
+        "configuración"@es-MX,
+        "configuration"@fr,
+        "axustes"@gl,
+        "configurazione"@it,
+        "configuração"@pt,
+        "configuração"@pt-BR,
+        "configurare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:connector a skos:Concept ;
+    skos:altLabel "plug-in"@es,
+        "plug-in"@es-MX,
+        "programa plugin"@es-MX,
+        "plugiciel"@fr,
+        "plug-in"@gl,
+        "plug-in"@pt,
+        "plug-in"@pt-BR,
+        "plug-in"@ro ;
+    skos:definition "Programa d'execució senzilla i opcional que vincula dos programes o dues aplicacions independents perquè es complementin."@ca ;
+    skos:note "connector (n.m.)"@ca,
+        "plug-in (n.)"@en,
+        "conector (s.m.)"@es,
+        "conector (s.m.)"@es-MX,
+        "module d'extension (n.m.)"@fr,
+        "complemento (n.m.)"@gl,
+        "plug-in (s.m.)"@it,
+        "módulo de extensão (s.m.)"@pt,
+        "módulo de extensão (s.m.)"@pt-BR,
+        "extensie (s.f.)"@ro ;
+    skos:prefLabel "connector"@ca,
+        "plug-in"@en,
+        "conector"@es,
+        "conector"@es-MX,
+        "module d'extension"@fr,
+        "complemento"@gl,
+        "plug-in"@it,
+        "módulo de extensão"@pt,
+        "módulo de extensão"@pt-BR,
+        "extensie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:contacte a skos:Concept ;
+    skos:altLabel "contacto"@pt-BR ;
+    skos:definition "Usuari d'una xarxa social amb qui un altre usuari ha establert algun tipus de relació."@ca ;
+    skos:note "contacte (n.m.)"@ca,
+        "contact (n.)"@en,
+        "contacto (s.m.)"@es,
+        "contacto (s.m.)"@es-MX,
+        "contact (n.m.)"@fr,
+        "contacto (n.m.)"@gl,
+        "contatto (s.m.)"@it,
+        "contacto (s.m.)"@pt,
+        "amigo (s.m.)"@pt-BR,
+        "contact (s.n.)"@ro ;
+    skos:prefLabel "contacte"@ca,
+        "contact"@en,
+        "contacto"@es,
+        "contacto"@es-MX,
+        "contact"@fr,
+        "contacto"@gl,
+        "contatto"@it,
+        "contacto"@pt,
+        "amigo"@pt-BR,
+        "contact"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:contingut_brossa a skos:Concept ;
+    skos:altLabel "spam"@es,
+        "correo non desexado"@gl,
+        "lixo"@gl,
+        "mensagem indesejada"@pt-BR,
+        "spam"@pt-BR,
+        "spam"@ro ;
+    skos:definition "Contingut importú, generalment de caràcter publicitari i sense interès per al receptor, que s'envia indiscriminadament a un gran nombre d'internautes per correu electrònic o a través d'una xarxa social."@ca ;
+    skos:note "contingut brossa (n.m.)"@ca,
+        "spam (n.)"@en,
+        "contenido no deseado (s.m.)"@es,
+        "spam (s.m.)"@es-MX,
+        "pourriel (n.m.)"@fr,
+        "correo lixo (n.m.)"@gl,
+        "spam (s.m.)"@it,
+        "spam (s.m.)"@pt,
+        "conteúdo indesejado (s.m.)"@pt-BR,
+        "mesaj nedorit (s.n.)"@ro ;
+    skos:prefLabel "contingut brossa"@ca,
+        "spam"@en,
+        "contenido no deseado"@es,
+        "spam"@es-MX,
+        "pourriel"@fr,
+        "correo lixo"@gl,
+        "spam"@it,
+        "spam"@pt,
+        "conteúdo indesejado"@pt-BR,
+        "mesaj nedorit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:contrasenya a skos:Concept ;
+    skos:altLabel "access key"@en,
+        "password"@en,
+        "palavra-passe"@pt ;
+    skos:definition "Codi secret utilitzat per a restringir l'accés a un dispositiu, un sistema informàtic, una pàgina web, etc. als usuaris autoritzats."@ca ;
+    skos:note "contrasenya (n.f.)"@ca,
+        "access code (n.)"@en,
+        "contraseña (s.f.)"@es,
+        "contraseña (s.f.)"@es-MX,
+        "mot de passe (n.m.)"@fr,
+        "contrasinal (n.m.)"@gl,
+        "password (s.m.)"@it,
+        "código de acesso (s.m.)"@pt,
+        "senha (s.f.)"@pt-BR,
+        "parolă (s.f.)"@ro ;
+    skos:prefLabel "contrasenya"@ca,
+        "access code"@en,
+        "contraseña"@es,
+        "contraseña"@es-MX,
+        "mot de passe"@fr,
+        "contrasinal"@gl,
+        "password"@it,
+        "código de acesso"@pt,
+        "senha"@pt-BR,
+        "parolă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:correu_electrònic a skos:Concept ;
+    skos:altLabel "missatge electrònic"@ca,
+        "electronic message"@en,
+        "email"@es,
+        "email"@es-MX,
+        "message électronique"@fr,
+        "mensaxe electrónica"@gl,
+        "mail"@it,
+        "posta elettronica"@it,
+        "email"@pt,
+        "poștă electronică"@ro ;
+    skos:definition "Missatge que es transmet d'una bústia electrònica a una altra."@ca ;
+    skos:note "correu electrònic (n.m.)"@ca,
+        "electronic mail (n.)"@en,
+        "correo electrónico (s.m.)"@es,
+        "correo electrónico (s.m.)"@es-MX,
+        "courriel (n.m.)"@fr,
+        "correo electrónico (n.m.)"@gl,
+        "e-mail (s.f.)"@it,
+        "correio eletrónico (s.m.)"@pt,
+        "e-mail (s.m.)"@pt-BR,
+        "email (s.n.)"@ro ;
+    skos:prefLabel "correu electrònic"@ca,
+        "electronic mail"@en,
+        "correo electrónico"@es,
+        "correo electrónico"@es-MX,
+        "courriel"@fr,
+        "correo electrónico"@gl,
+        "e-mail"@it,
+        "correio eletrónico"@pt,
+        "e-mail"@pt-BR,
+        "email"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:crida_a_l_acció a skos:Concept ;
+    skos:altLabel "CTA"@ca,
+        "CTA"@en,
+        "CTA"@es,
+        "CTA"@es-MX,
+        "CTA"@fr,
+        "incitation à l'action"@fr,
+        "CTA"@gl,
+        "CTA"@pt,
+        "CTA"@pt-BR ;
+    skos:definition "Missatge contingut en un element gràfic d'una pàgina web o d'altres aplicacions digitals, generalment un bàner o un botó, que incita a fer-hi clic, amb l'objectiu de redirigir el visitant a un contingut determinat."@ca ;
+    skos:note "crida a l'acció (n.f.)"@ca,
+        "call to action (n.)"@en,
+        "llamada a la acción (s.f.)"@es,
+        "llamada a la acción (s.f.)"@es-MX,
+        "appel à l'action (n.m.)"@fr,
+        "chamada á ácción (n.f.)"@gl,
+        "chamada para ação (s.f.)"@pt,
+        "chamada para ação (s.f.)"@pt-BR,
+        "inițiativă cetățenească (s.f.)"@ro ;
+    skos:prefLabel "crida a l'acció"@ca,
+        "call to action"@en,
+        "llamada a la acción"@es,
+        "llamada a la acción"@es-MX,
+        "appel à l'action"@fr,
+        "chamada á ácción"@gl,
+        "chamada para ação"@pt,
+        "chamada para ação"@pt-BR,
+        "inițiativă cetățenească"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:cronologia a skos:Concept ;
+    skos:altLabel "línea de tiempo de la red social"@es-MX,
+        "timeline"@pt-BR ;
+    skos:definition "Llista de tots els apunts o comentaris d'un usuari al Facebook ordenats cronològicament des del més recent fins al més antic, a partir de la data d'alta."@ca,
+        "Pàgina d'inici del Twitter en la qual es visualitzen totes les piulades en temps real dels usuaris seguits."@ca ;
+    skos:note "cronologia (n.f.)"@ca,
+        "timeline (n.)"@en,
+        "cronología (s.f.)"@es,
+        "cronología (s.f.)"@es-MX,
+        "fil d'actualités (n.m.)"@fr,
+        "cronoloxía (n.f.)"@gl,
+        "cronologia (s.f.)"@it,
+        "cronologia (s.f.)"@pt,
+        "linha do tempo (s.f.)"@pt-BR,
+        "timeline (s.f.)"@pt-BR,
+        "cronologie (s.f.)"@ro,
+        "istoric (s.n.)"@ro ;
+    skos:prefLabel "cronologia"@ca,
+        "timeline"@en,
+        "cronología"@es,
+        "cronología"@es-MX,
+        "fil d'actualités"@fr,
+        "cronoloxía"@gl,
+        "cronologia"@it,
+        "cronologia"@pt,
+        "linha do tempo"@pt-BR,
+        "timeline"@pt-BR,
+        "cronologie"@ro,
+        "istoric"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:cura_de_continguts a skos:Concept ;
+    skos:altLabel "digital curation"@en,
+        "curación de contenidos"@es,
+        "curaduría de contenidos"@es,
+        "curación de contenidos"@es-MX,
+        "curaduría de contenidos"@es-MX,
+        "organisation de contenu"@fr,
+        "organizare de conținut"@ro ;
+    skos:definition "Tasca de buscar, seleccionar, organitzar i compartir informació en línia que pugui ser rellevant per a una comunitat virtual determinada."@ca ;
+    skos:note "cura de continguts (n.f.)"@ca,
+        "content curation (n.)"@en,
+        "content curation (s.f.)"@es,
+        "content curation (s.f.)"@es-MX,
+        "édition de contenu (n.f.)"@fr,
+        "curadoria de conteúdos (s.f.)"@pt,
+        "curadoria de conteúdos (s.f.)"@pt-BR,
+        "editare de conținut (s.f.)"@ro ;
+    skos:prefLabel "cura de continguts"@ca,
+        "content curation"@en,
+        "content curation"@es,
+        "content curation"@es-MX,
+        "édition de contenu"@fr,
+        "curadoria de conteúdos"@pt,
+        "curadoria de conteúdos"@pt-BR,
+        "editare de conținut"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:curador_de_continguts a skos:Concept ;
+    skos:altLabel "curadora de continguts"@ca,
+        "gestora de contenidos"@es,
+        "responsable de contenidos"@es,
+        "gestora de contenidos"@es-MX,
+        "responsable de contenidos"@es-MX,
+        "organisateur de contenu"@fr,
+        "organisatrice de contenu"@fr,
+        "éditrice de contenu"@fr,
+        "xestor de contidos"@gl,
+        "xestora de contidos"@gl,
+        "curatore di contenuti"@it,
+        "curatrice di contenuti"@it,
+        "gestora de conteúdos"@pt,
+        "responsável de conteúdos"@pt,
+        "administradora"@pt-BR,
+        "moderador"@pt-BR,
+        "moderadora"@pt-BR ;
+    skos:definition "Persona encarregada de buscar, seleccionar, organitzar i compartir informació en una comunitat virtual."@ca ;
+    skos:note "curador de continguts (n.m.)"@ca,
+        "content curator (n.)"@en,
+        "gestor de contenidos (s.m.)"@es,
+        "gestor de contenidos (s.m.)"@es-MX,
+        "éditeur de contenu (n.m.)"@fr,
+        "responsable de contidos (n.m., f.)"@gl,
+        "content curator (s.m., f.)"@it,
+        "gestor de conteúdos (s.m.)"@pt,
+        "administrador (s.m.)"@pt-BR,
+        "manager de conținut (s.m.)"@ro ;
+    skos:prefLabel "curador de continguts"@ca,
+        "content curator"@en,
+        "gestor de contenidos"@es,
+        "gestor de contenidos"@es-MX,
+        "éditeur de contenu"@fr,
+        "responsable de contidos"@gl,
+        "content curator"@it,
+        "gestor de conteúdos"@pt,
+        "administrador"@pt-BR,
+        "manager de conținut"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:de_semipagament a skos:Concept ;
+    skos:altLabel "pagratis"@gl ;
+    skos:definition "Dit del model de negoci en línia que ofereix alguns serveis bàsics gratuïts i alguns serveis més avançats de pagament."@ca ;
+    skos:note "de semipagament (adj.)"@ca,
+        "freemium (adj.)"@en,
+        "de semipago (adj.)"@es,
+        "de semipago (adj.)"@es-MX,
+        "semi-payant (adj.)"@fr,
+        "de semipagamento (adj.)"@gl,
+        "freemium (adj.)"@pt,
+        "freemium (adj.)"@pt-BR,
+        "freemium (adj.)"@ro ;
+    skos:prefLabel "de semipagament"@ca,
+        "freemium"@en,
+        "de semipago"@es,
+        "de semipago"@es-MX,
+        "semi-payant"@fr,
+        "de semipagamento"@gl,
+        "freemium"@pt,
+        "freemium"@pt-BR,
+        "freemium"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:deixar_de_seguir a skos:Concept ;
+    skos:altLabel "renunța, a"@ro ;
+    skos:definition "Cancel·lar, un usuari d'una xarxa social, la subscripció que li permetia rebre totes les publicacions d'un altre usuari."@ca ;
+    skos:note "deixar de seguir (v.tr.)"@ca,
+        "unfollow, to (v.tr.)"@en,
+        "dejar de seguir (v.tr.)"@es,
+        "dejar de seguir (v.tr.)"@es-MX,
+        "désabonner, se (v.prep.pron.)"@fr,
+        "deixar de seguir (v.tr.)"@gl,
+        "smettere di seguire (v.tr.)"@it,
+        "deixar de seguir (v.tr.)"@pt,
+        "deixar de seguir (v.tr.)"@pt-BR,
+        "dezabona, a se (v.pros.)"@ro ;
+    skos:prefLabel "deixar de seguir"@ca,
+        "unfollow, to"@en,
+        "dejar de seguir"@es,
+        "dejar de seguir"@es-MX,
+        "désabonner, se"@fr,
+        "deixar de seguir"@gl,
+        "smettere di seguire"@it,
+        "deixar de seguir"@pt,
+        "deixar de seguir"@pt-BR,
+        "dezabona, a se"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:destacats a skos:Concept ;
+    skos:definition "Secció del perfil d'Instagram d'un usuari que agrupa les històries destacades."@ca ;
+    skos:note "destacats (n.m.pl.)"@ca,
+        "highlights (n.pl.)"@en,
+        "destacados (s.m.pl.)"@es,
+        "destacados (s.m.pl.)"@es-MX,
+        "povești evidențiate (s.f.pl.)"@ro ;
+    skos:prefLabel "destacats"@ca,
+        "highlights"@en,
+        "destacados"@es,
+        "destacados"@es-MX,
+        "povești evidențiate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:difusió_web a skos:Concept ;
+    skos:altLabel "difusión web"@es-MX,
+        "webdiffusion"@fr ;
+    skos:definition "Difusió, per mitjà d'internet, d'informació seleccionada prèviament per un servidor i distribuïda als internautes abonats a un canal web sense que l'hagin sol·licitada."@ca ;
+    skos:note "difusió web (n.f.)"@ca,
+        "webcasting (n.)"@en,
+        "difusión web (s.f.)"@es,
+        "difusión por la red (s.m.)"@es-MX,
+        "diffusion Web (n.f.)"@fr,
+        "difusión vía web (n.f.)"@gl,
+        "webcasting (s.m.)"@it,
+        "difusão web (s.f.)"@pt,
+        "difusão pela internet (s.f.)"@pt-BR,
+        "difuzare pe internet (s.f.)"@ro ;
+    skos:prefLabel "difusió web"@ca,
+        "webcasting"@en,
+        "difusión web"@es,
+        "difusión por la red"@es-MX,
+        "diffusion Web"@fr,
+        "difusión vía web"@gl,
+        "webcasting"@it,
+        "difusão web"@pt,
+        "difusão pela internet"@pt-BR,
+        "difuzare pe internet"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:dret_a_l_oblit_digital a skos:Concept ;
+    skos:altLabel "right to be forgotten from internet searches"@en,
+        "direito ao esquecimento na internet"@pt,
+        "direito ao esquecimento na internet"@pt-BR ;
+    skos:definition "Dret d'una persona a exigir la retirada d'informació sobre la seva vida publicada a internet si demostra que li és perjudicial o ja no és pertinent."@ca ;
+    skos:note "dret a l'oblit digital (n.m.)"@ca,
+        "right to be forgotten (n.)"@en,
+        "derecho al olvido digital (s.m.)"@es,
+        "derecho al olvido digital (s.m.)"@es-MX,
+        "droit à l'oubli numérique (n.m.)"@fr,
+        "dereito ao esquecemento dixital (n.m.)"@gl,
+        "direito ao esquecimento digital (s.m.)"@pt,
+        "direito ao esquecimento digital (s.m.)"@pt-BR,
+        "dreptul la uitare (s.n.)"@ro ;
+    skos:prefLabel "dret a l'oblit digital"@ca,
+        "right to be forgotten"@en,
+        "derecho al olvido digital"@es,
+        "derecho al olvido digital"@es-MX,
+        "droit à l'oubli numérique"@fr,
+        "dereito ao esquecemento dixital"@gl,
+        "direito ao esquecimento digital"@pt,
+        "direito ao esquecimento digital"@pt-BR,
+        "dreptul la uitare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:duet a skos:Concept ;
+    skos:altLabel "dúo"@es,
+        "dúo"@es-MX,
+        "dúo"@gl ;
+    skos:definition "Format de publicació a TikTok en què la pantalla es divideix en dues parts i permet visualitzar dos vídeos diferents."@ca ;
+    skos:note "duet (n.m.)"@ca,
+        "duet (n.)"@en,
+        "dueto (s.m.)"@es,
+        "dueto (s.m.)"@es-MX,
+        "duo (n.m.)"@fr,
+        "dueto (n.m.)"@gl,
+        "dueto (s.m.)"@pt,
+        "dueto (s.m.)"@pt-BR,
+        "duet (s.n.)"@ro ;
+    skos:prefLabel "duet"@ca,
+        "duet"@en,
+        "dueto"@es,
+        "dueto"@es-MX,
+        "duo"@fr,
+        "dueto"@gl,
+        "dueto"@pt,
+        "dueto"@pt-BR,
+        "duet"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:eina a skos:Concept ;
+    skos:altLabel "ferramenta"@ca,
+        "tool"@it ;
+    skos:definition "Utilitat o funció que facilita la realització d'una tasca o d'un conjunt de tasques en un sistema informàtic."@ca ;
+    skos:note "eina (n.f.)"@ca,
+        "tool (n.)"@en,
+        "herramienta (s.f.)"@es,
+        "herramienta (s.f.)"@es-MX,
+        "outil (n.m.)"@fr,
+        "ferramenta (n.f.)"@gl,
+        "strumento (s.m.)"@it,
+        "ferramenta (s.f.)"@pt,
+        "ferramenta (s.f.)"@pt-BR,
+        "instrument (s.n.)"@ro ;
+    skos:prefLabel "eina"@ca,
+        "tool"@en,
+        "herramienta"@es,
+        "herramienta"@es-MX,
+        "outil"@fr,
+        "ferramenta"@gl,
+        "strumento"@it,
+        "ferramenta"@pt,
+        "ferramenta"@pt-BR,
+        "instrument"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:emoticona a skos:Concept ;
+    skos:altLabel "smiley"@en,
+        "emoticône"@fr,
+        "frimousse"@fr,
+        "emoticona"@gl ;
+    skos:definition "Icona que es fa servir en les xarxes socials per a expressar emocions i sensacions."@ca ;
+    skos:note "emoticona (n.f.)"@ca,
+        "emoticon (n.)"@en,
+        "emoticono (s.m.)"@es,
+        "emoticono (s.m.)"@es-MX,
+        "binete (n.f.)"@fr,
+        "cariña (n.f.)"@gl,
+        "emoticon (s.f.)"@pt,
+        "emoticon (s.f.)"@pt-BR,
+        "emoticon (s.n.)"@ro ;
+    skos:prefLabel "emoticona"@ca,
+        "emoticon"@en,
+        "emoticono"@es,
+        "emoticono"@es-MX,
+        "binete"@fr,
+        "cariña"@gl,
+        "emoticon"@pt,
+        "emoticon"@pt-BR,
+        "emoticon"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:emoticona_gràfica a skos:Concept ;
+    skos:altLabel "emoji"@ca,
+        "graphic emoticon"@en,
+        "graphical emoticon"@en,
+        "emoticona gráfica"@es,
+        "emoticona gráfica"@es-MX,
+        "emoticône graphique"@fr,
+        "icon grafic"@ro ;
+    skos:definition "Emoticona en format d'imatge."@ca ;
+    skos:note "emoticona gràfica (n.f.)"@ca,
+        "emoji (n.)"@en,
+        "emoji (s.m.)"@es,
+        "emoji (s.m.)"@es-MX,
+        "emoji (n.m.)"@fr,
+        "emoji (n.m.)"@gl,
+        "emoji (s.m.)"@pt,
+        "emoji (s.m.)"@pt-BR,
+        "emoji (s.n.)"@ro ;
+    skos:prefLabel "emoticona gràfica"@ca,
+        "emoji"@en,
+        "emoji"@es,
+        "emoji"@es-MX,
+        "emoji"@fr,
+        "emoji"@gl,
+        "emoji"@pt,
+        "emoji"@pt-BR,
+        "emoji"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:enemic a skos:Concept ;
+    skos:altLabel "enemiga"@ca,
+        "odiador"@ca,
+        "odiadora"@ca,
+        "seguidor hostil"@ca,
+        "seguidora hostil"@ca,
+        "enemiga"@es,
+        "odiador"@es,
+        "odiadora"@es,
+        "enemiga"@es-MX,
+        "odiador"@es-MX,
+        "odiadora"@es-MX,
+        "odiadora"@gl,
+        "xenreirenta"@gl,
+        "xenreirento"@gl ;
+    skos:definition "Usuari que mostra contínuament odi o rancor cap a altres usuaris."@ca ;
+    skos:note "enemic (n.m.)"@ca,
+        "hater (n.)"@en,
+        "enemigo (s.m.)"@es,
+        "enemigo (s.m.)"@es-MX,
+        "odiador (n.m.)"@gl,
+        "hater (s.m., f.)"@pt,
+        "hater (s.m., f.)"@pt-BR,
+        "hater (s.m.)"@ro ;
+    skos:prefLabel "enemic"@ca,
+        "hater"@en,
+        "enemigo"@es,
+        "enemigo"@es-MX,
+        "odiador"@gl,
+        "hater"@pt,
+        "hater"@pt-BR,
+        "hater"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:entorn_de_xarxa_social a skos:Concept ;
+    skos:altLabel "entorno de red social"@es-MX,
+        "environnement de réseautage social en ligne"@fr,
+        "espaço de rede social"@pt,
+        "mediu al rețelelor sociale"@ro ;
+    skos:definition "Espai virtual on els usuaris es comuniquen i intercanvien informació per mitjà d'una xarxa social."@ca ;
+    skos:note "entorn de xarxa social (n.m.)"@ca,
+        "social networking environment (n.)"@en,
+        "entorno de red social (s.m.)"@es,
+        "ambiente de red social (s.m.)"@es-MX,
+        "environnement de réseautage social (n.m.)"@fr,
+        "contorno de rede social (n.m.)"@gl,
+        "ambiente di rete sociale (s.m.)"@it,
+        "ambiente de rede social (s.m.)"@pt,
+        "ambiente de rede social (s.m.)"@pt-BR,
+        "mediu al rețelelor de socializare (s.n.)"@ro ;
+    skos:prefLabel "entorn de xarxa social"@ca,
+        "social networking environment"@en,
+        "entorno de red social"@es,
+        "ambiente de red social"@es-MX,
+        "environnement de réseautage social"@fr,
+        "contorno de rede social"@gl,
+        "ambiente di rete sociale"@it,
+        "ambiente de rede social"@pt,
+        "ambiente de rede social"@pt-BR,
+        "mediu al rețelelor de socializare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:escolta_activa a skos:Concept ;
+    skos:definition "Tècnica de comunicació que consisteix a observar, captar i interpretar el que diu l'audiència sobre un tema, una campanya, una organització, etc."@ca ;
+    skos:note "escolta activa (n.f.)"@ca,
+        "active listening (n.)"@en,
+        "escucha activa (s.f.)"@es,
+        "escucha activa (s.f.)"@es-MX,
+        "écoute active (n.f.)"@fr,
+        "escoita activa (n.f.)"@gl,
+        "monitoramento (s.m.)"@pt,
+        "monitoramento (s.m.)"@pt-BR,
+        "ascultare activă (s.f.)"@ro ;
+    skos:prefLabel "escolta activa"@ca,
+        "active listening"@en,
+        "escucha activa"@es,
+        "escucha activa"@es-MX,
+        "écoute active"@fr,
+        "escoita activa"@gl,
+        "monitoramento"@pt,
+        "monitoramento"@pt-BR,
+        "ascultare activă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:esdeveniment a skos:Concept ;
+    skos:definition "Pàgina del Facebook creada per un amfitrió per a convidar els amics triats a un acte puntual."@ca ;
+    skos:note "esdeveniment (n.m.)"@ca,
+        "event (n.)"@en,
+        "evento (s.m.)"@es,
+        "evento (s.m.)"@es-MX,
+        "évènement (n.m.)"@fr,
+        "evento (n.m.)"@gl,
+        "evento (s.m.)"@it,
+        "evento (s.m.)"@pt,
+        "evento (s.m.)"@pt-BR,
+        "eveniment (s.n.)"@ro ;
+    skos:prefLabel "esdeveniment"@ca,
+        "event"@en,
+        "evento"@es,
+        "evento"@es-MX,
+        "évènement"@fr,
+        "evento"@gl,
+        "evento"@it,
+        "evento"@pt,
+        "evento"@pt-BR,
+        "eveniment"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:etiqueta a skos:Concept ;
+    skos:altLabel "network etiquette"@en,
+        "netiqueta"@es,
+        "etiqueta de la red"@es-MX,
+        "netiqueta"@es-MX,
+        "reglas de etiqueta de la red"@es-MX,
+        "nétiquette"@fr,
+        "hashtag"@it,
+        "tag"@it,
+        "netiqueta"@pt,
+        "tag"@pt,
+        "hashtag"@pt-BR,
+        "marcador"@pt-BR,
+        "netiqueta"@pt-BR,
+        "netiquette"@ro ;
+    skos:definition "Conjunt de caràcters encapçalats d'un símbol de coixinet, sobre el qual es pot fer clic, que serveix per a accedir a un contingut indexat per categories o temes en un microblog o en una xarxa social."@ca,
+        "Conjunt de regles de convivència i de normes de conducta que han de seguir els usuaris d'internet."@ca,
+        "Identificador que permet vincular una imatge, vídeo, enllaç o marcador amb un concepte, usuari, lloc o categoria."@ca ;
+    skos:note "etiqueta (n.f.)"@ca,
+        "hashtag (n.)"@en,
+        "netiquette (n.)"@en,
+        "tag (n.)"@en,
+        "etiqueta (s.f.)"@es,
+        "etiqueta (s.f.)"@es-MX,
+        "mot-clic (n.m.)"@fr,
+        "étiquette (n.f.)"@fr,
+        "étiquette du Net (n.f.)"@fr,
+        "etiqueta (n.f.)"@gl,
+        "etiqueta na rede (n.f.)"@gl,
+        "contrassegno (s.m.)"@it,
+        "etichetta (s.f.)"@it,
+        "netiquette (s.f.)"@it,
+        "etiqueta (s.f.)"@pt,
+        "etiqueta de rede (s.f.)"@pt,
+        "hashtag (s.m.)"@pt,
+        "etiqueta (s.f.)"@pt-BR,
+        "etiqueta de rede (s.f.)"@pt-BR,
+        "etichetă (s.f.)"@ro,
+        "hashtag (s.n.)"@ro,
+        "netichetă (s.f.)"@ro ;
+    skos:prefLabel "etiqueta"@ca,
+        "hashtag"@en,
+        "netiquette"@en,
+        "tag"@en,
+        "etiqueta"@es,
+        "etiqueta"@es-MX,
+        "mot-clic"@fr,
+        "étiquette"@fr,
+        "étiquette du Net"@fr,
+        "etiqueta"@gl,
+        "etiqueta na rede"@gl,
+        "contrassegno"@it,
+        "etichetta"@it,
+        "netiquette"@it,
+        "etiqueta"@pt,
+        "etiqueta de rede"@pt,
+        "hashtag"@pt,
+        "etiqueta"@pt-BR,
+        "etiqueta de rede"@pt-BR,
+        "etichetă"@ro,
+        "hashtag"@ro,
+        "netichetă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:etiquetar a skos:Concept ;
+    skos:altLabel "taggare"@it,
+        "marcar"@pt-BR ;
+    skos:definition "Posar un identificador que permet vincular una imatge, vídeo, enllaç o marcador amb un concepte, usuari, lloc o categoria."@ca ;
+    skos:note "etiquetar (v.tr.)"@ca,
+        "tag, to (v.tr.)"@en,
+        "etiquetar (v.tr.)"@es,
+        "etiquetar (v.tr.)"@es-MX,
+        "étiqueter (v.tr.)"@fr,
+        "etiquetar (v.tr.)"@gl,
+        "contrassegnare (v.tr.)"@it,
+        "identificar (v.tr.)"@pt,
+        "etiquetar (v.tr.)"@pt-BR,
+        "eticheta, a (v.tr.)"@ro ;
+    skos:prefLabel "etiquetar"@ca,
+        "tag, to"@en,
+        "etiquetar"@es,
+        "etiquetar"@es-MX,
+        "étiqueter"@fr,
+        "etiquetar"@gl,
+        "contrassegnare"@it,
+        "identificar"@pt,
+        "etiquetar"@pt-BR,
+        "eticheta, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:etiquetatge a skos:Concept ;
+    skos:altLabel "tagging"@it,
+        "identificação"@pt,
+        "marcação"@pt-BR ;
+    skos:definition "Acció d'etiquetar."@ca ;
+    skos:note "etiquetatge (n.m.)"@ca,
+        "tagging (n.)"@en,
+        "etiquetado (s.m.)"@es,
+        "etiquetado (s.m.)"@es-MX,
+        "étiquetage (n.m.)"@fr,
+        "etiquetaxe (n.f.)"@gl,
+        "etichettatura (s.f.)"@it,
+        "etiquetagem (s.f.)"@pt,
+        "etiquetagem (s.f.)"@pt-BR,
+        "etichetare (s.f.)"@ro ;
+    skos:prefLabel "etiquetatge"@ca,
+        "tagging"@en,
+        "etiquetado"@es,
+        "etiquetado"@es-MX,
+        "étiquetage"@fr,
+        "etiquetaxe"@gl,
+        "etichettatura"@it,
+        "etiquetagem"@pt,
+        "etiquetagem"@pt-BR,
+        "etichetare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:fer_un_apunt a skos:Concept ;
+    skos:altLabel "postear"@es,
+        "publicar"@es,
+        "postear"@es-MX,
+        "publicar"@es-MX,
+        "publicar"@pt,
+        "publicar"@pt-BR,
+        "posta, a"@ro,
+        "publica, a"@ro ;
+    skos:definition "Publicar un apunt en una xarxa social, un fòrum o un blog."@ca ;
+    skos:note "fer un apunt (v.intr.)"@ca,
+        "post, to (v.tr.)"@en,
+        "comentar (v.tr.)"@es,
+        "comentar (v.tr.)"@es-MX,
+        "publier (v.tr.)"@fr,
+        "publicar (v.tr.)"@gl,
+        "postare (v.tr.)"@it,
+        "postar (v.tr.)"@pt,
+        "postar (v.tr.)"@pt-BR,
+        "comenta, a (v.tr.)"@ro ;
+    skos:prefLabel "fer un apunt"@ca,
+        "post, to"@en,
+        "comentar"@es,
+        "comentar"@es-MX,
+        "publier"@fr,
+        "publicar"@gl,
+        "postare"@it,
+        "postar"@pt,
+        "postar"@pt-BR,
+        "comenta, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:fil_de_discussió a skos:Concept ;
+    skos:altLabel "fio de discussão"@pt,
+        "tópico"@pt-BR ;
+    skos:definition "Conjunt de missatges sobre un tema ordenats cronològicament a partir del primer missatge enviat a un grup de discussió."@ca ;
+    skos:note "fil de discussió (n.m.)"@ca,
+        "discussion thread (n.)"@en,
+        "hilo de discusión (s.m.)"@es,
+        "hilo de discusión (s.m.)"@es-MX,
+        "fil de discussion (n.m.)"@fr,
+        "fío de discusión (n.m.)"@gl,
+        "filo di discussione (s.m.)"@it,
+        "cadeia de discussão (s.f.)"@pt,
+        "assunto (s.m.)"@pt-BR,
+        "fir de mesaje (s.n.)"@ro ;
+    skos:prefLabel "fil de discussió"@ca,
+        "discussion thread"@en,
+        "hilo de discusión"@es,
+        "hilo de discusión"@es-MX,
+        "fil de discussion"@fr,
+        "fío de discusión"@gl,
+        "filo di discussione"@it,
+        "cadeia de discussão"@pt,
+        "assunto"@pt-BR,
+        "fir de mesaje"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:fil_de_publicacions a skos:Concept ;
+    skos:altLabel "newsfeed"@en,
+        "fil de publications"@fr,
+        "fonte de noticias"@gl,
+        "fio de notícias"@pt,
+        "thread"@pt,
+        "fio de notícias"@pt-BR,
+        "thread"@pt-BR ;
+    skos:definition "Secció central de la pàgina d'inici d'algunes xarxes socials en què es mostra l'actualització de les publicacions dels usuaris que se segueixen."@ca ;
+    skos:note "fil de publicacions (n.m.)"@ca,
+        "news feed (n.)"@en,
+        "hilo de publicaciones (s.m.)"@es,
+        "hilo de publicaciones (s.m.)"@es-MX,
+        "fil de nouvelles (n.m.)"@fr,
+        "fío de noticias (n.m.)"@gl,
+        "fio (s.m.)"@pt,
+        "fio (s.m.)"@pt-BR,
+        "fir de știri (s.n.)"@ro ;
+    skos:prefLabel "fil de publicacions"@ca,
+        "news feed"@en,
+        "hilo de publicaciones"@es,
+        "hilo de publicaciones"@es-MX,
+        "fil de nouvelles"@fr,
+        "fío de noticias"@gl,
+        "fio"@pt,
+        "fio"@pt-BR,
+        "fir de știri"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:filtre a skos:Concept ;
+    skos:definition "Eina que permet modificar l'aparença global d'una imatge mitjançant l'aplicació d'efectes especials."@ca ;
+    skos:note "filtre (n.m.)"@ca,
+        "filter (n.)"@en,
+        "filtro (s.m.)"@es,
+        "filtro (s.m.)"@es-MX,
+        "filtre (n.m.)"@fr,
+        "filtro (n.m.)"@gl,
+        "filtro (s.m.)"@pt,
+        "filtro (s.m.)"@pt-BR,
+        "filtru (s.n.)"@ro ;
+    skos:prefLabel "filtre"@ca,
+        "filter"@en,
+        "filtro"@es,
+        "filtro"@es-MX,
+        "filtre"@fr,
+        "filtro"@gl,
+        "filtro"@pt,
+        "filtro"@pt-BR,
+        "filtru"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:fòrum a skos:Concept ;
+    skos:altLabel "grup de discussió"@ca,
+        "discussion forum"@en,
+        "discussion group"@en,
+        "forum"@en,
+        "interest group"@en,
+        "newsgroup"@en,
+        "foro de discusión"@es,
+        "grupo de discusión"@es,
+        "grupo de interés"@es,
+        "grupo de noticias"@es,
+        "foro de discusión"@es-MX,
+        "grupo de discusión"@es-MX,
+        "grupo de interés"@es-MX,
+        "grupo de noticias"@es-MX,
+        "forum de discussion"@fr,
+        "groupe de discussion"@fr,
+        "grupo de discusión"@gl,
+        "fórum de discussão"@pt,
+        "grupo de discussão"@pt,
+        "fórum de discussão"@pt-BR,
+        "grupo"@pt-BR,
+        "grupo de interesse"@pt-BR,
+        "forum de discuții"@ro,
+        "grup de discuții"@ro ;
+    skos:definition "Grup d'internautes que intercanvien opinions i informació sobre un tema a través de missatges que es pengen en una pàgina web o per mitjà d'una llista de distribució."@ca,
+        "Plataforma en què un grup d'internautes intercanvien opinions i informació sobre un tema."@ca ;
+    skos:note "fòrum (n.m.)"@ca,
+        "conference group (n.)"@en,
+        "foro (s.m.)"@es,
+        "foro (s.m.)"@es-MX,
+        "forum (n.m.)"@fr,
+        "foro (n.m.)"@gl,
+        "gruppo di discussione (s.m.)"@it,
+        "fórum (s.m.)"@pt,
+        "fórum (s.m.)"@pt-BR,
+        "forum (s.n.)"@ro ;
+    skos:prefLabel "fòrum"@ca,
+        "conference group"@en,
+        "foro"@es,
+        "foro"@es-MX,
+        "forum"@fr,
+        "foro"@gl,
+        "gruppo di discussione"@it,
+        "fórum"@pt,
+        "fórum"@pt-BR,
+        "forum"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:galeria a skos:Concept ;
+    skos:definition "Finestra o menú que presenta una sèrie d'elements multimèdia que l'usuari pot visualitzar o descarregar."@ca ;
+    skos:note "galeria (n.f.)"@ca,
+        "gallery (n.)"@en,
+        "galería (s.f.)"@es,
+        "galería (s.f.)"@es-MX,
+        "galerie (n.f.)"@fr,
+        "galería (n.f.)"@gl,
+        "galleria (s.f.)"@it,
+        "galeria (s.f.)"@pt,
+        "galeria (s.f.)"@pt-BR,
+        "galerie (s.f.)"@ro ;
+    skos:prefLabel "galeria"@ca,
+        "gallery"@en,
+        "galería"@es,
+        "galería"@es-MX,
+        "galerie"@fr,
+        "galería"@gl,
+        "galleria"@it,
+        "galeria"@pt,
+        "galeria"@pt-BR,
+        "galerie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:geolocalització a skos:Concept ;
+    skos:altLabel "localització geogràfica"@ca,
+        "geolocation"@en,
+        "mobile location"@en,
+        "position determination technology"@en,
+        "wireless location"@en,
+        "localización geográfica"@es,
+        "localización geográfica"@es-MX,
+        "localisation géographique"@fr,
+        "localização geográfica"@pt,
+        "localização geográfica"@pt-BR,
+        "localizare geografică"@ro ;
+    skos:definition "Determinació de la posició geogràfica d'un dispositiu mòbil, especialment un telèfon, a partir de diverses tecnologies de posicionament, com per exemple el sistema de posicionament global o la ubicació per triangulació de les xarxes de telefonia mòbil o wifi."@ca ;
+    skos:note "geolocalització (n.f.)"@ca,
+        "geografic location (n.)"@en,
+        "geolocalización (s.m.)"@es,
+        "geolocalización (s.m.)"@es-MX,
+        "géolocalisation (n.f.)"@fr,
+        "xeolocalización (n.f.)"@gl,
+        "geolocalização (s.f.)"@pt,
+        "geolocalização (s.f.)"@pt-BR,
+        "geolocalizare  (s.f.)"@ro ;
+    skos:prefLabel "geolocalització"@ca,
+        "geografic location"@en,
+        "geolocalización"@es,
+        "geolocalización"@es-MX,
+        "géolocalisation"@fr,
+        "xeolocalización"@gl,
+        "geolocalização"@pt,
+        "geolocalização"@pt-BR,
+        "geolocalizare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:gestió_de_comunitats a skos:Concept ;
+    skos:altLabel "gestión de comunidades"@es,
+        "gestión de comunidades en línea"@es,
+        "gestión de comunidades"@es-MX,
+        "gestión de comunidades en línea"@es-MX,
+        "gestion de communauté"@fr,
+        "management al comunității"@ro ;
+    skos:definition "Tasca de crear, fer créixer, administrar i dinamitzar comunitats virtuals d'acord amb l'estratègia de l'organització que les promou."@ca ;
+    skos:note "gestió de comunitats (n.f.)"@ca,
+        "community management (n.)"@en,
+        "community management (s.f.)"@es,
+        "community management (s.f.)"@es-MX,
+        "animation de communauté (n.f.)"@fr,
+        "xestión de comunidades (n.f.)"@gl,
+        "gestão de comunidaddes (s.f.)"@pt,
+        "gestão de comunidaddes (s.f.)"@pt-BR,
+        "gestionare a comunității (s.f.)"@ro ;
+    skos:prefLabel "gestió de comunitats"@ca,
+        "community management"@en,
+        "community management"@es,
+        "community management"@es-MX,
+        "animation de communauté"@fr,
+        "xestión de comunidades"@gl,
+        "gestão de comunidaddes"@pt,
+        "gestão de comunidaddes"@pt-BR,
+        "gestionare a comunității"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:gestió_de_continguts a skos:Concept ;
+    skos:altLabel "dirección de contenidos"@es,
+        "edición de contenidos"@es,
+        "gestión de contenidos"@es,
+        "dirección de contenidos"@es-MX,
+        "edición de contenidos"@es-MX,
+        "gestión de contenidos"@es-MX,
+        "gestion de contenus"@fr,
+        "xestión de contidos"@gl,
+        "management al conținutului"@ro ;
+    skos:definition "Tasca de decidir els continguts de difusió propis d'una organització i de supervisar-ne la creació, el desenvolupament, la publicació i l'actualització."@ca ;
+    skos:note "gestió de continguts (n.f.)"@ca,
+        "content management (n.)"@en,
+        "administración de contenidos (s.f.)"@es,
+        "administración de contenidos (s.f.)"@es-MX,
+        "gestion de contenu (n.f.)"@fr,
+        "edición de contidos (n.f.)"@gl,
+        "gestão de conteúdos (s.f.)"@pt,
+        "gestão de conteúdos (s.f.)"@pt-BR,
+        "gestionare a conținutului (s.f.)"@ro ;
+    skos:prefLabel "gestió de continguts"@ca,
+        "content management"@en,
+        "administración de contenidos"@es,
+        "administración de contenidos"@es-MX,
+        "gestion de contenu"@fr,
+        "edición de contidos"@gl,
+        "gestão de conteúdos"@pt,
+        "gestão de conteúdos"@pt-BR,
+        "gestionare a conținutului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:gestor_de_comunitats a skos:Concept ;
+    skos:altLabel "gestora de comunitats"@ca,
+        "CM"@en,
+        "online community manager"@en,
+        "gestora de comunidades"@es,
+        "administradora de comunidades"@es-MX,
+        "gestor de comunidades"@es-MX,
+        "gestora de comunidades"@es-MX,
+        "animatrice de communauté"@fr,
+        "xestora de comunidades"@gl,
+        "gestora de comunidades"@pt,
+        "gerenciadora de comunidades"@pt-BR,
+        "gestor de comunidades"@pt-BR,
+        "gestora de comunidades"@pt-BR,
+        "moderador"@pt-BR,
+        "moderadora"@pt-BR ;
+    skos:definition "Persona que té la funció de crear, fer créixer i gestionar comunitats d'internautes en línia."@ca ;
+    skos:note "gestor de comunitats (n.m.)"@ca,
+        "community manager (n.)"@en,
+        "gestor de comunidades (s.m.)"@es,
+        "administrador de comunidades (s.m.)"@es-MX,
+        "animateur de communauté (n.m.)"@fr,
+        "xestor de comunidades (n.m.)"@gl,
+        "community manager (s.m., f.)"@it,
+        "gestor de comunidades (s.m.)"@pt,
+        "gerenciador de comunidades (s.m.)"@pt-BR,
+        "manager al comunității (s.n.)"@ro ;
+    skos:prefLabel "gestor de comunitats"@ca,
+        "community manager"@en,
+        "gestor de comunidades"@es,
+        "administrador de comunidades"@es-MX,
+        "animateur de communauté"@fr,
+        "xestor de comunidades"@gl,
+        "community manager"@it,
+        "gestor de comunidades"@pt,
+        "gerenciador de comunidades"@pt-BR,
+        "manager al comunității"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:gestor_de_continguts a skos:Concept ;
+    skos:altLabel "gestora de continguts"@ca,
+        "administradora de contenidos"@es,
+        "director de contenidos"@es,
+        "directora de contenidos"@es,
+        "editor de contenidos"@es,
+        "editora de contenidos"@es,
+        "gestor de contenidos"@es,
+        "gestora de contenidos"@es,
+        "responsable de contenidos"@es,
+        "administradora de contenidos"@es-MX,
+        "director de contenidos"@es-MX,
+        "directora de contenidos"@es-MX,
+        "editor de contenidos"@es-MX,
+        "editora de contenidos"@es-MX,
+        "gestor de contenidos"@es-MX,
+        "gestora de contenidos"@es-MX,
+        "responsable de contenidos"@es-MX,
+        "gestionnaire de contenus"@fr,
+        "gestor de conteúdos"@pt,
+        "gestor de conteúdos"@pt-BR ;
+    skos:definition "Persona que s'encarrega de decidir els continguts de difusió propis d'una organització i de supervisar-ne la creació, el desenvolupament, la publicació i l'actualització."@ca ;
+    skos:note "gestor de continguts (n.m.)"@ca,
+        "content manager (n.)"@en,
+        "administrador de contenidos (s.m.)"@es,
+        "administrador de contenidos (s.m.)"@es-MX,
+        "gestionnaire de contenu (n.m., f.)"@fr,
+        "administrador de conteúdos (s.m., f.)"@pt,
+        "administrador de conteúdos (s.m., f.)"@pt-BR,
+        "manager de conținut (s.n.)"@ro ;
+    skos:prefLabel "gestor de continguts"@ca,
+        "content manager"@en,
+        "administrador de contenidos"@es,
+        "administrador de contenidos"@es-MX,
+        "gestionnaire de contenu"@fr,
+        "administrador de conteúdos"@pt,
+        "administrador de conteúdos"@pt-BR,
+        "manager de conținut"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:gif_animat a skos:Concept ;
+    skos:definition "Vídeo curt fet a partir d'imatges comprimides en format GIF que pot penjar-se en algunes plataformes socials i que s'activa  automàticament, sense que l'usuari en demani la visualització."@ca ;
+    skos:note "gif animat (n.m.)"@ca,
+        "animated gif (n.)"@en,
+        "gif animado (s.m.)"@es,
+        "gif animado (s.m.)"@es-MX,
+        "gif animé (n.m.)"@fr,
+        "gif animado (n.m.)"@gl,
+        "gif animat (s.n.)"@ro ;
+    skos:prefLabel "gif animat"@ca,
+        "animated gif"@en,
+        "gif animado"@es,
+        "gif animado"@es-MX,
+        "gif animé"@fr,
+        "gif animado"@gl,
+        "gif animat"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:giny a skos:Concept ;
+    skos:altLabel "gadget"@en,
+        "widget"@en,
+        "widget"@es,
+        "widget"@es-MX,
+        "composant graphique"@fr,
+        "objet fenêtre"@fr,
+        "widget"@gl,
+        "widget"@it,
+        "widget"@pt,
+        "widget"@pt-BR,
+        "widget"@ro,
+        "widget de birou"@ro ;
+    skos:definition "Element d'una interfície gràfica d'usuari a través del qual s'estableix la interacció entre l'usuari i el programa o l'aplicació."@ca,
+        "Programa senzill, amb una interfície gràfica d'usuari especialitzada i consultable des de l'escriptori de l'ordinador o des d'una pàgina web, que proporciona informació diversa o accés ràpid a determinades funcions d'ús freqüent."@ca ;
+    skos:note "giny (n.m.)"@ca,
+        "control (n.)"@en,
+        "desktop widget (n.)"@en,
+        "control (s.m.)"@es,
+        "gadget (s.m.)"@es,
+        "control (s.m.)"@es-MX,
+        "gadget (s.m.)"@es-MX,
+        "composant d'interface graphique (n.m.)"@fr,
+        "gadget logiciel (n.m.)"@fr,
+        "gadget (n.m.)"@gl,
+        "widget (n.m.)"@gl,
+        "congegno grafico (s.m.)"@it,
+        "widget del desktop (s.m.)"@it,
+        "acessório de interface gráfica (s.m.)"@pt,
+        "ícone de interface gráfica (s.m.)"@pt,
+        "acessório de interface gráfica (s.m.)"@pt-BR,
+        "gadget (s.m.)"@pt-BR,
+        "control (s.n.)"@ro,
+        "gadget (s.n.)"@ro ;
+    skos:prefLabel "giny"@ca,
+        "control"@en,
+        "desktop widget"@en,
+        "control"@es,
+        "gadget"@es,
+        "control"@es-MX,
+        "gadget"@es-MX,
+        "composant d'interface graphique"@fr,
+        "gadget logiciel"@fr,
+        "gadget"@gl,
+        "widget"@gl,
+        "congegno grafico"@it,
+        "widget del desktop"@it,
+        "acessório de interface gráfica"@pt,
+        "ícone de interface gráfica"@pt,
+        "acessório de interface gráfica"@pt-BR,
+        "gadget"@pt-BR,
+        "control"@ro,
+        "gadget"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:graf_social a skos:Concept ;
+    skos:definition "Representació gràfica de les interconnexions que els usuaris de les diferents xarxes socials tenen entre ells."@ca ;
+    skos:note "graf social (n.m.)"@ca,
+        "social graph (n.)"@en,
+        "grafo social (s.m.)"@es,
+        "grafo social (s.m.)"@es-MX,
+        "graphe social (n.m.)"@fr,
+        "grafo social (n.m.)"@gl,
+        "gráfico social (s.m.)"@pt,
+        "gráfico social (s.m.)"@pt-BR,
+        "graf social (s.n.)"@ro ;
+    skos:prefLabel "graf social"@ca,
+        "social graph"@en,
+        "grafo social"@es,
+        "grafo social"@es-MX,
+        "graphe social"@fr,
+        "grafo social"@gl,
+        "gráfico social"@pt,
+        "gráfico social"@pt-BR,
+        "graf social"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:grup a skos:Concept ;
+    skos:definition "Pàgina sobre un tema concret que un administrador crea en una xarxa social com Facebook o LinkedIn amb la finalitat de promoure activitats i interactuar amb els usuaris que s'hi uneixin, els quals passaran a ser membres del grup."@ca ;
+    skos:note "grup (n.m.)"@ca,
+        "group (n.)"@en,
+        "grupo (s.m.)"@es,
+        "grupo (s.m.)"@es-MX,
+        "groupe (n.m.)"@fr,
+        "grupo (n.m.)"@gl,
+        "gruppo (s.m.)"@it,
+        "grupo (s.m.)"@pt,
+        "grupo (s.m.)"@pt-BR,
+        "grup (s.n.)"@ro ;
+    skos:prefLabel "grup"@ca,
+        "group"@en,
+        "grupo"@es,
+        "grupo"@es-MX,
+        "groupe"@fr,
+        "grupo"@gl,
+        "gruppo"@it,
+        "grupo"@pt,
+        "grupo"@pt-BR,
+        "grup"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:herència_digital a skos:Concept ;
+    skos:altLabel "legado digital"@pt,
+        "legado digital"@pt-BR ;
+    skos:definition "Conjunt d'arxius digitals i de drets i obligacions derivats d'aquests arxius que es transmeten a un hereu, un legatari, un marmessor, un administrador, un tutor o una persona designada un cop ha mort la persona que els ha generat o que n'ha disposat."@ca ;
+    skos:note "herència digital (n.f.)"@ca,
+        "digital legacy (n.)"@en,
+        "legado digital (s.m.)"@es,
+        "legado digital (s.m.)"@es-MX,
+        "héritage numérique (n.m.)"@fr,
+        "herdanza dixital (s.f.)"@it,
+        "herança digital (s.f.)"@pt,
+        "herança digital (s.f.)"@pt-BR,
+        "moștenire digitală (s.f.)"@ro ;
+    skos:prefLabel "herència digital"@ca,
+        "digital legacy"@en,
+        "legado digital"@es,
+        "legado digital"@es-MX,
+        "héritage numérique"@fr,
+        "herdanza dixital"@it,
+        "herança digital"@pt,
+        "herança digital"@pt-BR,
+        "moștenire digitală"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:hiperconnectivitat a skos:Concept ;
+    skos:definition "Connectivitat múltiple i continuada."@ca ;
+    skos:note "hiperconnectivitat (n.f.)"@ca,
+        "hyperconnectivity (n.)"@en,
+        "hiperconectividad (s.f.)"@es,
+        "hiperconectividad (s.f.)"@es-MX,
+        "hyperconnexion (n.f.)"@fr,
+        "hiperconectividade (n.f.)"@gl,
+        "hiperconectividade (s.f.)"@pt,
+        "hiperconectividade (s.f.)"@pt-BR,
+        "hiperconectivitate (s.f.)"@ro ;
+    skos:prefLabel "hiperconnectivitat"@ca,
+        "hyperconnectivity"@en,
+        "hiperconectividad"@es,
+        "hiperconectividad"@es-MX,
+        "hyperconnexion"@fr,
+        "hiperconectividade"@gl,
+        "hiperconectividade"@pt,
+        "hiperconectividade"@pt-BR,
+        "hiperconectivitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:història a skos:Concept ;
+    skos:altLabel "story"@ro ;
+    skos:definition "Publicació de 24 hores de durada fet a l'Instagram, al Facebook o a l'Snapchat."@ca ;
+    skos:note "història (n.f.)"@ca,
+        "story (n.)"@en,
+        "historia (s.f.)"@es,
+        "historia (s.f.)"@es-MX,
+        "actualité (n.f.)"@fr,
+        "historia (n.f.)"@gl,
+        "story (s.f.)"@pt,
+        "story (s.f.)"@pt-BR,
+        "poveste (s.f.)"@ro ;
+    skos:prefLabel "història"@ca,
+        "story"@en,
+        "historia"@es,
+        "historia"@es-MX,
+        "actualité"@fr,
+        "historia"@gl,
+        "story"@pt,
+        "story"@pt-BR,
+        "poveste"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:història_destacada a skos:Concept ;
+    skos:definition "Història que queda emmagatzemada als destacats del perfil d'Instagram de l'usuari durant el període que aquest determina."@ca ;
+    skos:note "història destacada (n.f.)"@ca,
+        "highlight story (n.)"@en,
+        "historia destacada (s.f.pl.)"@es,
+        "historia destacada (s.f.pl.)"@es-MX,
+        "historia destacada (n.f.)"@gl,
+        "destaque (s.m.)"@pt,
+        "destaque (s.m.)"@pt-BR,
+        "istorie evidențiată (s.f.)"@ro ;
+    skos:prefLabel "història destacada"@ca,
+        "highlight story"@en,
+        "historia destacada"@es,
+        "historia destacada"@es-MX,
+        "historia destacada"@gl,
+        "destaque"@pt,
+        "destaque"@pt-BR,
+        "istorie evidențiată"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:identificador a skos:Concept ;
+    skos:altLabel "pseudónimo"@es-MX,
+        "pseudonyme"@fr,
+        "surnom"@fr,
+        "identificatore"@it ;
+    skos:definition "Conjunt de caràcters alfanumèrics precedits per una @ que identifica un usuari del Twitter."@ca ;
+    skos:note "identificador (n.m.)"@ca,
+        "handle (n.)"@en,
+        "identificador (s.m.)"@es,
+        "identificador (s.m.)"@es-MX,
+        "pseudo (n.m.)"@fr,
+        "identificador (n.m.)"@gl,
+        "handle (s.m.)"@it,
+        "identificador (s.m.)"@pt,
+        "identificador (s.m.)"@pt-BR,
+        "identificator (s.n.)"@ro ;
+    skos:prefLabel "identificador"@ca,
+        "handle"@en,
+        "identificador"@es,
+        "identificador"@es-MX,
+        "pseudo"@fr,
+        "identificador"@gl,
+        "handle"@it,
+        "identificador"@pt,
+        "identificador"@pt-BR,
+        "identificator"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:identitat_digital a skos:Concept ;
+    skos:altLabel "internet identity"@en,
+        "online identity"@en,
+        "identidad en internet"@es,
+        "identidad en internet"@es-MX,
+        "identitate online"@ro ;
+    skos:definition "Conjunt de dades i d'informació relatives a una persona, una empresa o un organisme que els representen a internet, generades per aquests mateixos o per tercers."@ca ;
+    skos:note "identitat digital (n.f.)"@ca,
+        "digital identity (n.)"@en,
+        "identidad digital (s.f.)"@es,
+        "identidad digital (s.f.)"@es-MX,
+        "cyberidentité (n.f.)"@fr,
+        "identidade dixital (n.f.)"@gl,
+        "identidade digital (s.f.)"@pt,
+        "identidade digital (s.f.)"@pt-BR,
+        "identitate digitală (s.f.)"@ro ;
+    skos:prefLabel "identitat digital"@ca,
+        "digital identity"@en,
+        "identidad digital"@es,
+        "identidad digital"@es-MX,
+        "cyberidentité"@fr,
+        "identidade dixital"@gl,
+        "identidade digital"@pt,
+        "identidade digital"@pt-BR,
+        "identitate digitală"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:incrustar a skos:Concept ;
+    skos:altLabel "intégrer"@fr,
+        "incrustar"@gl ;
+    skos:definition "Inserir informació creada per un programa, com ara un diagrama, una equació, una imatge, un vídeo o una font, en un altre programa o en una pàgina web."@ca ;
+    skos:note "incrustar (v.tr.)"@ca,
+        "embed, to (v.tr.)"@en,
+        "incrustar (v.tr.)"@es,
+        "incrustar (v.tr.)"@es-MX,
+        "incorporer (v.tr.)"@fr,
+        "incorporar (v.tr.)"@gl,
+        "incorporar (v.tr.)"@pt,
+        "incorporar (v.tr.)"@pt-BR,
+        "încorpora, a (v.tr.)"@ro ;
+    skos:prefLabel "incrustar"@ca,
+        "embed, to"@en,
+        "incrustar"@es,
+        "incrustar"@es-MX,
+        "incorporer"@fr,
+        "incorporar"@gl,
+        "incorporar"@pt,
+        "incorporar"@pt-BR,
+        "încorpora, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:indicador_clau_de_rendiment a skos:Concept ;
+    skos:altLabel "KPI"@en,
+        "KPI"@ro ;
+    skos:definition "Indicador que proporciona informació sobre l'assoliment dels objectius marcats en una campanya de màrqueting."@ca ;
+    skos:note "indicador clau de rendiment (n.m.)"@ca,
+        "key performance indicator (n.)"@en,
+        "indicador clave de rendimiento (s.m.)"@es,
+        "indicador clave de rendimiento (s.m.)"@es-MX,
+        "indicador clave de rendemento (n.m.)"@gl,
+        "indicador-chave de desempenho (s.m.)"@pt,
+        "indicador-chave de desempenho (s.m.)"@pt-BR,
+        "indicator cheie de performanță (s.n.)"@ro ;
+    skos:prefLabel "indicador clau de rendiment"@ca,
+        "key performance indicator"@en,
+        "indicador clave de rendimiento"@es,
+        "indicador clave de rendimiento"@es-MX,
+        "indicador clave de rendemento"@gl,
+        "indicador-chave de desempenho"@pt,
+        "indicador-chave de desempenho"@pt-BR,
+        "indicator cheie de performanță"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:influenciador a skos:Concept ;
+    skos:altLabel "influenciadora"@ca,
+        "influenciadora"@es,
+        "influente"@es,
+        "influyente"@es,
+        "influenciadora"@es-MX,
+        "influente"@es-MX,
+        "influyente"@es-MX,
+        "influenceuse"@fr,
+        "influenciadora"@gl,
+        "influenciador digital"@pt,
+        "influenciadora"@pt,
+        "influenciadora digital"@pt,
+        "inluencer"@pt,
+        "influenciador digital"@pt-BR,
+        "influenciadora"@pt-BR,
+        "influenciadora digital"@pt-BR,
+        "inluencer"@pt-BR,
+        "influencer"@ro,
+        "influenceriță"@ro,
+        "influențatoare"@ro ;
+    skos:definition "Persona que amb els consells o opinions que expressa a les xarxes socials afecta de manera directa o indirecta el comportament de compra del decisor."@ca ;
+    skos:note "influenciador (n.m.)"@ca,
+        "influencer (n.m., f.)"@en,
+        "influenciador (s.m.)"@es,
+        "influenciador (s.m.)"@es-MX,
+        "influenceur (n.m.)"@fr,
+        "influenciador (n.m.)"@gl,
+        "influenciador (s.m.)"@pt,
+        "influenciador (s.m.)"@pt-BR,
+        "influențator (s.m.)"@ro ;
+    skos:prefLabel "influenciador"@ca,
+        "influencer"@en,
+        "influenciador"@es,
+        "influenciador"@es-MX,
+        "influenceur"@fr,
+        "influenciador"@gl,
+        "influenciador"@pt,
+        "influenciador"@pt-BR,
+        "influențator"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:iniciar_la_sessió a skos:Concept ;
+    skos:altLabel "connectar-se"@ca,
+        "entrar"@ca,
+        "log on, to"@en,
+        "conectarse"@es,
+        "entrar"@es,
+        "iniciar la sesión"@es,
+        "iniciar sesión"@es,
+        "conectarse"@es-MX,
+        "entrar"@es-MX,
+        "iniciar la sesión"@es-MX,
+        "iniciar sesión"@es-MX,
+        "iniciar sesión"@gl,
+        "efetuar login"@pt,
+        "iniciar sessão"@pt,
+        "logar"@pt-BR,
+        "logar-se"@pt-BR,
+        "iniția o sesiune, a"@ro ;
+    skos:definition "Dur a terme el procediment que permet la connexió a una xarxa o a un sistema operatiu, o l'obertura d'una aplicació."@ca ;
+    skos:note "iniciar la sessió (v.intr.)"@ca,
+        "log in, to (v.intr.)"@en,
+        "conectar (v.intr.)"@es,
+        "conectar (v.intr.)"@es-MX,
+        "ouvrir une session (v.intr.)"@fr,
+        "conectar (v.intr.pron.)"@gl,
+        "accedere (v.intr.)"@it,
+        "conectar-se (v.intr.pros.)"@pt,
+        "conectar (v.intr.)"@pt-BR,
+        "conecta, a se (v.pros.)"@ro ;
+    skos:prefLabel "iniciar la sessió"@ca,
+        "log in, to"@en,
+        "conectar"@es,
+        "conectar"@es-MX,
+        "ouvrir une session"@fr,
+        "conectar"@gl,
+        "accedere"@it,
+        "conectar-se"@pt,
+        "conectar"@pt-BR,
+        "conecta, a se"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:instagramer a skos:Concept ;
+    skos:altLabel "instagramera"@ca,
+        "instagramera"@es,
+        "instagramero"@es,
+        "instagramera"@es-MX,
+        "instagramero"@es-MX,
+        "instagrameuse"@fr,
+        "instagrameira"@gl,
+        "instagrameriță"@ro ;
+    skos:definition "Usuari de la xarxa social Instagram."@ca ;
+    skos:note "instagramer (n.m.)"@ca,
+        "instagramer (n.)"@en,
+        "instagramer (s.m., f.)"@es,
+        "instagramer (s.m., f.)"@es-MX,
+        "instagrameur (n.m.)"@fr,
+        "instagrameiro (n.m.)"@gl,
+        "instagramer (s.m., f.)"@pt,
+        "instagramer (s.m., f.)"@pt-BR,
+        "instagramer (s.m.)"@ro ;
+    skos:prefLabel "instagramer"@ca,
+        "instagramer"@en,
+        "instagramer"@es,
+        "instagramer"@es-MX,
+        "instagrameur"@fr,
+        "instagrameiro"@gl,
+        "instagramer"@pt,
+        "instagramer"@pt-BR,
+        "instagramer"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:interacció a skos:Concept ;
+    skos:definition "Acció entre l'usuari d'un compte en les xarxes socials i els usuaris que el visiten de manera activa."@ca ;
+    skos:note "interacció (n.f.)"@ca,
+        "interaction (n.)"@en,
+        "interacción (s.f.)"@es,
+        "interacción (s.f.)"@es-MX,
+        "interacción (n.f.)"@gl,
+        "interação (s.f.)"@pt,
+        "interação (s.f.)"@pt-BR,
+        "interacțiune (s.f.)"@ro ;
+    skos:prefLabel "interacció"@ca,
+        "interaction"@en,
+        "interacción"@es,
+        "interacción"@es-MX,
+        "interacción"@gl,
+        "interação"@pt,
+        "interação"@pt-BR,
+        "interacțiune"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:interfície_de_programació_d_aplicacions a skos:Concept ;
+    skos:altLabel "API"@ca,
+        "API"@en,
+        "application programming interface"@en,
+        "API"@es,
+        "interfaz de programación de aplicaciones"@es,
+        "API"@es-MX,
+        "interfaz de programación de aplicaciones"@es-MX,
+        "API"@fr,
+        "interface de programmation d'applications"@fr,
+        "interface de programme d'application"@fr,
+        "API"@gl,
+        "API"@pt,
+        "API"@pt-BR,
+        "API"@ro ;
+    skos:definition "Conjunt de rutines que utilitza una aplicació per a demanar i executar determinats serveis realitzats per un sistema operatiu."@ca ;
+    skos:note "interfície de programació d'aplicacions (n.f.)"@ca,
+        "application program interface (n.)"@en,
+        "interfaz de programa de aplicación (s.f.)"@es,
+        "interfaz de programa de aplicación (s.f.)"@es-MX,
+        "interface de programmation (n.f.)"@fr,
+        "interface de programación de aplicacións (n.f.)"@gl,
+        "interface de programação de aplicativos (s.f.)"@pt,
+        "interface de programação de aplicativos (s.f.)"@pt-BR,
+        "interfață de programare a aplicațiilor (s.f.)"@ro ;
+    skos:prefLabel "interfície de programació d'aplicacions"@ca,
+        "application program interface"@en,
+        "interfaz de programa de aplicación"@es,
+        "interfaz de programa de aplicación"@es-MX,
+        "interface de programmation"@fr,
+        "interface de programación de aplicacións"@gl,
+        "interface de programação de aplicativos"@pt,
+        "interface de programação de aplicativos"@pt-BR,
+        "interfață de programare a aplicațiilor"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:llista_de_distribució a skos:Concept ;
+    skos:altLabel "liste de distribution"@fr,
+        "rolda"@gl ;
+    skos:definition "Llista d'adreces electròniques a la qual s'ha assignat una adreça pròpia perquè els missatges que s'hi envien siguin reenviats a tots els integrants de la llista per a poder intercanviar opinions i informació."@ca ;
+    skos:note "llista de distribució (n.f.)"@ca,
+        "distribution list (n.)"@en,
+        "lista de distribución (s.f.)"@es,
+        "lista de distribución (s.f.)"@es-MX,
+        "liste de diffusion (n.f.)"@fr,
+        "lista de distribución (n.f.)"@gl,
+        "lista di distribuzione (s.f.)"@it,
+        "lista de distribuição (s.f.)"@pt,
+        "lista de distribuição (s.f.)"@pt-BR,
+        "listă de distribuție (s.f.)"@ro ;
+    skos:prefLabel "llista de distribució"@ca,
+        "distribution list"@en,
+        "lista de distribución"@es,
+        "lista de distribución"@es-MX,
+        "liste de diffusion"@fr,
+        "lista de distribución"@gl,
+        "lista di distribuzione"@it,
+        "lista de distribuição"@pt,
+        "lista de distribuição"@pt-BR,
+        "listă de distribuție"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:m_agrada a skos:Concept ;
+    skos:altLabel "like"@ro ;
+    skos:definition "Manifestació de suport a un determinat contingut publicat a les xarxes socials, que s'expressa generalment clicant sobre una icona específica."@ca,
+        "Opció d'una xarxa social, generalment una icona, que permet manifestar el suport a un contingut que s'hi ha publicat."@ca ;
+    skos:note "m'agrada (n.m.)"@ca,
+        "like (n.)"@en,
+        "me gusta (s.m.)"@es,
+        "me gusta (s.m.)"@es-MX,
+        "j'aime (n.m.)"@fr,
+        "gústame (n.m.)"@gl,
+        "like (s.m.)"@pt,
+        "like (s.m.)"@pt-BR,
+        "apreciere (s.m.)"@ro,
+        "like (s.n.)"@ro ;
+    skos:prefLabel "m'agrada"@ca,
+        "like"@en,
+        "me gusta"@es,
+        "me gusta"@es-MX,
+        "j'aime"@fr,
+        "gústame"@gl,
+        "like"@pt,
+        "like"@pt-BR,
+        "apreciere"@ro,
+        "like"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:marcador_social a skos:Concept ;
+    skos:altLabel "social bookmarking"@it ;
+    skos:definition "Mitjà de comunicació social que permet a l'usuari emmagatzemar, compartir i classificar enllaços a internet."@ca ;
+    skos:note "marcador social (n.m.)"@ca,
+        "social bookmarking (n.)"@en,
+        "marcador social (s.m.)"@es,
+        "marcador social (s.m.)"@es-MX,
+        "partage de signets (n.m.)"@fr,
+        "marcador social (n.m.)"@gl,
+        "segnalibro sociale (s.m.)"@it,
+        "marcador social (s.m.)"@pt,
+        "marcador social (s.m.)"@pt-BR,
+        "semn de carte social (s.n.)"@ro ;
+    skos:prefLabel "marcador social"@ca,
+        "social bookmarking"@en,
+        "marcador social"@es,
+        "marcador social"@es-MX,
+        "partage de signets"@fr,
+        "marcador social"@gl,
+        "segnalibro sociale"@it,
+        "marcador social"@pt,
+        "marcador social"@pt-BR,
+        "semn de carte social"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:mem a skos:Concept ;
+    skos:altLabel "meme"@en,
+        "mème Internet"@fr,
+        "Internet meme"@it,
+        "memă online"@ro ;
+    skos:definition "Element informatiu, generalment una imatge, una frase o un vídeo de to humorístic, generat a internet o en altres mitjans audiovisuals, que s'escampa per les xarxes socials i és imitat, compartit o utilitzat per un gran nombre de persones."@ca ;
+    skos:note "mem (n.m.)"@ca,
+        "Internet meme (n.)"@en,
+        "meme (s.m.)"@es,
+        "meme (s.m.)"@es-MX,
+        "mème (n.m.)"@fr,
+        "meme (n.m.)"@gl,
+        "fenomeno di Internet (s.m.)"@it,
+        "meme de internet (s.m.)"@pt,
+        "meme (s.m.)"@pt-BR,
+        "memă (s.f.)"@ro ;
+    skos:prefLabel "mem"@ca,
+        "Internet meme"@en,
+        "meme"@es,
+        "meme"@es-MX,
+        "mème"@fr,
+        "meme"@gl,
+        "fenomeno di Internet"@it,
+        "meme de internet"@pt,
+        "meme"@pt-BR,
+        "memă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:membre a skos:Concept ;
+    skos:definition "Usuari de Facebook que forma part d'un grup."@ca ;
+    skos:note "membre (n.m., f.)"@ca,
+        "member (n.)"@en,
+        "miembro (s.m., f.)"@es,
+        "miembro (s.m., f.)"@es-MX,
+        "membre (n.m.,f.)"@fr,
+        "membro (n.m.)"@gl,
+        "membro (s.m.)"@it,
+        "membro (s.m.)"@pt,
+        "membro (s.m.)"@pt-BR,
+        "membru (s.m.)"@ro ;
+    skos:prefLabel "membre"@ca,
+        "member"@en,
+        "miembro"@es,
+        "miembro"@es-MX,
+        "membre"@fr,
+        "membro"@gl,
+        "membro"@it,
+        "membro"@pt,
+        "membro"@pt-BR,
+        "membru"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:menció a skos:Concept ;
+    skos:definition "Piulada que inclou el nom d'un usuari."@ca ;
+    skos:note "menció (n.f.)"@ca,
+        "mention (n.)"@en,
+        "mención (s.f.)"@es,
+        "mención (s.f.)"@es-MX,
+        "mention (n.f.)"@fr,
+        "mención (n.f.)"@gl,
+        "tag (s.m.)"@it,
+        "menção (s.f.)"@pt,
+        "menção (s.f.)"@pt-BR,
+        "mențiune (s.f.)"@ro ;
+    skos:prefLabel "menció"@ca,
+        "mention"@en,
+        "mención"@es,
+        "mención"@es-MX,
+        "mention"@fr,
+        "mención"@gl,
+        "tag"@it,
+        "menção"@pt,
+        "menção"@pt-BR,
+        "mențiune"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:microblog a skos:Concept ;
+    skos:altLabel "microblog"@gl,
+        "microblogging"@it ;
+    skos:definition "Blog els apunts del qual tenen un nombre reduït i limitat de caràcters."@ca ;
+    skos:note "microblog (n.m.)"@ca,
+        "microblog (n.)"@en,
+        "microblog (s.m.)"@es,
+        "microblog (s.m.)"@es-MX,
+        "microblogue (n.m.)"@fr,
+        "microbitácora (n.f.)"@gl,
+        "microblog (s.m.)"@it,
+        "microblog (s.m.)"@pt,
+        "microblog (s.m.)"@pt-BR,
+        "microblog (s.n.)"@ro ;
+    skos:prefLabel "microblog"@ca,
+        "microblog"@en,
+        "microblog"@es,
+        "microblog"@es-MX,
+        "microblogue"@fr,
+        "microbitácora"@gl,
+        "microblog"@it,
+        "microblog"@pt,
+        "microblog"@pt-BR,
+        "microblog"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:missatge_directe a skos:Concept ;
+    skos:altLabel "mensagem direta"@pt,
+        "mensagem direta"@pt-BR,
+        "mesaj direct"@ro ;
+    skos:definition "Missatge instantani privat en una xarxa social que se sol dirigir a una única persona i que pot estar compost per text, àudio i imatge o vídeo."@ca ;
+    skos:note "missatge directe (n.m.)"@ca,
+        "direct message (n.)"@en,
+        "mensaje directo (s.m.)"@es,
+        "mensaje directo (s.m.)"@es-MX,
+        "message direct (n.m.)"@fr,
+        "mensaxe directa (n.f.)"@gl,
+        "direct (s.m.)"@pt,
+        "direct (s.m.)"@pt-BR,
+        "DM (s.n.)"@ro ;
+    skos:prefLabel "missatge directe"@ca,
+        "direct message"@en,
+        "mensaje directo"@es,
+        "mensaje directo"@es-MX,
+        "message direct"@fr,
+        "mensaxe directa"@gl,
+        "direct"@pt,
+        "direct"@pt-BR,
+        "DM"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:missatgeria_instantània a skos:Concept ;
+    skos:altLabel "mensagem instantânea"@pt ;
+    skos:definition "Aplicació informàtica que en temps real permet que els usuaris d'internet o d'una intranet sàpiguen mentre estan connectats quins altres també ho estan en aquell moment i puguin comunicar-s'hi."@ca ;
+    skos:note "missatgeria instantània (n.f.)"@ca,
+        "instant messaging (n.)"@en,
+        "mensajería instantánea (s.f.)"@es,
+        "mensajería instantánea (s.f.)"@es-MX,
+        "messagerie instantanée (n.f.)"@fr,
+        "mensaxería instantánea (n.f.)"@gl,
+        "messaggistica istantanea (s.f.)"@it,
+        "mensagem (s.f.)"@pt,
+        "mensagem automática (s.f.)"@pt-BR,
+        "mesagerie instantanee (s.f.)"@ro ;
+    skos:prefLabel "missatgeria instantània"@ca,
+        "instant messaging"@en,
+        "mensajería instantánea"@es,
+        "mensajería instantánea"@es-MX,
+        "messagerie instantanée"@fr,
+        "mensaxería instantánea"@gl,
+        "messaggistica istantanea"@it,
+        "mensagem"@pt,
+        "mensagem automática"@pt-BR,
+        "mesagerie instantanee"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:mitjà_social a skos:Concept ;
+    skos:altLabel "medio social"@es-MX,
+        "social media"@es-MX,
+        "mezzo di comunicazione sociale"@it ;
+    skos:definition "Mitjà de comunicació que integra les tecnologies web 2.0 i les xarxes d'interconnexió que creen les xarxes socials, a través del qual els usuaris es comuniquen, dialoguen, comparteixen i cooperen."@ca ;
+    skos:note "mitjà social (n.m.)"@ca,
+        "social medium (n.)"@en,
+        "medio social (s.m.)"@es,
+        "medio de comunicación social (s.m.)"@es-MX,
+        "média social (n.m.)"@fr,
+        "medio social (n.m.)"@gl,
+        "medium sociale (s.m.)"@it,
+        "meio de comunicação social (s.m.)"@pt,
+        "mídia social (s.m.)"@pt-BR,
+        "mediu de comunicare socială (s.n)"@ro ;
+    skos:prefLabel "mitjà social"@ca,
+        "social medium"@en,
+        "medio social"@es,
+        "medio de comunicación social"@es-MX,
+        "média social"@fr,
+        "medio social"@gl,
+        "medium sociale"@it,
+        "meio de comunicação social"@pt,
+        "mídia social"@pt-BR,
+        "mediu de comunicare socială"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:monitoratge a skos:Concept ;
+    skos:altLabel "monitorización"@es,
+        "monitorización"@es-MX,
+        "monitoring"@fr ;
+    skos:definition "Tècnica de control, anàlisi i supervisió de l'activitat a les xarxes socials."@ca ;
+    skos:note "monitoratge (n.m.)"@ca,
+        "monitoring (n.)"@en,
+        "monitoreo (s.m.)"@es,
+        "monitoreo (s.m.)"@es-MX,
+        "monitorage (n.m.)"@fr,
+        "monitorización (n.f.)"@gl,
+        "monitoramento (s.m.)"@pt,
+        "monitoramento (s.m.)"@pt-BR,
+        "monitorizare (s.f.)"@ro ;
+    skos:prefLabel "monitoratge"@ca,
+        "monitoring"@en,
+        "monitoreo"@es,
+        "monitoreo"@es-MX,
+        "monitorage"@fr,
+        "monitorización"@gl,
+        "monitoramento"@pt,
+        "monitoramento"@pt-BR,
+        "monitorizare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:mur a skos:Concept ;
+    skos:altLabel "wall"@ro ;
+    skos:definition "Secció del perfil d'un usuari o d'una pàgina del Facebook que recull totes les seves actualitzacions i permet que els seus amics o admiradors hi comparteixin comentaris o enllaços."@ca ;
+    skos:note "mur (n.m.)"@ca,
+        "wall (n.)"@en,
+        "muro (s.m.)"@es,
+        "muro (s.m.)"@es-MX,
+        "mur (n.m.)"@fr,
+        "taboleiro (n.m.)"@gl,
+        "bacheca (s.f.)"@it,
+        "mural (s.m.)"@pt,
+        "mural (s.m.)"@pt-BR,
+        "perete (s.m.)"@ro ;
+    skos:prefLabel "mur"@ca,
+        "wall"@en,
+        "muro"@es,
+        "muro"@es-MX,
+        "mur"@fr,
+        "taboleiro"@gl,
+        "bacheca"@it,
+        "mural"@pt,
+        "mural"@pt-BR,
+        "perete"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:màrqueting_de_mitjans_socials a skos:Concept ;
+    skos:altLabel "SMM"@en,
+        "mercadotecnia en medios sociales"@es,
+        "mercadotecnia en medios sociales"@es-MX,
+        "marketing des médias sociaux"@fr,
+        "mercadotecnia de medios sociais"@gl,
+        "SMM"@ro ;
+    skos:definition "Màrqueting digital que basa l'estratègia de comunicació en l'ús dels mitjans socials."@ca ;
+    skos:note "màrqueting de mitjans socials (n.m.)"@ca,
+        "social media marketing (n.)"@en,
+        "marketing en medios sociales (s.m.)"@es,
+        "marketing en medios sociales (s.m.)"@es-MX,
+        "marketing dans les médias sociaux (n.m.)"@fr,
+        "márketing de medios sociais (n.m.)"@gl,
+        "marketing em mídias sociais (s.m.)"@pt,
+        "marketing em mídias sociais (s.m.)"@pt-BR,
+        "marketing social (s.n.)"@ro ;
+    skos:prefLabel "màrqueting de mitjans socials"@ca,
+        "social media marketing"@en,
+        "marketing en medios sociales"@es,
+        "marketing en medios sociales"@es-MX,
+        "marketing dans les médias sociaux"@fr,
+        "márketing de medios sociais"@gl,
+        "marketing em mídias sociais"@pt,
+        "marketing em mídias sociais"@pt-BR,
+        "marketing social"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:nom_d_usuari a skos:Concept ;
+    skos:altLabel "username"@en ;
+    skos:definition "Conjunt de caràcters alfanumèrics que identifica un usuari i que, juntament amb la contrasenya, li permet de connectar-se a un sistema informàtic o un servei en línia."@ca ;
+    skos:note "nom d'usuari (n.m.)"@ca,
+        "user name (n.)"@en,
+        "nombre de usuario (s.m.)"@es,
+        "nombre de usuario (s.m.)"@es-MX,
+        "nom d'utilisateur (n.m.)"@fr,
+        "nome de usuario (n.m.)"@gl,
+        "nome (di) utente (s.m.)"@it,
+        "nome de utilizador (s.m.)"@pt,
+        "nome de usuário (s.m.)"@pt-BR,
+        "nume de utilizator (s.n.)"@ro ;
+    skos:prefLabel "nom d'usuari"@ca,
+        "user name"@en,
+        "nombre de usuario"@es,
+        "nombre de usuario"@es-MX,
+        "nom d'utilisateur"@fr,
+        "nome de usuario"@gl,
+        "nome (di) utente"@it,
+        "nome de utilizador"@pt,
+        "nome de usuário"@pt-BR,
+        "nume de utilizator"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:notificació a skos:Concept ;
+    skos:altLabel "notificación"@gl ;
+    skos:definition "Avís que rep un usuari d'una xarxa social quan un altre usuari fa una acció que l'afecta."@ca ;
+    skos:note "notificació (n.f.)"@ca,
+        "notification (n.)"@en,
+        "notificación (s.f.)"@es,
+        "notificación (s.f.)"@es-MX,
+        "notification (n.f.)"@fr,
+        "aviso (n.m.)"@gl,
+        "notifica (s.f.)"@it,
+        "notificação (s.f.)"@pt,
+        "notificação (s.f.)"@pt-BR,
+        "notificare (s.f.)"@ro ;
+    skos:prefLabel "notificació"@ca,
+        "notification"@en,
+        "notificación"@es,
+        "notificación"@es-MX,
+        "notification"@fr,
+        "aviso"@gl,
+        "notifica"@it,
+        "notificação"@pt,
+        "notificação"@pt-BR,
+        "notificare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:paraula_clau a skos:Concept ;
+    skos:altLabel "keyword"@en ;
+    skos:definition "Mot o conjunt de mots que caracteritzen un text, utilitzats en operacions de cerca o classificació."@ca ;
+    skos:note "paraula clau (n.f.)"@ca,
+        "key word (n.)"@en,
+        "palabra clave (s.f.)"@es,
+        "palabra clave (s.f.)"@es-MX,
+        "mot-clé (n.m.)"@fr,
+        "palabra chave (n.f.)"@gl,
+        "parola chiave (s.f.)"@it,
+        "palavra-chave (s.f.)"@pt,
+        "palavra-chave (s.f.)"@pt-BR,
+        "cuvânt cheie (s.n.)"@ro ;
+    skos:prefLabel "paraula clau"@ca,
+        "key word"@en,
+        "palabra clave"@es,
+        "palabra clave"@es-MX,
+        "mot-clé"@fr,
+        "palabra chave"@gl,
+        "parola chiave"@it,
+        "palavra-chave"@pt,
+        "palavra-chave"@pt-BR,
+        "cuvânt cheie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:perfil a skos:Concept ;
+    skos:altLabel "profil"@fr,
+        "profilo"@it ;
+    skos:definition "Conjunt de dades personals i informacions diverses que un usuari introdueix en una xarxa social perquè altres usuaris el coneguin i hi puguin contactar."@ca,
+        "Llista de totes les piulades d'un usuari del Twitter ordenades cronològicament des de la més recent fins a la més antiga, a partir de la data d'alta."@ca ;
+    skos:note "perfil (n.m.)"@ca,
+        "profile (n.)"@en,
+        "profile page (n.)"@en,
+        "perfil (s.m.)"@es,
+        "perfil (s.m.)"@es-MX,
+        "journal (n.m.)"@fr,
+        "profil (n.m.)"@fr,
+        "perfil (n.m.)"@gl,
+        "profilepage (s.m.)"@it,
+        "perfil (s.m.)"@pt,
+        "perfil (s.m.)"@pt-BR,
+        "pagină de profil (s.f.)"@ro,
+        "profil (s.n.)"@ro ;
+    skos:prefLabel "perfil"@ca,
+        "profile"@en,
+        "profile page"@en,
+        "perfil"@es,
+        "perfil"@es-MX,
+        "journal"@fr,
+        "profil"@fr,
+        "perfil"@gl,
+        "profilepage"@it,
+        "perfil"@pt,
+        "perfil"@pt-BR,
+        "pagină de profil"@ro,
+        "profil"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:petjada_digital a skos:Concept ;
+    skos:altLabel "rastre digital"@ca,
+        "rastro digital"@es,
+        "rastro digital"@es-MX ;
+    skos:definition "Informació que hi ha a internet sobre una persona, una empresa o un organisme com a conseqüència de la seva activitat en línia."@ca ;
+    skos:note "petjada digital (n.f.)"@ca,
+        "digital footprint (n.)"@en,
+        "huella digital (s.f.)"@es,
+        "huella digital (s.f.)"@es-MX,
+        "trace numérique (n.f.)"@fr,
+        "rastro digital (s.m.)"@pt,
+        "rastro digital (s.m.)"@pt-BR,
+        "amprentă digitală (s.f.)"@ro ;
+    skos:prefLabel "petjada digital"@ca,
+        "digital footprint"@en,
+        "huella digital"@es,
+        "huella digital"@es-MX,
+        "trace numérique"@fr,
+        "rastro digital"@pt,
+        "rastro digital"@pt-BR,
+        "amprentă digitală"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:piulada a skos:Concept ;
+    skos:altLabel "piulet"@ca,
+        "tuit"@ca,
+        "tweet"@en,
+        "tweet"@es-MX,
+        "twitt"@es-MX,
+        "tuit"@gl,
+        "tweet"@pt-BR,
+        "tweet"@ro ;
+    skos:definition "Missatge curt, amb un nombre de caràcters limitat i que pot incloure contingut multimèdia, que es publica al Twitter."@ca ;
+    skos:note "piulada (n.f.)"@ca,
+        "micropost (n.)"@en,
+        "tuit (s.m.)"@es,
+        "tuit (s.m.)"@es-MX,
+        "micromessage (n.m.)"@fr,
+        "chío (n.m.)"@gl,
+        "tweet (s.m.)"@it,
+        "tweet (s.m.)"@pt,
+        "tuite (s.m.)"@pt-BR,
+        "tuit (s.n.)"@ro ;
+    skos:prefLabel "piulada"@ca,
+        "micropost"@en,
+        "tuit"@es,
+        "tuit"@es-MX,
+        "micromessage"@fr,
+        "chío"@gl,
+        "tweet"@it,
+        "tweet"@pt,
+        "tuite"@pt-BR,
+        "tuit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:piulador a skos:Concept ;
+    skos:altLabel "piuladora"@ca,
+        "tuiter"@ca,
+        "tuitera"@ca,
+        "twitterer"@en,
+        "tuitera"@es,
+        "tuitera"@es-MX,
+        "tweetera"@es-MX,
+        "tweetero"@es-MX,
+        "twitera"@es-MX,
+        "twitero"@es-MX,
+        "gazouilleuse"@fr,
+        "tuitera"@gl,
+        "twittatrice"@it,
+        "tuiteira"@pt-BR ;
+    skos:definition "Persona que publica una piulada."@ca ;
+    skos:note "piulador (n.m.)"@ca,
+        "tweeter (n.)"@en,
+        "tuitero (s.m.)"@es,
+        "tuitero (s.m.)"@es-MX,
+        "gazouilleur (n.m.)"@fr,
+        "tuiteiro (n.m.)"@gl,
+        "twittatore (s.m.)"@it,
+        "twitterer (s.m., f.)"@pt,
+        "tuiteiro (s.m.)"@pt-BR,
+        "utilizator Twitter (s.m.)"@ro ;
+    skos:prefLabel "piulador"@ca,
+        "tweeter"@en,
+        "tuitero"@es,
+        "tuitero"@es-MX,
+        "gazouilleur"@fr,
+        "tuiteiro"@gl,
+        "twittatore"@it,
+        "twitterer"@pt,
+        "tuiteiro"@pt-BR,
+        "utilizator Twitter"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:piular a skos:Concept ;
+    skos:altLabel "tuitar"@ca,
+        "tweetear"@es-MX,
+        "twitear"@es-MX,
+        "twittear"@es-MX,
+        "tuitear"@gl ;
+    skos:definition "Publicar instantàniament, en un microblog, un missatge amb un nombre de caràcters limitat."@ca ;
+    skos:note "piular (v.tr.)"@ca,
+        "tweet, to (n.)"@en,
+        "tuitear (v.tr.)"@es,
+        "tuitear (v.tr.)"@es-MX,
+        "gazouiller (v.tr.)"@fr,
+        "chiar (v.tr.)"@gl,
+        "twittare (v.tr.)"@it,
+        "twittar (v.tr.)"@pt,
+        "twittar (v.tr.)"@pt-BR,
+        "tweeta, a (v.tr.)"@ro ;
+    skos:prefLabel "piular"@ca,
+        "tweet, to"@en,
+        "tuitear"@es,
+        "tuitear"@es-MX,
+        "gazouiller"@fr,
+        "chiar"@gl,
+        "twittare"@it,
+        "twittar"@pt,
+        "twittar"@pt-BR,
+        "tweeta, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:plataforma a skos:Concept ;
+    skos:altLabel "plateforme de télécommunications"@fr ;
+    skos:definition "Estructura de maquinari i de programari d'un sistema de telecomunicacions."@ca ;
+    skos:note "plataforma (n.f.)"@ca,
+        "platform (n.)"@en,
+        "plataforma (s.f.)"@es,
+        "plataforma (s.f.)"@es-MX,
+        "plateforme (n.f.)"@fr,
+        "plataforma (n.f.)"@gl,
+        "piattaforma (s.f.)"@it,
+        "plataforma (s.f.)"@pt,
+        "plataforma (s.f.)"@pt-BR,
+        "platformă (s.f.)"@ro ;
+    skos:prefLabel "plataforma"@ca,
+        "platform"@en,
+        "plataforma"@es,
+        "plataforma"@es-MX,
+        "plateforme"@fr,
+        "plataforma"@gl,
+        "piattaforma"@it,
+        "plataforma"@pt,
+        "plataforma"@pt-BR,
+        "platformă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:plataforma_de_microblogs a skos:Concept ;
+    skos:altLabel "microblogging platform"@en,
+        "plateforme de microblogues"@fr ;
+    skos:definition "Xarxa de comunicació a través d'internet que permet crear un microblog."@ca ;
+    skos:note "plataforma de microblogs (n.f.)"@ca,
+        "microblog platform (n.)"@en,
+        "plataforma de microblogs (s.f.)"@es,
+        "plataforma de microblogs (s.f.)"@es-MX,
+        "plateforme de microblogage (n.f.)"@fr,
+        "plataforma de microblogs (n.f.)"@gl,
+        "piattaforma di microblogging (s.m.)"@it,
+        "plataforma microblog (s.f.)"@pt,
+        "plataforma microblog (s.f.)"@pt-BR,
+        "platformă de microblogging (s.f.)"@ro ;
+    skos:prefLabel "plataforma de microblogs"@ca,
+        "microblog platform"@en,
+        "plataforma de microblogs"@es,
+        "plataforma de microblogs"@es-MX,
+        "plateforme de microblogage"@fr,
+        "plataforma de microblogs"@gl,
+        "piattaforma di microblogging"@it,
+        "plataforma microblog"@pt,
+        "plataforma microblog"@pt-BR,
+        "platformă de microblogging"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:postureig a skos:Concept ;
+    skos:altLabel "postura"@pt,
+        "postura"@pt-BR ;
+    skos:definition "Actitud de mostrar un comportament o uns gustos determinats, generalment a les xarxes socials, amb la intenció de fer-se veure."@ca ;
+    skos:note "postureig (n.m.)"@ca,
+        "postureo (s.m.)"@es,
+        "postureo (s.m.)"@es-MX,
+        "postureo (n.m.)"@gl,
+        "comportamento (s.m.)"@pt,
+        "comportamento (s.m.)"@pt-BR ;
+    skos:prefLabel "postureig"@ca,
+        "postureo"@es,
+        "postureo"@es-MX,
+        "postureo"@gl,
+        "comportamento"@pt,
+        "comportamento"@pt-BR ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:privacitat a skos:Concept ;
+    skos:altLabel "privadesa"@ca,
+        "privacidad"@es,
+        "privacidad"@es-MX ;
+    skos:definition "Condició de les informacions que fan referència o pertanyen a una persona física o jurídica, segons la qual no poden fer-se públiques sense el consentiment de l'afectat."@ca ;
+    skos:note "privacitat (n.f.)"@ca,
+        "privacy (n.)"@en,
+        "confidencialidad (s.f.)"@es,
+        "confidencialidad (s.f.)"@es-MX,
+        "confidentialité (n.f.)"@fr,
+        "privacidade (n.f.)"@gl,
+        "privacy (s.f.)"@it,
+        "privacidade (s.f.)"@pt,
+        "privacidade (s.f.)"@pt-BR,
+        "confidențialitate (s.f.)"@ro ;
+    skos:prefLabel "privacitat"@ca,
+        "privacy"@en,
+        "confidencialidad"@es,
+        "confidencialidad"@es-MX,
+        "confidentialité"@fr,
+        "privacidade"@gl,
+        "privacy"@it,
+        "privacidade"@pt,
+        "privacidade"@pt-BR,
+        "confidențialitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:prèmium a skos:Concept ;
+    skos:altLabel "prémium"@gl ;
+    skos:definition "Dit d'un producte o servei que té característiques especials o que és de qualitat superior a la mitjana."@ca ;
+    skos:note "prèmium (adj.)"@ca,
+        "premium (adj.)"@en,
+        "prémium (adj.)"@es,
+        "prémium (adj.)"@es-MX,
+        "de première qualité (adj.)"@fr,
+        "de gama alta (adj.)"@gl,
+        "prémium (adj.)"@pt,
+        "prémium (adj.)"@pt-BR,
+        "premium (adj.)"@ro ;
+    skos:prefLabel "prèmium"@ca,
+        "premium"@en,
+        "prémium"@es,
+        "prémium"@es-MX,
+        "de première qualité"@fr,
+        "de gama alta"@gl,
+        "prémium"@pt,
+        "prémium"@pt-BR,
+        "premium"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:publicació a skos:Concept ;
+    skos:altLabel "posting"@en,
+        "publication"@en,
+        "publicación"@es-MX,
+        "pubblicazione"@it,
+        "publicação"@pt-BR,
+        "postare"@ro,
+        "publicație"@ro ;
+    skos:definition "Aportació en forma de text, d'imatge, de so o de vídeo, o bé en format combinat, que es fa en una xarxa social."@ca ;
+    skos:note "publicació (n.f.)"@ca,
+        "post (n.)"@en,
+        "publicación (s.f.)"@es,
+        "posting (s.m.)"@es-MX,
+        "publication (n.f.)"@fr,
+        "publicación (n.f.)"@gl,
+        "posting (s.m.)"@it,
+        "publicação (s.f.)"@pt,
+        "postagem (s.f.)"@pt-BR,
+        "post (s.n.)"@ro ;
+    skos:prefLabel "publicació"@ca,
+        "post"@en,
+        "publicación"@es,
+        "posting"@es-MX,
+        "publication"@fr,
+        "publicación"@gl,
+        "posting"@it,
+        "publicação"@pt,
+        "postagem"@pt-BR,
+        "post"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:pàgina a skos:Concept ;
+    skos:altLabel "pàgina de simpatitzants"@ca,
+        "page"@en,
+        "página"@es,
+        "página"@es-MX,
+        "page d'adeptes"@fr,
+        "fan site"@ro,
+        "fanpage"@ro ;
+    skos:definition "Perfil que una empresa, organització o personatge públic crea al Facebook per a fer-se promoció, augmentar la seva popularitat o relacionar-se amb la ciutadania."@ca ;
+    skos:note "pàgina (n.f.)"@ca,
+        "fan page (n.)"@en,
+        "fan page (s.f.)"@es,
+        "fan page (s.f.)"@es-MX,
+        "page (n.f.)"@fr,
+        "páxina (n.f.)"@gl,
+        "pagina (s.f.)"@it,
+        "página (s.f.)"@pt,
+        "página (s.f.)"@pt-BR,
+        "fan page (s.n.)"@ro ;
+    skos:prefLabel "pàgina"@ca,
+        "fan page"@en,
+        "fan page"@es,
+        "fan page"@es-MX,
+        "page"@fr,
+        "páxina"@gl,
+        "pagina"@it,
+        "página"@pt,
+        "página"@pt-BR,
+        "fan page"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:pàgina_web a skos:Concept ;
+    skos:altLabel "página web"@pt-BR ;
+    skos:definition "Document d'hipertext, generalment escrit en HTML, que es difon al web."@ca ;
+    skos:note "pàgina web (n.f.)"@ca,
+        "web page (n.)"@en,
+        "página web (s.f.)"@es,
+        "página web (s.f.)"@es-MX,
+        "page Web (n.f.)"@fr,
+        "páxina web (n.f.)"@gl,
+        "pagina web (s.f.)"@it,
+        "página web (s.f.)"@pt,
+        "página da internet (s.f.)"@pt-BR,
+        "pagină web (s.f.)"@ro ;
+    skos:prefLabel "pàgina web"@ca,
+        "web page"@en,
+        "página web"@es,
+        "página web"@es-MX,
+        "page Web"@fr,
+        "páxina web"@gl,
+        "pagina web"@it,
+        "página web"@pt,
+        "página da internet"@pt-BR,
+        "pagină web"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:quadre_de_comandament a skos:Concept ;
+    skos:altLabel "panel de control"@es,
+        "tablero de control"@es,
+        "panel de control"@es-MX,
+        "tablero de control"@es-MX,
+        "tableau de bord"@fr,
+        "panel de control"@gl ;
+    skos:definition "Àrea de gestió de les funcions d'una plataforma en línia."@ca ;
+    skos:note "quadre de comandament (n.m.)"@ca,
+        "dashboard (n.)"@en,
+        "escritorio (s.m.)"@es,
+        "escritorio (s.m.)"@es-MX,
+        "dashboard (n.m.)"@fr,
+        "panel (n.m.)"@gl,
+        "painel de gestão (s.m.)"@pt,
+        "painel de gestão (s.m.)"@pt-BR,
+        "panou de control (s.n.)"@ro ;
+    skos:prefLabel "quadre de comandament"@ca,
+        "dashboard"@en,
+        "escritorio"@es,
+        "escritorio"@es-MX,
+        "dashboard"@fr,
+        "panel"@gl,
+        "painel de gestão"@pt,
+        "painel de gestão"@pt-BR,
+        "panou de control"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:quadre_de_text a skos:Concept ;
+    skos:altLabel "zone de saisie de texte"@fr,
+        "zone de texte"@fr ;
+    skos:definition "Interfície gràfica d'usuari, generalment de forma rectangular, que permet introduir-hi o editar-hi informació textual."@ca ;
+    skos:note "quadre de text (n.m.)"@ca,
+        "text box (n.)"@en,
+        "cuadro de texto (s.m.)"@es,
+        "cuadro de texto (s.m.)"@es-MX,
+        "zone d'entrée de texte (n.f.)"@fr,
+        "caixa de texto (n.f.)"@gl,
+        "casella di testo (s.f.)"@it,
+        "caixa de texto (s.f.)"@pt,
+        "caixa de texto (s.f.)"@pt-BR,
+        "casetă de text (s.f.)"@ro ;
+    skos:prefLabel "quadre de text"@ca,
+        "text box"@en,
+        "cuadro de texto"@es,
+        "cuadro de texto"@es-MX,
+        "zone d'entrée de texte"@fr,
+        "caixa de texto"@gl,
+        "casella di testo"@it,
+        "caixa de texto"@pt,
+        "caixa de texto"@pt-BR,
+        "casetă de text"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:redifondre a skos:Concept ;
+    skos:altLabel "sindicar"@ca,
+        "sindicar"@gl ;
+    skos:definition "Difondre de manera automàtica alguns continguts d'un web en un altre web o als usuaris que s'hi han subscrit."@ca ;
+    skos:note "redifondre (v.tr.)"@ca,
+        "syndicate, to (v.tr.)"@en,
+        "redifundir (v.tr.)"@es,
+        "redifundir (v.tr.)"@es-MX,
+        "syndiquer (v.tr.)"@fr,
+        "redifundir (v.tr.)"@gl,
+        "to syndicate (v.tr.)"@it,
+        "difundir (v.tr.)"@pt,
+        "retransmitir (v.tr.)"@pt-BR,
+        "redistribui, a (v.tr.)"@ro ;
+    skos:prefLabel "redifondre"@ca,
+        "syndicate, to"@en,
+        "redifundir"@es,
+        "redifundir"@es-MX,
+        "syndiquer"@fr,
+        "redifundir"@gl,
+        "to syndicate"@it,
+        "difundir"@pt,
+        "retransmitir"@pt-BR,
+        "redistribui, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:redifusió a skos:Concept ;
+    skos:altLabel "sindicació"@ca,
+        "web syndication"@en,
+        "redifusión web"@es,
+        "redifusión web"@es-MX,
+        "syndication Web"@fr,
+        "sindicación"@gl,
+        "distribuzione organizzata di contenuti"@it,
+        "RSS"@pt-BR,
+        "redifuzarea conținuturilor"@ro ;
+    skos:definition "Procés pel qual alguns continguts d'un web es difonen de manera automàtica en un altre web o als usuaris que s'hi han subscrit."@ca ;
+    skos:note "redifusió (n.f.)"@ca,
+        "content syndication (n.)"@en,
+        "redifusión de contenidos (s.f.)"@es,
+        "redifusión de contenidos (s.f.)"@es-MX,
+        "syndication de contenu (n.f.)"@fr,
+        "redifusión (n.f.)"@gl,
+        "content syndication (s.f.)"@it,
+        "difusão de conteúdos (s.f.)"@pt,
+        "retransmissão de conteúdos (s.f.)"@pt-BR,
+        "redifuzare (s.f.)"@ro ;
+    skos:prefLabel "redifusió"@ca,
+        "content syndication"@en,
+        "redifusión de contenidos"@es,
+        "redifusión de contenidos"@es-MX,
+        "syndication de contenu"@fr,
+        "redifusión"@gl,
+        "content syndication"@it,
+        "difusão de conteúdos"@pt,
+        "retransmissão de conteúdos"@pt-BR,
+        "redifuzare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:redirigir a skos:Concept ;
+    skos:altLabel "redirigir"@es-MX ;
+    skos:definition "Conduir automàticament un internauta que ha sol·licitat accedir a un contingut digital que ha canviat d'adreça al nou emplaçament."@ca ;
+    skos:note "redirigir (v.tr.)"@ca,
+        "redirect, to (v.tr.)"@en,
+        "redirigir (v.tr.)"@es,
+        "redireccionar (v.tr.)"@es-MX,
+        "rediriger (v.tr.)"@fr,
+        "redirixir (v.tr.)"@gl,
+        "ridirezionare (v.tr.)"@it,
+        "redirecionar (v.tr.)"@pt,
+        "redirecionar (v.tr.)"@pt-BR,
+        "redirecționa, a (v.tr.)"@ro ;
+    skos:prefLabel "redirigir"@ca,
+        "redirect, to"@en,
+        "redirigir"@es,
+        "redireccionar"@es-MX,
+        "rediriger"@fr,
+        "redirixir"@gl,
+        "ridirezionare"@it,
+        "redirecionar"@pt,
+        "redirecionar"@pt-BR,
+        "redirecționa, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:registre_de_voluntats_digitals a skos:Concept ;
+    skos:definition "Registre de caràcter administratiu que permet deixar constància de les voluntats digitals de les persones."@ca ;
+    skos:note "registre de voluntats digitals (n.m.)"@ca,
+        "digital will registry (n.)"@en,
+        "registro de voluntades digitales (s.m.)"@es,
+        "registro de voluntades digitales (s.m.)"@es-MX,
+        "rexistro de vontades dixitais (n.m.)"@gl,
+        "registro de herança digital (s.m.)"@pt,
+        "registro de herança digital (s.m.)"@pt-BR,
+        "registru de moștenire digitală (s.n.)"@ro ;
+    skos:prefLabel "registre de voluntats digitals"@ca,
+        "digital will registry"@en,
+        "registro de voluntades digitales"@es,
+        "registro de voluntades digitales"@es-MX,
+        "rexistro de vontades dixitais"@gl,
+        "registro de herança digital"@pt,
+        "registro de herança digital"@pt-BR,
+        "registru de moștenire digitală"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:repiulada a skos:Concept ;
+    skos:altLabel "repiulet"@ca,
+        "retuit"@ca,
+        "retweet"@es-MX,
+        "rechouchío"@gl,
+        "retuit"@gl,
+        "retweet"@pt-BR ;
+    skos:definition "Reenviament d'una piulada publicada anteriorment per un altre usuari."@ca ;
+    skos:note "repiulada (n.f.)"@ca,
+        "retweet (n.)"@en,
+        "retuit (s.m.)"@es,
+        "retuit (s.m.)"@es-MX,
+        "gazouillis partagé (n.m.)"@fr,
+        "rechío (n.m.)"@gl,
+        "retweet (s.m.)"@it,
+        "retweet (s.m.)"@pt,
+        "retuitada (s.f.)"@pt-BR,
+        "retweet (s.n.)"@ro ;
+    skos:prefLabel "repiulada"@ca,
+        "retweet"@en,
+        "retuit"@es,
+        "retuit"@es-MX,
+        "gazouillis partagé"@fr,
+        "rechío"@gl,
+        "retweet"@it,
+        "retweet"@pt,
+        "retuitada"@pt-BR,
+        "retweet"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:repiular a skos:Concept ;
+    skos:altLabel "retuitar"@ca,
+        "retweetear"@es-MX,
+        "rechouchiar"@gl,
+        "tuitear"@gl,
+        "retweetar"@pt-BR ;
+    skos:definition "Reenviar una piulada publicada anteriorment per un altre usuari."@ca ;
+    skos:note "repiular (v.tr.)"@ca,
+        "retweet, to (v.tr.)"@en,
+        "retuitear (v.tr.)"@es,
+        "retuitear (v.tr.)"@es-MX,
+        "partager un gazouillis (v.intr.)"@fr,
+        "rechiar (v.tr.)"@gl,
+        "retwettare (v.tr.)"@it,
+        "retweetar (v.tr.)"@pt,
+        "retuitar (v.tr.)"@pt-BR,
+        "retweeta, a (v.tr.)"@ro ;
+    skos:prefLabel "repiular"@ca,
+        "retweet, to"@en,
+        "retuitear"@es,
+        "retuitear"@es-MX,
+        "partager un gazouillis"@fr,
+        "rechiar"@gl,
+        "retwettare"@it,
+        "retweetar"@pt,
+        "retuitar"@pt-BR,
+        "retweeta, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:repositori a skos:Concept ;
+    skos:altLabel "depósito"@es,
+        "repositorio"@es,
+        "référentiel d'entreprise"@fr,
+        "référentiel de données"@fr ;
+    skos:definition "Sistema informàtic on s'emmagatzema la informació d'una organització amb la finalitat que els seus membres la puguin compartir."@ca ;
+    skos:note "repositori (n.m.)"@ca,
+        "repository (n.)"@en,
+        "almacén (s.m.)"@es,
+        "repositorio (s.m.)"@es-MX,
+        "référentiel (n.m.)"@fr,
+        "repositorio (n.m.)"@gl,
+        "repository (s.m.)"@it,
+        "repositório (s.m.)"@pt,
+        "repositório (s.m.)"@pt-BR,
+        "spațiu de stocare (s.n.)"@ro ;
+    skos:prefLabel "repositori"@ca,
+        "repository"@en,
+        "almacén"@es,
+        "repositorio"@es-MX,
+        "référentiel"@fr,
+        "repositorio"@gl,
+        "repository"@it,
+        "repositório"@pt,
+        "repositório"@pt-BR,
+        "spațiu de stocare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:reproducció_en_continu a skos:Concept ;
+    skos:altLabel "reproducció en línia"@ca,
+        "streaming"@en,
+        "streaming system"@en,
+        "reproducción en tiempo real"@es,
+        "técnica streaming"@es,
+        "vídeo en tiempo real"@es,
+        "reproducción en tiempo real"@es-MX,
+        "técnica streaming"@es-MX,
+        "vídeo en tiempo real"@es-MX,
+        "streaming"@gl,
+        "transmissão em tempo real"@pt,
+        "transmissão em tempo real"@pt-BR,
+        "streaming"@ro ;
+    skos:definition "Tècnica que permet la reproducció de continguts audiovisuals a mesura que es van transferint, generalment a través d'internet."@ca ;
+    skos:note "reproducció en continu (n.f.)"@ca,
+        "real time system (n.)"@en,
+        "reproducción en streaming (s.f.)"@es,
+        "reproducción en streaming (s.f.)"@es-MX,
+        "lecture en transit (n.f.)"@fr,
+        "reprodución durante a descarga (n.f.)"@gl,
+        "streaming (s.m.)"@it,
+        "fluxo contínuo (s.m.)"@pt,
+        "fluxo contínuo (s.m.)"@pt-BR,
+        "reproducere în timp real (s.f.)"@ro ;
+    skos:prefLabel "reproducció en continu"@ca,
+        "real time system"@en,
+        "reproducción en streaming"@es,
+        "reproducción en streaming"@es-MX,
+        "lecture en transit"@fr,
+        "reprodución durante a descarga"@gl,
+        "streaming"@it,
+        "fluxo contínuo"@pt,
+        "fluxo contínuo"@pt-BR,
+        "reproducere în timp real"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:republicació a skos:Concept ;
+    skos:altLabel "repost"@en,
+        "repostare"@ro ;
+    skos:definition "Reenviament d'una publicació feta anteriorment per un altre usuari."@ca ;
+    skos:note "republicació (n.f.)"@ca,
+        "regram (n.)"@en,
+        "republicación (s.f.)"@es,
+        "republicación (s.f.)"@es-MX,
+        "republication (n.f.)"@fr,
+        "republicación (n.f.)"@gl,
+        "republicação (s.f.)"@pt,
+        "republicação (s.f.)"@pt-BR,
+        "regram (s.n.)"@ro ;
+    skos:prefLabel "republicació"@ca,
+        "regram"@en,
+        "republicación"@es,
+        "republicación"@es-MX,
+        "republication"@fr,
+        "republicación"@gl,
+        "republicação"@pt,
+        "republicação"@pt-BR,
+        "regram"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:seguidor a skos:Concept ;
+    skos:altLabel "seguidora"@ca,
+        "seguidor"@es,
+        "seguidora"@es,
+        "seguidor"@es-MX,
+        "seguidora"@es-MX,
+        "abonnée"@fr,
+        "seguidora"@gl,
+        "seguace"@it,
+        "seguida"@pt,
+        "seguida"@pt-BR,
+        "urmăritoare"@ro,
+        "urmăritor"@ro ;
+    skos:definition "Usuari que en segueix un altre a determinades xarxes socials."@ca ;
+    skos:note "seguidor (n.m.)"@ca,
+        "follower (n.)"@en,
+        "follower (s.m., f.)"@es,
+        "follower (s.m., f.)"@es-MX,
+        "abonné (n.m.)"@fr,
+        "seguidor (n.m.)"@gl,
+        "follower (s.m., f.)"@it,
+        "seguido (s.m.)"@pt,
+        "seguido (s.m.)"@pt-BR,
+        "follower (s.m.)"@ro ;
+    skos:prefLabel "seguidor"@ca,
+        "follower"@en,
+        "follower"@es,
+        "follower"@es-MX,
+        "abonné"@fr,
+        "seguidor"@gl,
+        "follower"@it,
+        "seguido"@pt,
+        "seguido"@pt-BR,
+        "follower"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:seguir a skos:Concept ;
+    skos:definition "Rebre, un usuari d'una xarxa social, totes les publicacions d'un altre usuari."@ca ;
+    skos:note "seguir (v.tr.)"@ca,
+        "follow, to (v.tr.)"@en,
+        "seguir (v.tr.)"@es,
+        "seguir (v.tr.)"@es-MX,
+        "suivre (v.tr.)"@fr,
+        "seguir (v.tr.)"@gl,
+        "seguire (v.tr.)"@it,
+        "seguir (v.tr.)"@pt,
+        "seguir (v.tr.)"@pt-BR,
+        "urmări, a (v.tr.)"@ro ;
+    skos:prefLabel "seguir"@ca,
+        "follow, to"@en,
+        "seguir"@es,
+        "seguir"@es-MX,
+        "suivre"@fr,
+        "seguir"@gl,
+        "seguire"@it,
+        "seguir"@pt,
+        "seguir"@pt-BR,
+        "urmări, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:seguit a skos:Concept ;
+    skos:altLabel "seguida"@ca,
+        "followed user"@en,
+        "seguida"@es,
+        "seguida"@es-MX,
+        "utilisatrice suivie"@fr,
+        "seguida"@gl,
+        "seguida"@pt,
+        "seguida"@pt-BR ;
+    skos:definition "Usuari d'una xarxa social a qui un altre usuari segueix."@ca ;
+    skos:note "seguit (n.m.)"@ca,
+        "followed (n.)"@en,
+        "seguido (s.m.)"@es,
+        "seguido (s.m.)"@es-MX,
+        "utilisateur suivi (n.m.)"@fr,
+        "seguido (n.m.)"@gl,
+        "following (s.m., f.)"@it,
+        "seguido (s.m.)"@pt,
+        "seguido (s.m.)"@pt-BR,
+        "urmărit (s.m.)"@ro ;
+    skos:prefLabel "seguit"@ca,
+        "followed"@en,
+        "seguido"@es,
+        "seguido"@es-MX,
+        "utilisateur suivi"@fr,
+        "seguido"@gl,
+        "following"@it,
+        "seguido"@pt,
+        "seguido"@pt-BR,
+        "urmărit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:sessió a skos:Concept ;
+    skos:definition "Període de temps transcorregut entre la connexió i la desconnexió a una xarxa informàtica o a un sistema operatiu o entre l'obertura i el tancament d'una aplicació."@ca ;
+    skos:note "sessió (n.f.)"@ca,
+        "session (n.)"@en,
+        "sessión (s.f.)"@es,
+        "sessión (s.f.)"@es-MX,
+        "session (n.f.)"@fr,
+        "sesión (n.f.)"@gl,
+        "sessione (s.f.)"@it,
+        "sessão (s.f.)"@pt,
+        "sessão (s.f.)"@pt-BR,
+        "sesiune (s.f.)"@ro ;
+    skos:prefLabel "sessió"@ca,
+        "session"@en,
+        "sessión"@es,
+        "sessión"@es-MX,
+        "session"@fr,
+        "sesión"@gl,
+        "sessione"@it,
+        "sessão"@pt,
+        "sessão"@pt-BR,
+        "sesiune"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:simpatitzant a skos:Concept ;
+    skos:altLabel "simpatizante"@es,
+        "simpatizante"@es-MX,
+        "seareira"@gl,
+        "seguidor"@gl,
+        "seguidora"@gl ;
+    skos:definition "Usuari d'una pàgina de Facebook que en rep les actualitzacions al seu canal de notícies després d'haver-s'hi subscrit fent clic al botó \"M'agrada\" d'aquesta pàgina."@ca ;
+    skos:note "simpatitzant (n.m., f.)"@ca,
+        "fan (n.)"@en,
+        "fan (s.m., f.)"@es,
+        "fan (s.m., f.)"@es-MX,
+        "adepte (n.m., f.)"@fr,
+        "seareiro (n.m.)"@gl,
+        "fan (s.m., f.)"@it,
+        "fã (s.m., f.)"@pt,
+        "fã (s.m., f.)"@pt-BR,
+        "fan (s.m.)"@ro ;
+    skos:prefLabel "simpatitzant"@ca,
+        "fan"@en,
+        "fan"@es,
+        "fan"@es-MX,
+        "adepte"@fr,
+        "seareiro"@gl,
+        "fan"@it,
+        "fã"@pt,
+        "fã"@pt-BR,
+        "fan"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:tema_del_moment a skos:Concept ;
+    skos:altLabel "tendance"@fr,
+        "tendencia"@gl,
+        "argomento più popolare"@it,
+        "trending topic"@it,
+        "destaque"@pt,
+        "subiect popular"@ro ;
+    skos:definition "Tema més piulat en un moment concret en una plataforma de microblogs."@ca ;
+    skos:note "tema del moment (n.m.)"@ca,
+        "trending topic (n.)"@en,
+        "tema del momento (s.m.)"@es,
+        "tema del momento (s.m.)"@es-MX,
+        "sujet tendance (n.m.)"@fr,
+        "tema do momento (n.m.)"@gl,
+        "argomento più gettonato (s.m.)"@it,
+        "assunto do momento (s.m.)"@pt,
+        "assunto do momento (s.m.)"@pt-BR,
+        "subiect în tendințe (s.n.)"@ro ;
+    skos:prefLabel "tema del moment"@ca,
+        "trending topic"@en,
+        "tema del momento"@es,
+        "tema del momento"@es-MX,
+        "sujet tendance"@fr,
+        "tema do momento"@gl,
+        "argomento più gettonato"@it,
+        "assunto do momento"@pt,
+        "assunto do momento"@pt-BR,
+        "subiect în tendințe"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:tiktoker a skos:Concept ;
+    skos:altLabel "tiktokera"@ca,
+        "tiktokeuse"@fr,
+        "tiktokeriță"@ro ;
+    skos:definition "Persona usuària de la plataforma TikTok que hi penja vídeos habitualment."@ca ;
+    skos:note "tiktoker (n.m.)"@ca,
+        "tiktoker (n.m., f.)"@en,
+        "tiktoker (s.m., f.)"@es,
+        "tiktoker (s.m., f.)"@es-MX,
+        "tiktokeur (n.m.)"@fr,
+        "tiktoker (s.m.)"@ro ;
+    skos:prefLabel "tiktoker"@ca,
+        "tiktoker"@en,
+        "tiktoker"@es,
+        "tiktoker"@es-MX,
+        "tiktokeur"@fr,
+        "tiktoker"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:trol a skos:Concept ;
+    skos:altLabel "troll"@es-MX,
+        "troll de Internet"@es-MX,
+        "troll Internet"@fr,
+        "trol virtual"@pt,
+        "troladora"@pt-BR,
+        "troll"@pt-BR,
+        "troll"@ro ;
+    skos:definition "Missatge o apunt provocatiu que una persona publica a les xarxes socials."@ca,
+        "Persona que publica missatges o apunts provocatius a les xarxes socials."@ca ;
+    skos:note "trol (n.m.)"@ca,
+        "trol (n.m., f.)"@ca,
+        "troll (n.)"@en,
+        "trol (s.m.)"@es,
+        "trol (s.m., f.)"@es,
+        "trol (s.m.)"@es-MX,
+        "trol (s.m., f.)"@es-MX,
+        "troll (n.m.)"@fr,
+        "troll d'Internet (n.m., f.)"@fr,
+        "troll (n.m.)"@gl,
+        "troll (n.m., f.)"@gl,
+        "troll (s.m.)"@it,
+        "troll (s.m., f.)"@it,
+        "provocação (s.m.)"@pt,
+        "trol (s.m., f.)"@pt,
+        "trolador (s.m.)"@pt-BR,
+        "trolagem (s.f.)"@pt-BR,
+        "trol (s.m.)"@ro ;
+    skos:prefLabel "trol"@ca,
+        "troll"@en,
+        "trol"@es,
+        "trol"@es-MX,
+        "troll"@fr,
+        "troll d'Internet"@fr,
+        "troll"@gl,
+        "troll"@it,
+        "provocação"@pt,
+        "trol"@pt,
+        "trolador"@pt-BR,
+        "trolagem"@pt-BR,
+        "trol"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:trolejar a skos:Concept ;
+    skos:definition "Atacar una persona, un organisme o un determinat contingut web mitjançant la publicació a internet de continguts deliberadament provocatius o controvertits, sovint missatges a les xarxes socials."@ca ;
+    skos:note "trolejar (v.tr.)"@ca,
+        "troll, to (v.tr.)"@en,
+        "trolear (v.tr.)"@es,
+        "trolear (v.tr.)"@es-MX,
+        "troller (v.tr.)"@fr,
+        "trolear (v.tr.)"@gl,
+        "trolar (v.tr.)"@pt,
+        "trolar (v.tr.)"@pt-BR,
+        "trola, a (v.tr.)"@ro ;
+    skos:prefLabel "trolejar"@ca,
+        "troll, to"@en,
+        "trolear"@es,
+        "trolear"@es-MX,
+        "troller"@fr,
+        "trolear"@gl,
+        "trolar"@pt,
+        "trolar"@pt-BR,
+        "trola, a"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:tut a skos:Concept ;
+    skos:altLabel "tot"@es,
+        "tut"@es,
+        "tot"@es-MX,
+        "tut"@es-MX ;
+    skos:definition "Missatge curt, amb un nombre de caràcters limitat i que pot incloure contingut multimèdia, que es publica al Mastodon."@ca ;
+    skos:note "tut (n.m.)"@ca,
+        "toot (n.)"@en,
+        "toot (s.m.)"@es,
+        "toot (s.m.)"@es-MX,
+        "pouet (n.m.)"@fr ;
+    skos:prefLabel "tut"@ca,
+        "toot"@en,
+        "toot"@es,
+        "toot"@es-MX,
+        "pouet"@fr ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:usabilitat a skos:Concept ;
+    skos:altLabel "facilité d'emploi"@fr,
+        "facilité d'utilisation"@fr,
+        "utilizabilidade"@gl,
+        "usabilidade"@pt-BR ;
+    skos:definition "Qualitat d'una pàgina web, d'un programa informàtic o d'una aplicació de ser fàcil d'usar i de tenir en compte aspectes com ara la llegibilitat dels textos, la rapidesa de la baixada d'informació, la manejabilitat i la capacitat de satisfer les necessitats de l'usuari."@ca ;
+    skos:note "usabilitat (n.f.)"@ca,
+        "usability (n.)"@en,
+        "usabilidad (s.f.)"@es,
+        "usabilidad (s.f.)"@es-MX,
+        "convivialité (n.f.)"@fr,
+        "usabilidade (n.f.)"@gl,
+        "usabilità (s.f.)"@it,
+        "usabilidade (s.f.)"@pt,
+        "capacidade de utilização (s.f.)"@pt-BR,
+        "uzabilitate (s.f.)"@ro ;
+    skos:prefLabel "usabilitat"@ca,
+        "usability"@en,
+        "usabilidad"@es,
+        "usabilidad"@es-MX,
+        "convivialité"@fr,
+        "usabilidade"@gl,
+        "usabilità"@it,
+        "usabilidade"@pt,
+        "capacidade de utilização"@pt-BR,
+        "uzabilitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:usuari a skos:Concept ;
+    skos:altLabel "usuària"@ca,
+        "usuaria"@es,
+        "usuaria"@es-MX,
+        "utilisateur du système"@fr,
+        "utilisatrice"@fr,
+        "utilisatrice du système"@fr,
+        "usuaria"@gl,
+        "utilizadora"@pt,
+        "usuária"@pt-BR,
+        "utilizatoare"@ro ;
+    skos:definition "Persona, entitat o organització que utilitza una xarxa social."@ca ;
+    skos:note "usuari (n.m.)"@ca,
+        "user (n.)"@en,
+        "usuario (s.m.)"@es,
+        "usuario (s.m.)"@es-MX,
+        "utilisateur (n.m.)"@fr,
+        "usuario (n.m.)"@gl,
+        "utente (s.m., f.)"@it,
+        "utilizador (s.m.)"@pt,
+        "usuário (s.m.)"@pt-BR,
+        "utilizator (s.m.)"@ro ;
+    skos:prefLabel "usuari"@ca,
+        "user"@en,
+        "usuario"@es,
+        "usuario"@es-MX,
+        "utilisateur"@fr,
+        "usuario"@gl,
+        "utente"@it,
+        "utilizador"@pt,
+        "usuário"@pt-BR,
+        "utilizator"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:via a skos:Concept ;
+    skos:altLabel "a través de"@ca,
+        "vía"@gl,
+        "via"@pt,
+        "via"@pt-BR ;
+    skos:definition "Preposició que serveix per a introduir la font d'una piulada."@ca ;
+    skos:note "via (prep.)"@ca,
+        "via (prep.)"@en,
+        "vía (prep.)"@es,
+        "vía (prep.)"@es-MX,
+        "via (prep.)"@fr,
+        "a través de (prep.)"@gl,
+        "via (prep.)"@it,
+        "através de (prep.)"@pt,
+        "através de (prep.)"@pt-BR,
+        "via (prep.)"@ro ;
+    skos:prefLabel "via"@ca,
+        "via"@en,
+        "vía"@es,
+        "vía"@es-MX,
+        "via"@fr,
+        "a través de"@gl,
+        "via"@it,
+        "através de"@pt,
+        "através de"@pt-BR,
+        "via"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:viral a skos:Concept ;
+    skos:definition "Dit del contingut que es propaga ràpidament i de manera massiva per internet a través de reenviaments entre els usuaris de les xarxes socials."@ca ;
+    skos:note "viral (adj.)"@ca,
+        "viral (adj.)"@en,
+        "viral (adj.)"@es,
+        "viral (adj.)"@es-MX,
+        "viral (adj.)"@fr,
+        "viral (adj.)"@gl,
+        "viral (adj.)"@pt,
+        "viral (adj.)"@pt-BR,
+        "viral (adj.)"@ro ;
+    skos:prefLabel "viral"@ca,
+        "viral"@en,
+        "viral"@es,
+        "viral"@es-MX,
+        "viral"@fr,
+        "viral"@gl,
+        "viral"@pt,
+        "viral"@pt-BR,
+        "viral"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:viralitat a skos:Concept ;
+    skos:definition "Qualitat d'un contingut que es propaga ràpidament i de manera massiva per internet a través de reenviaments entre els usuaris de les xarxes socials."@ca ;
+    skos:note "viralitat (n.f.)"@ca,
+        "virality (n.)"@en,
+        "viralidad (s.f.)"@es,
+        "viralidad (s.f.)"@es-MX,
+        "viralité (n.f.)"@fr,
+        "viralidade (n.f.)"@gl,
+        "viralidade (s.f.)"@pt,
+        "viralidade (s.f.)"@pt-BR,
+        "viralitate (s.f.)"@ro ;
+    skos:prefLabel "viralitat"@ca,
+        "virality"@en,
+        "viralidad"@es,
+        "viralidad"@es-MX,
+        "viralité"@fr,
+        "viralidade"@gl,
+        "viralidade"@pt,
+        "viralidade"@pt-BR,
+        "viralitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:voluntats_digitals a skos:Concept ;
+    skos:definition "Disposició que fa una persona en relació amb els seus arxius digitals perquè un hereu, un legatari, un marmessor, un administrador, un tutor o una persona designada per executar-la actuïn davant els prestadors de serveis digitals després de la seva mort o en cas de tenir la capacitat judicialment modificada."@ca ;
+    skos:note "voluntats digitals (n.f.pl.)"@ca,
+        "digital will (n.)"@en,
+        "voluntades digitales (s.f.pl.)"@es,
+        "voluntades digitales (s.f.pl.)"@es-MX,
+        "volontés numériques (n.f.pl.)"@fr,
+        "testamento digital (s.m.)"@pt,
+        "testamento digital (s.m.)"@pt-BR,
+        "testament digital (s.n.)"@ro ;
+    skos:prefLabel "voluntats digitals"@ca,
+        "digital will"@en,
+        "voluntades digitales"@es,
+        "voluntades digitales"@es-MX,
+        "volontés numériques"@fr,
+        "testamento digital"@pt,
+        "testamento digital"@pt-BR,
+        "testament digital"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:web_social a skos:Concept ;
+    skos:definition "Lloc d'internet que permet la interacció i la socialització entre usuaris."@ca ;
+    skos:note "web social (n.m.)"@ca,
+        "social web (n.)"@en,
+        "web social (s.f.)"@es,
+        "web social (s.f.)"@es-MX,
+        "Web social (n.m.)"@fr,
+        "web social (n.f.)"@gl,
+        "web sociale (s.m.)"@it,
+        "web social (s.f.)"@pt,
+        "web social (s.f.)"@pt-BR,
+        "web social (s.n.)"@ro ;
+    skos:prefLabel "web social"@ca,
+        "social web"@en,
+        "web social"@es,
+        "web social"@es-MX,
+        "Web social"@fr,
+        "web social"@gl,
+        "web sociale"@it,
+        "web social"@pt,
+        "web social"@pt-BR,
+        "web social"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:xarxa_social a skos:Concept ;
+    skos:altLabel "social network"@it,
+        "rețea socială"@ro ;
+    skos:definition "Comunitat d'internautes units per algun tipus de relació que comparteixen i intercanvien informació a través d'una plataforma."@ca,
+        "Plataforma que permet a una comunitat d'internautes interaccionar i també compartir i intercanviar informació."@ca ;
+    skos:note "xarxa social (n.f.)"@ca,
+        "social network (n.)"@en,
+        "red social (s.f.)"@es,
+        "red social (s.f.)"@es-MX,
+        "réseau social (n.m.)"@fr,
+        "rede social (n f)"@gl,
+        "rede social (n.f.)"@gl,
+        "rete sociale (s.f.)"@it,
+        "rede social (s.f.)"@pt,
+        "rede social (s.f.)"@pt-BR,
+        "rețea de socializare (s.f.)"@ro ;
+    skos:prefLabel "xarxa social"@ca,
+        "social network"@en,
+        "red social"@es,
+        "red social"@es-MX,
+        "réseau social"@fr,
+        "rede social"@gl,
+        "rete sociale"@it,
+        "rede social"@pt,
+        "rede social"@pt-BR,
+        "rețea de socializare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:xat a skos:Concept ;
+    skos:altLabel "parola"@gl,
+        "conversa (em linha)"@pt ;
+    skos:definition "Comunicació simultània entre diverses persones a través d'internet, generalment per escrit."@ca ;
+    skos:note "xat (n.m.)"@ca,
+        "chat (n.)"@en,
+        "chat (s.m.)"@es,
+        "chat (s.m.)"@es-MX,
+        "clavardage (n.m.)"@fr,
+        "conversa (n.f.)"@gl,
+        "chat (s.f.)"@it,
+        "chat (s.m.)"@pt,
+        "chat (s.m.)"@pt-BR,
+        "chat (s.n.)"@ro ;
+    skos:prefLabel "xat"@ca,
+        "chat"@en,
+        "chat"@es,
+        "chat"@es-MX,
+        "clavardage"@fr,
+        "conversa"@gl,
+        "chat"@it,
+        "chat"@pt,
+        "chat"@pt-BR,
+        "chat"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:youtuber a skos:Concept ;
+    skos:altLabel "youtubera"@ca,
+        "youtubeur"@fr,
+        "youtubeuse"@fr,
+        "youtubeira"@gl,
+        "youtuberiță"@ro ;
+    skos:definition "Persona usuària de la plataforma YouTube que hi penja vídeos habitualment."@ca ;
+    skos:note "youtuber (n.m.)"@ca,
+        "youtuber (n.)"@en,
+        "youtuber (s.m., f.)"@es,
+        "youtuber (s.m., f.)"@es-MX,
+        "youtuber (n.m., f.)"@fr,
+        "youtubeiro (n.m.)"@gl,
+        "youtuber (s.m., f.)"@pt,
+        "youtuber (s.m., f.)"@pt-BR,
+        "youtuber (s.m.)"@ro ;
+    skos:prefLabel "youtuber"@ca,
+        "youtuber"@en,
+        "youtuber"@es,
+        "youtuber"@es-MX,
+        "youtuber"@fr,
+        "youtubeiro"@gl,
+        "youtuber"@pt,
+        "youtuber"@pt-BR,
+        "youtuber"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021:àlbum a skos:Concept ;
+    skos:altLabel "album de photos"@fr,
+        "album photos"@fr,
+        "album foto"@ro ;
+    skos:definition "Conjunt de fotografies, generalment d'un mateix tema, que un usuari penja en una xarxa social per a compartir-les."@ca ;
+    skos:note "àlbum (n.m.)"@ca,
+        "album (n.)"@en,
+        "álbum (s.m.)"@es,
+        "álbum (s.m.)"@es-MX,
+        "album (n.m.)"@fr,
+        "àlbum (n.m.)"@gl,
+        "album (s.m.)"@it,
+        "álbum (s.m.)"@pt,
+        "álbum (s.m.)"@pt-BR,
+        "album (s.n.)"@ro ;
+    skos:prefLabel "àlbum"@ca,
+        "album"@en,
+        "álbum"@es,
+        "álbum"@es-MX,
+        "album"@fr,
+        "àlbum"@gl,
+        "album"@it,
+        "álbum"@pt,
+        "álbum"@pt-BR,
+        "album"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1021: .
+
+pl_20_500_11752_OPEN_1021: a skos:ConceptScheme ;
+    dc:created "2012-01-01"^^xsd:date ;
+    dc:creator "Bover, Jordi" ;
+    dc:description "The Pan-Latin Lexicon of Social Networks, developed within the Pan-Latin Terminology Network (REALITER), presents a multilingual database of terms related to social networks in seven Romance languages (Catalan, Spanish, French, Galician, Italian, Portuguese, Romanian) and in English.  For the Spanish language, the equivalents in the Spanish of Spain and Mexico are included. For the Portuguese language, the Brazilian equivalents are also indicated. As Catalan is the source language of the terminology research, the definitions of are provided in Catalan."@en ;
+    dc:identifier "http://hdl.handle.net/20.500.11752/OPEN-1021" ;
+    dc:title "Pan-Latin Lexicon of Social Networks"@en ;
+    dct:language iso369-3:cat,
+        iso369-3:eng,
+        iso369-3:fra,
+        iso369-3:glg,
+        iso369-3:ita,
+        iso369-3:por,
+        iso369-3:ron,
+        iso369-3:spa ;
+    skos:hasTopConcept pl_20_500_11752_OPEN_1021:Delicious,
+        pl_20_500_11752_OPEN_1021:Facebook,
+        pl_20_500_11752_OPEN_1021:Flickr,
+        pl_20_500_11752_OPEN_1021:Foursquare,
+        pl_20_500_11752_OPEN_1021:Instagram,
+        pl_20_500_11752_OPEN_1021:Instagram_Reels,
+        pl_20_500_11752_OPEN_1021:LinkedIn,
+        pl_20_500_11752_OPEN_1021:Mastodon,
+        pl_20_500_11752_OPEN_1021:Pinterest,
+        pl_20_500_11752_OPEN_1021:RSS,
+        pl_20_500_11752_OPEN_1021:SlideShare,
+        pl_20_500_11752_OPEN_1021:Snapchat,
+        pl_20_500_11752_OPEN_1021:TikTok,
+        pl_20_500_11752_OPEN_1021:Twitter,
+        pl_20_500_11752_OPEN_1021:YouTube,
+        pl_20_500_11752_OPEN_1021:abast,
+        pl_20_500_11752_OPEN_1021:accessibilitat_informàtica,
+        pl_20_500_11752_OPEN_1021:adhesiu,
+        pl_20_500_11752_OPEN_1021:administració_electrònica,
+        pl_20_500_11752_OPEN_1021:administrador,
+        pl_20_500_11752_OPEN_1021:agregador,
+        pl_20_500_11752_OPEN_1021:amfitrió,
+        pl_20_500_11752_OPEN_1021:amic,
+        pl_20_500_11752_OPEN_1021:analítica_web,
+        pl_20_500_11752_OPEN_1021:aplicació_mòbil,
+        pl_20_500_11752_OPEN_1021:apunt,
+        pl_20_500_11752_OPEN_1021:arxiu_digital,
+        pl_20_500_11752_OPEN_1021:autofoto,
+        pl_20_500_11752_OPEN_1021:avatar,
+        pl_20_500_11752_OPEN_1021:big_data,
+        pl_20_500_11752_OPEN_1021:bio,
+        pl_20_500_11752_OPEN_1021:blog,
+        pl_20_500_11752_OPEN_1021:bloguer,
+        pl_20_500_11752_OPEN_1021:canal_de_continguts,
+        pl_20_500_11752_OPEN_1021:canal_de_notícies,
+        pl_20_500_11752_OPEN_1021:canal_web,
+        pl_20_500_11752_OPEN_1021:cercador,
+        pl_20_500_11752_OPEN_1021:ciberassetjament,
+        pl_20_500_11752_OPEN_1021:clavar,
+        pl_20_500_11752_OPEN_1021:clicar_m_agrada,
+        pl_20_500_11752_OPEN_1021:client,
+        pl_20_500_11752_OPEN_1021:client_FTP,
+        pl_20_500_11752_OPEN_1021:client_d_aparell_mòbil,
+        pl_20_500_11752_OPEN_1021:coixinet,
+        pl_20_500_11752_OPEN_1021:comentari,
+        pl_20_500_11752_OPEN_1021:comerç_electrònic,
+        pl_20_500_11752_OPEN_1021:compartir,
+        pl_20_500_11752_OPEN_1021:compromís,
+        pl_20_500_11752_OPEN_1021:compte,
+        pl_20_500_11752_OPEN_1021:compte_fals,
+        pl_20_500_11752_OPEN_1021:compte_verificat,
+        pl_20_500_11752_OPEN_1021:comunitat_virtual,
+        pl_20_500_11752_OPEN_1021:configuració,
+        pl_20_500_11752_OPEN_1021:connector,
+        pl_20_500_11752_OPEN_1021:contacte,
+        pl_20_500_11752_OPEN_1021:contingut_brossa,
+        pl_20_500_11752_OPEN_1021:contrasenya,
+        pl_20_500_11752_OPEN_1021:correu_electrònic,
+        pl_20_500_11752_OPEN_1021:crida_a_l_acció,
+        pl_20_500_11752_OPEN_1021:cronologia,
+        pl_20_500_11752_OPEN_1021:cura_de_continguts,
+        pl_20_500_11752_OPEN_1021:curador_de_continguts,
+        pl_20_500_11752_OPEN_1021:de_semipagament,
+        pl_20_500_11752_OPEN_1021:deixar_de_seguir,
+        pl_20_500_11752_OPEN_1021:destacats,
+        pl_20_500_11752_OPEN_1021:difusió_web,
+        pl_20_500_11752_OPEN_1021:dret_a_l_oblit_digital,
+        pl_20_500_11752_OPEN_1021:duet,
+        pl_20_500_11752_OPEN_1021:eina,
+        pl_20_500_11752_OPEN_1021:emoticona,
+        pl_20_500_11752_OPEN_1021:emoticona_gràfica,
+        pl_20_500_11752_OPEN_1021:enemic,
+        pl_20_500_11752_OPEN_1021:entorn_de_xarxa_social,
+        pl_20_500_11752_OPEN_1021:escolta_activa,
+        pl_20_500_11752_OPEN_1021:esdeveniment,
+        pl_20_500_11752_OPEN_1021:etiqueta,
+        pl_20_500_11752_OPEN_1021:etiquetar,
+        pl_20_500_11752_OPEN_1021:etiquetatge,
+        pl_20_500_11752_OPEN_1021:fer_un_apunt,
+        pl_20_500_11752_OPEN_1021:fil_de_discussió,
+        pl_20_500_11752_OPEN_1021:fil_de_publicacions,
+        pl_20_500_11752_OPEN_1021:filtre,
+        pl_20_500_11752_OPEN_1021:fòrum,
+        pl_20_500_11752_OPEN_1021:galeria,
+        pl_20_500_11752_OPEN_1021:geolocalització,
+        pl_20_500_11752_OPEN_1021:gestió_de_comunitats,
+        pl_20_500_11752_OPEN_1021:gestió_de_continguts,
+        pl_20_500_11752_OPEN_1021:gestor_de_comunitats,
+        pl_20_500_11752_OPEN_1021:gestor_de_continguts,
+        pl_20_500_11752_OPEN_1021:gif_animat,
+        pl_20_500_11752_OPEN_1021:giny,
+        pl_20_500_11752_OPEN_1021:graf_social,
+        pl_20_500_11752_OPEN_1021:grup,
+        pl_20_500_11752_OPEN_1021:herència_digital,
+        pl_20_500_11752_OPEN_1021:hiperconnectivitat,
+        pl_20_500_11752_OPEN_1021:història,
+        pl_20_500_11752_OPEN_1021:història_destacada,
+        pl_20_500_11752_OPEN_1021:identificador,
+        pl_20_500_11752_OPEN_1021:identitat_digital,
+        pl_20_500_11752_OPEN_1021:incrustar,
+        pl_20_500_11752_OPEN_1021:indicador_clau_de_rendiment,
+        pl_20_500_11752_OPEN_1021:influenciador,
+        pl_20_500_11752_OPEN_1021:iniciar_la_sessió,
+        pl_20_500_11752_OPEN_1021:instagramer,
+        pl_20_500_11752_OPEN_1021:interacció,
+        pl_20_500_11752_OPEN_1021:interfície_de_programació_d_aplicacions,
+        pl_20_500_11752_OPEN_1021:llista_de_distribució,
+        pl_20_500_11752_OPEN_1021:m_agrada,
+        pl_20_500_11752_OPEN_1021:marcador_social,
+        pl_20_500_11752_OPEN_1021:mem,
+        pl_20_500_11752_OPEN_1021:membre,
+        pl_20_500_11752_OPEN_1021:menció,
+        pl_20_500_11752_OPEN_1021:microblog,
+        pl_20_500_11752_OPEN_1021:missatge_directe,
+        pl_20_500_11752_OPEN_1021:missatgeria_instantània,
+        pl_20_500_11752_OPEN_1021:mitjà_social,
+        pl_20_500_11752_OPEN_1021:monitoratge,
+        pl_20_500_11752_OPEN_1021:mur,
+        pl_20_500_11752_OPEN_1021:màrqueting_de_mitjans_socials,
+        pl_20_500_11752_OPEN_1021:nom_d_usuari,
+        pl_20_500_11752_OPEN_1021:notificació,
+        pl_20_500_11752_OPEN_1021:paraula_clau,
+        pl_20_500_11752_OPEN_1021:perfil,
+        pl_20_500_11752_OPEN_1021:petjada_digital,
+        pl_20_500_11752_OPEN_1021:piulada,
+        pl_20_500_11752_OPEN_1021:piulador,
+        pl_20_500_11752_OPEN_1021:piular,
+        pl_20_500_11752_OPEN_1021:plataforma,
+        pl_20_500_11752_OPEN_1021:plataforma_de_microblogs,
+        pl_20_500_11752_OPEN_1021:postureig,
+        pl_20_500_11752_OPEN_1021:privacitat,
+        pl_20_500_11752_OPEN_1021:prèmium,
+        pl_20_500_11752_OPEN_1021:publicació,
+        pl_20_500_11752_OPEN_1021:pàgina,
+        pl_20_500_11752_OPEN_1021:pàgina_web,
+        pl_20_500_11752_OPEN_1021:quadre_de_comandament,
+        pl_20_500_11752_OPEN_1021:quadre_de_text,
+        pl_20_500_11752_OPEN_1021:redifondre,
+        pl_20_500_11752_OPEN_1021:redifusió,
+        pl_20_500_11752_OPEN_1021:redirigir,
+        pl_20_500_11752_OPEN_1021:registre_de_voluntats_digitals,
+        pl_20_500_11752_OPEN_1021:repiulada,
+        pl_20_500_11752_OPEN_1021:repiular,
+        pl_20_500_11752_OPEN_1021:repositori,
+        pl_20_500_11752_OPEN_1021:reproducció_en_continu,
+        pl_20_500_11752_OPEN_1021:republicació,
+        pl_20_500_11752_OPEN_1021:seguidor,
+        pl_20_500_11752_OPEN_1021:seguir,
+        pl_20_500_11752_OPEN_1021:seguit,
+        pl_20_500_11752_OPEN_1021:sessió,
+        pl_20_500_11752_OPEN_1021:simpatitzant,
+        pl_20_500_11752_OPEN_1021:tema_del_moment,
+        pl_20_500_11752_OPEN_1021:tiktoker,
+        pl_20_500_11752_OPEN_1021:trol,
+        pl_20_500_11752_OPEN_1021:trolejar,
+        pl_20_500_11752_OPEN_1021:tut,
+        pl_20_500_11752_OPEN_1021:usabilitat,
+        pl_20_500_11752_OPEN_1021:usuari,
+        pl_20_500_11752_OPEN_1021:via,
+        pl_20_500_11752_OPEN_1021:viral,
+        pl_20_500_11752_OPEN_1021:viralitat,
+        pl_20_500_11752_OPEN_1021:voluntats_digitals,
+        pl_20_500_11752_OPEN_1021:web_social,
+        pl_20_500_11752_OPEN_1021:xarxa_social,
+        pl_20_500_11752_OPEN_1021:xat,
+        pl_20_500_11752_OPEN_1021:youtuber,
+        pl_20_500_11752_OPEN_1021:àlbum .
+

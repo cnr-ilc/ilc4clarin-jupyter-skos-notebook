@@ -1,0 +1,3016 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix iso369-3: <http://iso639-3.sil.org/code/> .
+@prefix pl_20_500_11752_OPEN_1020: <https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/realiter/pl_20_500_11752_OPEN_1020/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+pl_20_500_11752_OPEN_1020:abast_de_l_auditoria a skos:Concept ;
+    skos:definition "Extensió i límits d'una auditoria."@ca ;
+    skos:note "abast de l'auditoria (n. m.)"@ca,
+        "audit scope"@en,
+        "alcance de la auditoría (s. m.)"@es,
+        "champ de l'audit (n. m.)"@fr,
+        "alcance da auditoría (n. m.)"@gl,
+        "campo dell'audit (s. m.)"@it,
+        "alcance da auditoria (s. m.)"@pt,
+        "domeniu de audit (s. n.)"@ro ;
+    skos:prefLabel "abast de l'auditoria"@ca,
+        "audit scope"@en,
+        "alcance de la auditoría"@es,
+        "champ de l'audit"@fr,
+        "alcance da auditoría"@gl,
+        "campo dell'audit"@it,
+        "alcance da auditoria"@pt,
+        "domeniu de audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:acció_correctiva a skos:Concept ;
+    skos:definition "Acció per a eliminar la causa d'una no-conformitat i evitar que torni a succeir."@ca ;
+    skos:note "acció correctiva (n. f.)"@ca,
+        "corrective action"@en,
+        "acción correctiva (s. f.)"@es,
+        "action corrective (n. f.)"@fr,
+        "acción correctiva (n. f.)"@gl,
+        "azione correttiva (s. f.)"@it,
+        "acção correctiva (s. f.)"@pt,
+        "acţiune corectivă (s. f.)"@ro ;
+    skos:prefLabel "acció correctiva"@ca,
+        "corrective action"@en,
+        "acción correctiva"@es,
+        "action corrective"@fr,
+        "acción correctiva"@gl,
+        "azione correttiva"@it,
+        "acção correctiva"@pt,
+        "acţiune corectivă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:acció_preventiva a skos:Concept ;
+    skos:definition "Acció per a eliminar la causa d'una no-conformitat potencial o una altra situació potencial indesitjable."@ca ;
+    skos:note "acció preventiva (n. f.)"@ca,
+        "preventive action"@en,
+        "acción preventiva (s. f.)"@es,
+        "action préventive (n. f.)"@fr,
+        "acción preventiva (n. f.)"@gl,
+        "azione preventiva (s. f.)"@it,
+        "acção preventiva (s. f.)"@pt,
+        "acţiune preventivă (s. f.)"@ro ;
+    skos:prefLabel "acció preventiva"@ca,
+        "preventive action"@en,
+        "acción preventiva"@es,
+        "action préventive"@fr,
+        "acción preventiva"@gl,
+        "azione preventiva"@it,
+        "acção preventiva"@pt,
+        "acţiune preventivă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:acompliment a skos:Concept ;
+    skos:definition "Resultat mesurable."@ca ;
+    skos:note "acompliment (n. m.)"@ca,
+        "performance"@en,
+        "desempeño (s. m.)"@es,
+        "performance (n. f.)"@fr,
+        "desempeño (n. m.)"@gl,
+        "performance (s. f.)"@it,
+        "desempenho (s. m.)"@pt,
+        "performanţă (s. f.)"@ro ;
+    skos:prefLabel "acompliment"@ca,
+        "performance"@en,
+        "desempeño"@es,
+        "performance"@fr,
+        "desempeño"@gl,
+        "performance"@it,
+        "desempenho"@pt,
+        "performanţă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:activitat a skos:Concept ;
+    skos:definition "Objecte de treball més petit identificat en un projecte."@ca ;
+    skos:note "activitat (n. f.)"@ca,
+        "activity"@en,
+        "actividad (s. f.)"@es,
+        "activité (n. f.)"@fr,
+        "actividade (n. f.)"@gl,
+        "attività (s. f.)"@it,
+        "atividade (s. f.)"@pt,
+        "activitate (s. f.)"@ro ;
+    skos:prefLabel "activitat"@ca,
+        "activity"@en,
+        "actividad"@es,
+        "activité"@fr,
+        "actividade"@gl,
+        "attività"@it,
+        "atividade"@pt,
+        "activitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:adquisició_de_competència a skos:Concept ;
+    skos:definition "Procés per a adquirir una competència."@ca ;
+    skos:note "adquisició de competència (n. f.)"@ca,
+        "competence acquisition"@en,
+        "adquisición de competencia (s. f.)"@es,
+        "acquisition d'une compétence (n. f.)"@fr,
+        "adquisición de competencia (n. f.)"@gl,
+        "acquisizione di una competenza (s. f.)"@it,
+        "aquisição de competência (s. f.)"@pt,
+        "achiziţionare de competenţă (s. f.)"@ro ;
+    skos:prefLabel "adquisició de competència"@ca,
+        "competence acquisition"@en,
+        "adquisición de competencia"@es,
+        "acquisition d'une compétence"@fr,
+        "adquisición de competencia"@gl,
+        "acquisizione di una competenza"@it,
+        "aquisição de competência"@pt,
+        "achiziţionare de competenţă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:alliberament a skos:Concept ;
+    skos:definition "Autorització per a passar a l'etapa següent d'un procés o al procés següent."@ca ;
+    skos:note "alliberament (n. m.)"@ca,
+        "release"@en,
+        "liberación (s. f.)"@es,
+        "libération (n. f.)"@fr,
+        "liberación (n. f.)"@gl,
+        "rilascio (s. m.)"@it,
+        "libertação (s. f.)"@pt,
+        "eliberare (s. f.)"@ro ;
+    skos:prefLabel "alliberament"@ca,
+        "release"@en,
+        "liberación"@es,
+        "libération"@fr,
+        "liberación"@gl,
+        "rilascio"@it,
+        "libertação"@pt,
+        "eliberare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:alta_direcció a skos:Concept ;
+    skos:definition "Persona o grup de persones que dirigeixen i controlen una organització al més alt nivell."@ca ;
+    skos:note "alta direcció (n. f.)"@ca,
+        "top management"@en,
+        "alta dirección (s. f.)"@es,
+        "direction (n. f.)"@fr,
+        "alta dirección (n. f.)"@gl,
+        "alta direzione (s. f.)"@it,
+        "direcção (s. f.)"@pt,
+        "conducere superioară (s. f.)"@ro ;
+    skos:prefLabel "alta direcció"@ca,
+        "top management"@en,
+        "alta dirección"@es,
+        "direction"@fr,
+        "alta dirección"@gl,
+        "alta direzione"@it,
+        "direcção"@pt,
+        "conducere superioară"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:ambient_de_treball a skos:Concept ;
+    skos:definition "Conjunt de condicions en què es desenvolupa el treball."@ca ;
+    skos:note "ambient de treball (n. m.)"@ca,
+        "work environment"@en,
+        "ambiente de trabajo (s. m.)"@es,
+        "environnement de travail (n. m.)"@fr,
+        "ambiente de traballo (n. m.)"@gl,
+        "ambiente di lavoro (s. m.)"@it,
+        "ambiente de trabalho (s. m.)"@pt,
+        "calitate a vieţii de muncă (s. f.)"@ro ;
+    skos:prefLabel "ambient de treball"@ca,
+        "work environment"@en,
+        "ambiente de trabajo"@es,
+        "environnement de travail"@fr,
+        "ambiente de traballo"@gl,
+        "ambiente di lavoro"@it,
+        "ambiente de trabalho"@pt,
+        "calitate a vieţii de muncă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:assegurament_de_la_qualitat a skos:Concept ;
+    skos:definition "Part de la gestió de la qualitat destinada a proporcionar confiança en el fet que es compliran els requisits de la qualitat."@ca ;
+    skos:note "assegurament de la qualitat (n. m.)"@ca,
+        "quality assurance"@en,
+        "aseguramiento de la calidad (s. m.)"@es,
+        "assurance de la qualité (n. f.)"@fr,
+        "aseguramento da calidade (n. m.)"@gl,
+        "assicurazione della qualità (s. f.)"@it,
+        "garantia de qualidade (s. f.)"@pt,
+        "asigurare a calităţii (s. f.)"@ro ;
+    skos:prefLabel "assegurament de la qualitat"@ca,
+        "quality assurance"@en,
+        "aseguramiento de la calidad"@es,
+        "assurance de la qualité"@fr,
+        "aseguramento da calidade"@gl,
+        "assicurazione della qualità"@it,
+        "garantia de qualidade"@pt,
+        "asigurare a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:associació a skos:Concept ;
+    skos:definition "Organització formada per organitzacions o persones que en són membres."@ca ;
+    skos:note "associació (n. f.)"@ca,
+        "association"@en,
+        "asociación (s. f.)"@es,
+        "association (n. f.)"@fr,
+        "asociación (n. f.)"@gl,
+        "associazione (s. f.)"@it,
+        "associação (s. f.)"@pt,
+        "asociaţie (s. f.)"@ro ;
+    skos:prefLabel "associació"@ca,
+        "association"@en,
+        "asociación"@es,
+        "association"@fr,
+        "asociación"@gl,
+        "associazione"@it,
+        "associação"@pt,
+        "asociaţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:auditor a skos:Concept ;
+    skos:altLabel "auditora"@ca,
+        "auditora"@es,
+        "auditrice"@fr,
+        "auditora"@gl,
+        "valutatrice"@it,
+        "auditora"@pt ;
+    skos:definition "Persona que duu a terme una auditoria."@ca ;
+    skos:note "auditor (n. m.)"@ca,
+        "auditor"@en,
+        "auditor (s. m.)"@es,
+        "auditeur (n. m.)"@fr,
+        "auditor (n. m.)"@gl,
+        "valutatore (s. m.)"@it,
+        "auditor (s. m.)"@pt,
+        "auditor (s. m.)"@ro ;
+    skos:prefLabel "auditor"@ca,
+        "auditor"@en,
+        "auditor"@es,
+        "auditeur"@fr,
+        "auditor"@gl,
+        "valutatore"@it,
+        "auditor"@pt,
+        "auditor"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:auditoria a skos:Concept ;
+    skos:definition "Procés sistemàtic, independent i documentat per a obtenir proves objectives i avaluar-les objectivament per a determinar el grau en què es compleixen els criteris d'auditoria."@ca ;
+    skos:note "auditoria (n. f.)"@ca,
+        "audit"@en,
+        "auditoría (s. f.)"@es,
+        "audit (n. m.)"@fr,
+        "auditoría (n. f.)"@gl,
+        "audit (s. m.)"@it,
+        "auditoria (s. f.)"@pt,
+        "audit (s. n.)"@ro ;
+    skos:prefLabel "auditoria"@ca,
+        "audit"@en,
+        "auditoría"@es,
+        "audit"@fr,
+        "auditoría"@gl,
+        "audit"@it,
+        "auditoria"@pt,
+        "audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:auditoria_combinada a skos:Concept ;
+    skos:definition "Auditoria que es realitza conjuntament a una única organització auditada en dos o més sistemes de gestió."@ca ;
+    skos:note "auditoria combinada (n. f.)"@ca,
+        "combined audit"@en,
+        "auditoría combinada (s. f.)"@es,
+        "audit combiné (n. m.)"@fr,
+        "auditoría combinada (n. f.)"@gl,
+        "audit combinato (s. m.)"@it,
+        "auditoria combinada (s. f.)"@pt,
+        "audit combinat (s. n.)"@ro ;
+    skos:prefLabel "auditoria combinada"@ca,
+        "combined audit"@en,
+        "auditoría combinada"@es,
+        "audit combiné"@fr,
+        "auditoría combinada"@gl,
+        "audit combinato"@it,
+        "auditoria combinada"@pt,
+        "audit combinat"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:auditoria_conjunta a skos:Concept ;
+    skos:definition "Auditoria que es realitza a una única organització auditada per dues o més organitzacions auditores."@ca ;
+    skos:note "auditoria conjunta (n. f.)"@ca,
+        "joint audit"@en,
+        "auditoría conjunta (s. f.)"@es,
+        "audit conjoint (n. m.)"@fr,
+        "auditoría conxunta (n. f.)"@gl,
+        "audit congiunto (s. m.)"@it,
+        "auditoria conjunta (s. f.)"@pt,
+        "strategie comună de audit (s. f.)"@ro ;
+    skos:prefLabel "auditoria conjunta"@ca,
+        "joint audit"@en,
+        "auditoría conjunta"@es,
+        "audit conjoint"@fr,
+        "auditoría conxunta"@gl,
+        "audit congiunto"@it,
+        "auditoria conjunta"@pt,
+        "strategie comună de audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:avaluació_del_progrés a skos:Concept ;
+    skos:definition "Avaluació del progrés que presenta l'assoliment dels objectius del projecte."@ca ;
+    skos:note "avaluació del progrés (n. f.)"@ca,
+        "progress evaluation"@en,
+        "evaluación del avance (s. f.)"@es,
+        "évaluation de l'avancement (n. f.)"@fr,
+        "avaliación do progreso (n. f.)"@gl,
+        "valutazione del progresso (s. f.)"@it,
+        "avaliação de progresso (s. f.)"@pt,
+        "evaluare a progresului (s. f.)"@ro ;
+    skos:prefLabel "avaluació del progrés"@ca,
+        "progress evaluation"@en,
+        "evaluación del avance"@es,
+        "évaluation de l'avancement"@fr,
+        "avaliación do progreso"@gl,
+        "valutazione del progresso"@it,
+        "avaliação de progresso"@pt,
+        "evaluare a progresului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:capacitat a skos:Concept ;
+    skos:definition "Aptitud d'un objecte per a realitzar un element de sortida que compleixi els requisits de l'element de sortida."@ca ;
+    skos:note "capacitat (n. f.)"@ca,
+        "capability"@en,
+        "capacidad (s. f.)"@es,
+        "capacité (n. f.)"@fr,
+        "capacidade (n. f.)"@gl,
+        "capacità (s. f.)"@it,
+        "capacidade (s. f.)"@pt,
+        "capabilitate (s. f.)"@ro ;
+    skos:prefLabel "capacitat"@ca,
+        "capability"@en,
+        "capacidad"@es,
+        "capacité"@fr,
+        "capacidade"@gl,
+        "capacità"@it,
+        "capacidade"@pt,
+        "capabilitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:característica a skos:Concept ;
+    skos:definition "Tret distintiu."@ca ;
+    skos:note "característica (n. f.)"@ca,
+        "characteristic"@en,
+        "característica (s. f.)"@es,
+        "caractéristique (n. f.)"@fr,
+        "característica (n. f.)"@gl,
+        "caratteristica (s. f.)"@it,
+        "característica (s. f.)"@pt,
+        "caracteristică (s. f.)"@ro ;
+    skos:prefLabel "característica"@ca,
+        "characteristic"@en,
+        "característica"@es,
+        "caractéristique"@fr,
+        "característica"@gl,
+        "caratteristica"@it,
+        "característica"@pt,
+        "caracteristică"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:característica_de_la_qualitat a skos:Concept ;
+    skos:definition "Característica inherent a un objecte relacionada amb un requisit."@ca ;
+    skos:note "característica de la qualitat (n. f.)"@ca,
+        "quality characteristic"@en,
+        "característica de la calidad (s. f.)"@es,
+        "caractéristique qualité (n. f.)"@fr,
+        "característica da calidade (n. f.)"@gl,
+        "caratteristica qualitativa (s. f.)"@it,
+        "característica de qualdidade (s. f.)"@pt,
+        "caracteristică a calităţii (s. f.)"@ro ;
+    skos:prefLabel "característica de la qualitat"@ca,
+        "quality characteristic"@en,
+        "característica de la calidad"@es,
+        "caractéristique qualité"@fr,
+        "característica da calidade"@gl,
+        "caratteristica qualitativa"@it,
+        "característica de qualdidade"@pt,
+        "caracteristică a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:característica_metrològica a skos:Concept ;
+    skos:definition "Característica que pot influir en els resultats de la mesura."@ca ;
+    skos:note "característica metrològica (n. f.)"@ca,
+        "metrological characteristic"@en,
+        "característica metrológica (s. f.)"@es,
+        "caractéristique métrologique (n. f.)"@fr,
+        "característica metrolóxica (n. f.)"@gl,
+        "caratteristica metrologica (s. f.)"@it,
+        "característica metrológica (s. f.)"@pt,
+        "caracteristică metrologică (s. f.)"@ro ;
+    skos:prefLabel "característica metrològica"@ca,
+        "metrological characteristic"@en,
+        "característica metrológica"@es,
+        "caractéristique métrologique"@fr,
+        "característica metrolóxica"@gl,
+        "caratteristica metrologica"@it,
+        "característica metrológica"@pt,
+        "caracteristică metrologică"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:cas_específic a skos:Concept ;
+    skos:definition "Tema del pla de la qualitat."@ca ;
+    skos:note "cas específic (n. m.)"@ca,
+        "specific case"@en,
+        "caso específico (s. m.)"@es,
+        "cas spécifique (n. m.)"@fr,
+        "caso especifico (n. m.)"@gl,
+        "caso specifico (s. m.)"@it,
+        "caso específico (s. m.)"@pt,
+        "caz concret (s. m.)"@ro ;
+    skos:prefLabel "cas específic"@ca,
+        "specific case"@en,
+        "caso específico"@es,
+        "cas spécifique"@fr,
+        "caso especifico"@gl,
+        "caso specifico"@it,
+        "caso específico"@pt,
+        "caz concret"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:classe a skos:Concept ;
+    skos:definition "Categoria o rang que es dona a diferents requisits per a un objecte que tenen un mateix ús funcional."@ca ;
+    skos:note "classe (n. f.)"@ca,
+        "grade"@en,
+        "clase (s. f.)"@es,
+        "classe (n. f.)"@fr,
+        "clase (n. f.)"@gl,
+        "classe (s. f.)"@it,
+        "classe (s. f.)"@pt,
+        "clasă de calitate (s. f.)"@ro ;
+    skos:prefLabel "classe"@ca,
+        "grade"@en,
+        "clase"@es,
+        "classe"@fr,
+        "clase"@gl,
+        "classe"@it,
+        "classe"@pt,
+        "clasă de calitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:client a skos:Concept ;
+    skos:altLabel "clienta"@ca,
+        "clienta"@es,
+        "cliente"@fr,
+        "clienta"@gl ;
+    skos:definition "Persona o organització que podria rebre o rep un producte o un servei que és previst per a aquesta persona o organització o que aquesta persona o organització ha requerit."@ca ;
+    skos:note "client (n. m.)"@ca,
+        "customer"@en,
+        "cliente (s. m.)"@es,
+        "client (n. m.)"@fr,
+        "cliente (n. m.)"@gl,
+        "cliente (s. m.)"@it,
+        "cliente (s. m., f.)"@pt,
+        "client (s. m.)"@ro ;
+    skos:prefLabel "client"@ca,
+        "customer"@en,
+        "cliente"@es,
+        "client"@fr,
+        "cliente"@gl,
+        "cliente"@it,
+        "cliente"@pt,
+        "client"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:client_de_l_auditoria a skos:Concept ;
+    skos:altLabel "clienta de l'auditoria"@ca,
+        "clienta de la auditoría"@es,
+        "cliente de l'audit"@fr,
+        "clienta da auditoría"@gl ;
+    skos:definition "Organització o persona que sol·licita una auditoria."@ca ;
+    skos:note "client de l'auditoria (n. m.)"@ca,
+        "audit client"@en,
+        "cliente de la auditoría (s. m.)"@es,
+        "client de l'audit (n. m.)"@fr,
+        "cliente da auditoría (n. m.)"@gl,
+        "committente dell'audit (s. m.)"@it,
+        "cliente de auditoria (s. m., f.)"@pt,
+        "client al auditului (s. m.)"@ro ;
+    skos:prefLabel "client de l'auditoria"@ca,
+        "audit client"@en,
+        "cliente de la auditoría"@es,
+        "client de l'audit"@fr,
+        "cliente da auditoría"@gl,
+        "committente dell'audit"@it,
+        "cliente de auditoria"@pt,
+        "client al auditului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:codi_de_conducta_de_la_satisfacció_del_client a skos:Concept ;
+    skos:definition "Conjunt de promeses fetes als clients per una organització relatives al seu comportament i destinades a millorar la satisfacció del client i les disposicions relacionades."@ca ;
+    skos:note "codi de conducta de la satisfacció del client (n. m.)"@ca,
+        "customer satisfaction code of conduct"@en,
+        "código de conducta de la satisfacción del cliente (s. m.)"@es,
+        "code de conduite relatif à la satisfaction du client (n. m.)"@fr,
+        "código de conduta da satisfacción do cliente (n. m.)"@gl,
+        "código de conduta na relação com o cliente (s. m.)"@pt,
+        "cod de conduită adecvat pentru satisfacţia clientului (s. n.)"@ro ;
+    skos:prefLabel "codi de conducta de la satisfacció del client"@ca,
+        "customer satisfaction code of conduct"@en,
+        "código de conducta de la satisfacción del cliente"@es,
+        "code de conduite relatif à la satisfaction du client"@fr,
+        "código de conduta da satisfacción do cliente"@gl,
+        "código de conduta na relação com o cliente"@pt,
+        "cod de conduită adecvat pentru satisfacţia clientului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:comitè_de_revisió a skos:Concept ;
+    skos:altLabel "comitè de seguiment"@ca,
+        "configuration control board"@en,
+        "dispositioning authority"@en,
+        "autoridad para disponer"@es,
+        "gestión de la decisión"@es,
+        "autorité de décision"@fr,
+        "comité de contrôle de la configuration"@fr,
+        "management al deciziei"@ro ;
+    skos:definition "Persona o grup de persones a les quals s'ha assignat la responsabilitat i l'autoritat de prendre decisions sobre la configuració."@ca ;
+    skos:note "comitè de revisió (n. m.)"@ca,
+        "configuration authority"@en,
+        "autoridad de decisión (s. f.)"@es,
+        "autorité de configuration (n. f.)"@fr,
+        "autoridade de control da configuración (n. f.)"@gl,
+        "comitato di revisione (s. m.)"@it,
+        "comissão de acompanhamento (s. f.)"@pt,
+        "autoritate de decizie (s. f.)"@ro ;
+    skos:prefLabel "comitè de revisió"@ca,
+        "configuration authority"@en,
+        "autoridad de decisión"@es,
+        "autorité de configuration"@fr,
+        "autoridade de control da configuración"@gl,
+        "comitato di revisione"@it,
+        "comissão de acompanhamento"@pt,
+        "autoritate de decizie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:competència a skos:Concept ;
+    skos:definition "Capacitat per a aplicar coneixements i habilitats per a assolir els resultats previstos."@ca ;
+    skos:note "competència (n. f.)"@ca,
+        "competence"@en,
+        "competencia (s. f.)"@es,
+        "compétence (n. f.)"@fr,
+        "competencia (n. f.)"@gl,
+        "competenza (s. f.)"@it,
+        "competência (s. f.)"@pt,
+        "competenţă (s. f.)"@ro ;
+    skos:prefLabel "competència"@ca,
+        "competence"@en,
+        "competencia"@es,
+        "compétence"@fr,
+        "competencia"@gl,
+        "competenza"@it,
+        "competência"@pt,
+        "competenţă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:compromís a skos:Concept ;
+    skos:definition "Participació activa en les activitats per a assolir els objectius compartits i contribució que s'hi fa."@ca ;
+    skos:note "compromís (n. m.)"@ca,
+        "engagement"@en,
+        "compromiso (s. m.)"@es,
+        "engagement (n. m.)"@fr,
+        "compromiso (n. m.)"@gl,
+        "engagement (s. m.)"@it,
+        "compromisso (s. m.)"@pt,
+        "angajament (s. n.)"@ro ;
+    skos:prefLabel "compromís"@ca,
+        "engagement"@en,
+        "compromiso"@es,
+        "engagement"@fr,
+        "compromiso"@gl,
+        "engagement"@it,
+        "compromisso"@pt,
+        "angajament"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:concessió a skos:Concept ;
+    skos:altLabel "concessão"@pt ;
+    skos:definition "Autorització per a la utilització o l'alliberament d'un producte o d'un servei que no és conforme als requisits especificats."@ca ;
+    skos:note "concessió (n. f.)"@ca,
+        "concession"@en,
+        "concesión (s. f.)"@es,
+        "dérogation (après production) (n. f.)"@fr,
+        "concesión (n. f.)"@gl,
+        "concessione (s. f.)"@it,
+        "cedência (s. f.)"@pt,
+        "concesiune (s. f.)"@ro ;
+    skos:prefLabel "concessió"@ca,
+        "concession"@en,
+        "concesión"@es,
+        "dérogation (après production)"@fr,
+        "concesión"@gl,
+        "concessione"@it,
+        "cedência"@pt,
+        "concesiune"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:conclusions_de_l_auditoria a skos:Concept ;
+    skos:definition "Resultat d'una auditoria després de prendre en consideració els objectius de l'auditoria i totes les constatacions d'auditoria."@ca ;
+    skos:note "conclusions de l'auditoria (n. f. pl.)"@ca,
+        "audit conclusion"@en,
+        "conclusiones de la auditoría (n. f. pl.)"@es,
+        "conclusions d'audit (n. f. pl.)"@fr,
+        "conclusións da auditoría (n. f. pl.)"@gl,
+        "conclusioni dell'audit (n. f. pl.)"@it,
+        "conclusões da auditoria (n. f. pl.)"@pt,
+        "concluzii ale auditului (n. f. pl.)"@ro ;
+    skos:prefLabel "conclusions de l'auditoria"@ca,
+        "audit conclusion"@en,
+        "conclusiones de la auditoría"@es,
+        "conclusions d'audit"@fr,
+        "conclusións da auditoría"@gl,
+        "conclusioni dell'audit"@it,
+        "conclusões da auditoria"@pt,
+        "concluzii ale auditului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:configuració a skos:Concept ;
+    skos:definition "Característiques funcionals i físiques interrelacionades d'un producte o d'un servei definides en la informació sobre la configuració del producte."@ca ;
+    skos:note "configuració (n. f.)"@ca,
+        "configuration"@en,
+        "configuración (s. f.)"@es,
+        "configuration (n. f.)"@fr,
+        "configuración (n. f.)"@gl,
+        "configurazione (s. f.)"@it,
+        "configuração (s. f.)"@pt,
+        "configurare (s. f.)"@ro ;
+    skos:prefLabel "configuració"@ca,
+        "configuration"@en,
+        "configuración"@es,
+        "configuration"@fr,
+        "configuración"@gl,
+        "configurazione"@it,
+        "configuração"@pt,
+        "configurare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:configuració_de_referència a skos:Concept ;
+    skos:definition "Informació sobre la configuració del producte aprovada que estableix les característiques d'un producte o d'un servei en un instant determinat,  la qual serveix de referència per a activitats durant tot el cicle de vida del producte o el servei."@ca ;
+    skos:note "configuració de referència (n. f.)"@ca,
+        "configuration baseline"@en,
+        "configuración de referencia (s. f.)"@es,
+        "configuration de référence (n. f.)"@fr,
+        "configuración de referencia (n. f.)"@gl,
+        "configurazione di riferimento (s. f.)"@it,
+        "referente (s. m.)"@pt,
+        "configuraţie de referinţă (s. f.)"@ro ;
+    skos:prefLabel "configuració de referència"@ca,
+        "configuration baseline"@en,
+        "configuración de referencia"@es,
+        "configuration de référence"@fr,
+        "configuración de referencia"@gl,
+        "configurazione di riferimento"@it,
+        "referente"@pt,
+        "configuraţie de referinţă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:confirmació_metrològica a skos:Concept ;
+    skos:definition "Conjunt d'operacions necessàries per a assegurar que l'equip de mesura compleixi els requisits per a l'ús previst."@ca ;
+    skos:note "confirmació metrològica (n. f.)"@ca,
+        "metrological confirmation"@en,
+        "confirmación metrológica (s. f.)"@es,
+        "confirmation métrologique (n. f.)"@fr,
+        "confirmación metrolóxica (n. f.)"@gl,
+        "conferma metrologica (s. f.)"@it,
+        "confirmação metrológica (s. f.)"@pt,
+        "confirmare metrologică (s. f.)"@ro ;
+    skos:prefLabel "confirmació metrològica"@ca,
+        "metrological confirmation"@en,
+        "confirmación metrológica"@es,
+        "confirmation métrologique"@fr,
+        "confirmación metrolóxica"@gl,
+        "conferma metrologica"@it,
+        "confirmação metrológica"@pt,
+        "confirmare metrologică"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:conflicte a skos:Concept ;
+    skos:altLabel "controversia"@it ;
+    skos:definition "Desacord resultant d'una queixa, que es presenta a un proveïdor d'un procés de resolució de conflictes."@ca ;
+    skos:note "conflicte (n. m.)"@ca,
+        "dispute"@en,
+        "conflicto (s. m.)"@es,
+        "conflit (n. m.)"@fr,
+        "conflito (n. m.)"@gl,
+        "contenzioso (s. m.)"@it,
+        "conflito (s. m.)"@pt,
+        "conflict (s. n.)"@ro ;
+    skos:prefLabel "conflicte"@ca,
+        "dispute"@en,
+        "conflicto"@es,
+        "conflit"@fr,
+        "conflito"@gl,
+        "contenzioso"@it,
+        "conflito"@pt,
+        "conflict"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:conformitat a skos:Concept ;
+    skos:definition "Compliment d'un requisit."@ca ;
+    skos:note "conformitat (n. f.)"@ca,
+        "conformity"@en,
+        "conformidad (s. f.)"@es,
+        "conformité (n. f.)"@fr,
+        "conformidade (n. f.)"@gl,
+        "conformità (s. f.)"@it,
+        "conformidade (s. f.)"@pt,
+        "conformitate (s. f.)"@ro ;
+    skos:prefLabel "conformitat"@ca,
+        "conformity"@en,
+        "conformidad"@es,
+        "conformité"@fr,
+        "conformidade"@gl,
+        "conformità"@it,
+        "conformidade"@pt,
+        "conformitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:constatacions_d_auditoria a skos:Concept ;
+    skos:definition "Resultat de l'avaluació de les proves d'auditoria que es recopilen amb relació als criteris d'auditoria."@ca ;
+    skos:note "constatacions d'auditoria (n. f. pl.)"@ca,
+        "audit findings"@en,
+        "hallazgos de la auditoría (n. m. pl.)"@es,
+        "constatations d'audit (n. f. pl.)"@fr,
+        "constatacións da auditoría (n. f. pl.)"@gl,
+        "risultanze dell'audit (n. f. pl.)"@it,
+        "constatações da auditoria (n. f. pl.)"@pt,
+        "constatare a auditului (s. f.)"@ro ;
+    skos:prefLabel "constatacions d'auditoria"@ca,
+        "audit findings"@en,
+        "hallazgos de la auditoría"@es,
+        "constatations d'audit"@fr,
+        "constatacións da auditoría"@gl,
+        "risultanze dell'audit"@it,
+        "constatações da auditoria"@pt,
+        "constatare a auditului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:consultor_del_sistema_de_gestió_de_la_qualitat a skos:Concept ;
+    skos:altLabel "consultora del sistema de gestió de la qualitat"@ca,
+        "consultora del sistema de gestión de la calidad"@es,
+        "consultante en systèmes de management de la qualité"@fr,
+        "consultora do sistema de xestión da calidade"@gl,
+        "consultora de qualidade"@pt ;
+    skos:definition "Persona que ajuda l'organització en la realització del sistema de gestió de la qualitat proporcionant-li assessorament o informació."@ca ;
+    skos:note "consultor del sistema de gestió de la qualitat (n. m.)"@ca,
+        "quality management system consultant"@en,
+        "consultor del sistema de gestión de la calidad (s. m.)"@es,
+        "consultant en systèmes de management de la qualité (n. m.)"@fr,
+        "consultor do sistema de xestión da calidade (n. m.)"@gl,
+        "consulente sistemi di gestione della qualità (s. m., f.)"@it,
+        "consultor de qualidade (s. m.)"@pt,
+        "consultant sisteme de management al calităţii (s. m.)"@ro ;
+    skos:prefLabel "consultor del sistema de gestió de la qualitat"@ca,
+        "quality management system consultant"@en,
+        "consultor del sistema de gestión de la calidad"@es,
+        "consultant en systèmes de management de la qualité"@fr,
+        "consultor do sistema de xestión da calidade"@gl,
+        "consulente sistemi di gestione della qualità"@it,
+        "consultor de qualidade"@pt,
+        "consultant sisteme de management al calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:context_de_l_organització a skos:Concept ;
+    skos:definition "Combinació de qüestions internes i externes que poden tenir un efecte en l'enfocament de l'organització per al desenvolupament i l'assoliment dels seus objectius."@ca ;
+    skos:note "context de l'organització (n. m.)"@ca,
+        "context of the organization"@en,
+        "contexto de la organización (s. m.)"@es,
+        "contexte d'un organisme (n. m.)"@fr,
+        "contexto da organización (n. m.)"@gl,
+        "contesto dell'organizzazione (s. m.)"@it,
+        "contexto organizacional (s. m.)"@pt,
+        "context al organizaţiei (s. n.)"@ro ;
+    skos:prefLabel "context de l'organització"@ca,
+        "context of the organization"@en,
+        "contexto de la organización"@es,
+        "contexte d'un organisme"@fr,
+        "contexto da organización"@gl,
+        "contesto dell'organizzazione"@it,
+        "contexto organizacional"@pt,
+        "context al organizaţiei"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:contracte a skos:Concept ;
+    skos:definition "Acord vinculant."@ca ;
+    skos:note "contracte (n. m.)"@ca,
+        "contract"@en,
+        "contrato (s. m.)"@es,
+        "contrat (n. m.)"@fr,
+        "contrato (n. m.)"@gl,
+        "contratto (s. m.)"@it,
+        "contrato (s. m.)"@pt,
+        "contract (s. n.)"@ro ;
+    skos:prefLabel "contracte"@ca,
+        "contract"@en,
+        "contrato"@es,
+        "contrat"@fr,
+        "contrato"@gl,
+        "contratto"@it,
+        "contrato"@pt,
+        "contract"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:control_de_canvis a skos:Concept ;
+    skos:altLabel "controllo delle modifiche"@it,
+        "control al schimbărilor"@ro ;
+    skos:definition "Conjunt d'activitats per al control dels elements de sortida després de l'aprovació formal de la seva informació sobre la configuració del producte."@ca ;
+    skos:note "control de canvis (n. m.)"@ca,
+        "change control"@en,
+        "control de cambios (s. m.)"@es,
+        "maîtrise des évolutions (n. f.)"@fr,
+        "control de cambios (n. m.)"@gl,
+        "controllo del cambiamento (s. m.)"@it,
+        "controle de qualidade (s. m.)"@pt,
+        "control al modificărilor (s. n.)"@ro ;
+    skos:prefLabel "control de canvis"@ca,
+        "change control"@en,
+        "control de cambios"@es,
+        "maîtrise des évolutions"@fr,
+        "control de cambios"@gl,
+        "controllo del cambiamento"@it,
+        "controle de qualidade"@pt,
+        "control al modificărilor"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:control_de_la_qualitat a skos:Concept ;
+    skos:definition "Part de la gestió de la qualitat destinada al compliment dels requisits de la qualitat."@ca ;
+    skos:note "control de la qualitat (n. m.)"@ca,
+        "quality control"@en,
+        "control de la calidad (s. m.)"@es,
+        "maîtrise de la qualité (n. f.)"@fr,
+        "control da calidade (n. m.)"@gl,
+        "controllo della qualità (s. m.)"@it,
+        "controlo de qualidade (s. m.)"@pt,
+        "control al calităţii (s. n.)"@ro ;
+    skos:prefLabel "control de la qualitat"@ca,
+        "quality control"@en,
+        "control de la calidad"@es,
+        "maîtrise de la qualité"@fr,
+        "control da calidade"@gl,
+        "controllo della qualità"@it,
+        "controlo de qualidade"@pt,
+        "control al calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:correcció a skos:Concept ;
+    skos:definition "Acció per a eliminar una no-conformitat detectada."@ca ;
+    skos:note "correcció (n. f.)"@ca,
+        "correction"@en,
+        "corrección (s. f.)"@es,
+        "correction (n. f.)"@fr,
+        "corrección (n. f.)"@gl,
+        "correzione (s. f.)"@it,
+        "correcção (s. f.)"@pt,
+        "corecţie (s. f.)"@ro ;
+    skos:prefLabel "correcció"@ca,
+        "correction"@en,
+        "corrección"@es,
+        "correction"@fr,
+        "corrección"@gl,
+        "correzione"@it,
+        "correcção"@pt,
+        "corecţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:criteris_d_auditoria a skos:Concept ;
+    skos:definition "Conjunt de polítiques, de procediments o de requisits que s'empren com a referència per a comparar les proves objectives."@ca ;
+    skos:note "criteris d'auditoria (n. m. pl.)"@ca,
+        "audit criteria"@en,
+        "criterios de auditoría (n. m. pl.)"@es,
+        "critères d'audit (n. m. pl.)"@fr,
+        "criterios de auditoría (n. m. pl.)"@gl,
+        "criteri dell'audit (n. m. pl.)"@it,
+        "critérios de auditoria (n. m. pl.)"@pt,
+        "criteriu de audit (s. n.)"@ro ;
+    skos:prefLabel "criteris d'auditoria"@ca,
+        "audit criteria"@en,
+        "criterios de auditoría"@es,
+        "critères d'audit"@fr,
+        "criterios de auditoría"@gl,
+        "criteri dell'audit"@it,
+        "critérios de auditoria"@pt,
+        "criteriu de audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:dades a skos:Concept ;
+    skos:definition "Fets sobre un objecte."@ca ;
+    skos:note "dades (n. f. pl.)"@ca,
+        "data"@en,
+        "datos (n. m. pl.)"@es,
+        "données (n. f. pl.)"@fr,
+        "datos (n. m. pl.)"@gl,
+        "dati (n. m. pl.)"@it,
+        "dados (n. m. pl.)"@pt,
+        "date (n. f. pl.)"@ro ;
+    skos:prefLabel "dades"@ca,
+        "data"@en,
+        "datos"@es,
+        "données"@fr,
+        "datos"@gl,
+        "dati"@it,
+        "dados"@pt,
+        "date"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:defecte a skos:Concept ;
+    skos:definition "No-conformitat que s'associa a un ús previst o especificat."@ca ;
+    skos:note "defecte (n. m.)"@ca,
+        "defect"@en,
+        "defecto (s. m.)"@es,
+        "défaut (n. m.)"@fr,
+        "defecto (n. m.)"@gl,
+        "difetto (s. m.)"@it,
+        "defeito (s. m.)"@pt,
+        "defect (s. n.)"@ro ;
+    skos:prefLabel "defecte"@ca,
+        "defect"@en,
+        "defecto"@es,
+        "défaut"@fr,
+        "defecto"@gl,
+        "difetto"@it,
+        "defeito"@pt,
+        "defect"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:determinació a skos:Concept ;
+    skos:definition "Activitat per a establir una o més característiques i els seus valors característics."@ca ;
+    skos:note "determinació (n. f.)"@ca,
+        "determination"@en,
+        "determinación (s. f.)"@es,
+        "détermination (n. f.)"@fr,
+        "determinación (n. f.)"@gl,
+        "determinazione (s. f.)"@it,
+        "determinação (s. f.)"@pt,
+        "determinare (s. f.)"@ro ;
+    skos:prefLabel "determinació"@ca,
+        "determination"@en,
+        "determinación"@es,
+        "détermination"@fr,
+        "determinación"@gl,
+        "determinazione"@it,
+        "determinação"@pt,
+        "determinare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:disseny_i_desenvolupament a skos:Concept ;
+    skos:definition "Conjunt de processos que transformen els requisits per a un objecte en requisits més detallats per a l'objecte."@ca ;
+    skos:note "disseny i desenvolupament (n. m.)"@ca,
+        "design and development"@en,
+        "diseño y desarrollo (s. m.)"@es,
+        "conception et développement (n. f.)"@fr,
+        "deseño e desenvolvemento (n. m.)"@gl,
+        "progettazione e sviluppo (s. f.)"@it,
+        "concepção e desenvolvimento (s. f.)"@pt,
+        "proiectare şi dezvoltare (s. f.)"@ro ;
+    skos:prefLabel "disseny i desenvolupament"@ca,
+        "design and development"@en,
+        "diseño y desarrollo"@es,
+        "conception et développement"@fr,
+        "deseño e desenvolvemento"@gl,
+        "progettazione e sviluppo"@it,
+        "concepção e desenvolvimento"@pt,
+        "proiectare şi dezvoltare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:document a skos:Concept ;
+    skos:definition "Informació i el seu mitjà de suport."@ca ;
+    skos:note "document (n. m.)"@ca,
+        "document"@en,
+        "documento (s. m.)"@es,
+        "document (n. m.)"@fr,
+        "documento (n. m.)"@gl,
+        "documento (s. m.)"@it,
+        "documento (s. m.)"@pt,
+        "document (s. n.)"@ro ;
+    skos:prefLabel "document"@ca,
+        "document"@en,
+        "documento"@es,
+        "document"@fr,
+        "documento"@gl,
+        "documento"@it,
+        "documento"@pt,
+        "document"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:eficiència a skos:Concept ;
+    skos:definition "Relació entre els resultats obtinguts i els recursos utilitzats."@ca ;
+    skos:note "eficiència (n. f.)"@ca,
+        "efficiency"@en,
+        "eficiencia (s. f.)"@es,
+        "efficience (n. f.)"@fr,
+        "eficiencia (n. f.)"@gl,
+        "efficienza (s. f.)"@it,
+        "eficiência (s. f.)"@pt,
+        "eficienţă (s. f.)"@ro ;
+    skos:prefLabel "eficiència"@ca,
+        "efficiency"@en,
+        "eficiencia"@es,
+        "efficience"@fr,
+        "eficiencia"@gl,
+        "efficienza"@it,
+        "eficiência"@pt,
+        "eficienţă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:eficàcia a skos:Concept ;
+    skos:definition "Grau en què es duen a terme les activitats planificades i s'assoleixen els resultats previstos."@ca ;
+    skos:note "eficàcia (n. f.)"@ca,
+        "effectiveness"@en,
+        "eficacia (s. f.)"@es,
+        "efficacité (n. f.)"@fr,
+        "eficacia (n. f.)"@gl,
+        "efficacia (s. f.)"@it,
+        "eficácia (s. f.)"@pt,
+        "eficacitate (s. f.)"@ro ;
+    skos:prefLabel "eficàcia"@ca,
+        "effectiveness"@en,
+        "eficacia"@es,
+        "efficacité"@fr,
+        "eficacia"@gl,
+        "efficacia"@it,
+        "eficácia"@pt,
+        "eficacitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:element_de_sortida a skos:Concept ;
+    skos:definition "Resultat d'un procés."@ca ;
+    skos:note "element de sortida (n. m.)"@ca,
+        "output"@en,
+        "salida (s. f.)"@es,
+        "élément de sortie (n. m.)"@fr,
+        "elemento de saída (n. m.)"@gl,
+        "risultato (s. m.)"@it,
+        "resultado (s. m.)"@pt,
+        "element de ieşire (s. n.)"@ro ;
+    skos:prefLabel "element de sortida"@ca,
+        "output"@en,
+        "salida"@es,
+        "élément de sortie"@fr,
+        "elemento de saída"@gl,
+        "risultato"@it,
+        "resultado"@pt,
+        "element de ieşire"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:equip_d_auditoria a skos:Concept ;
+    skos:definition "Una o més persones que duen a terme una auditoria amb el suport, si cal, d'experts tècnics."@ca ;
+    skos:note "equip d'auditoria (n. m.)"@ca,
+        "audit team"@en,
+        "equipo auditor (s. m.)"@es,
+        "équipe d'audit (n. f.)"@fr,
+        "equipo auditor (n. m.)"@gl,
+        "gruppo di audit (s. m.)"@it,
+        "equipa de auditoria (s. f.)"@pt,
+        "echipă de audit (s. f.)"@ro ;
+    skos:prefLabel "equip d'auditoria"@ca,
+        "audit team"@en,
+        "equipo auditor"@es,
+        "équipe d'audit"@fr,
+        "equipo auditor"@gl,
+        "gruppo di audit"@it,
+        "equipa de auditoria"@pt,
+        "echipă de audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:equip_de_mesura a skos:Concept ;
+    skos:definition "Instrument de mesura, programari, patró de mesura, material de referència, aparells auxiliars o una combinació d'aquests, necessaris per a dur a terme un procés de mesura."@ca ;
+    skos:note "equip de mesura (n. m.)"@ca,
+        "measuring equipment"@en,
+        "equipo de medición (s. m.)"@es,
+        "équipement de mesure (n. m.)"@fr,
+        "equipo de medición (n. m.)"@gl,
+        "apparecchiature per misurazione (s. f.)"@it,
+        "equipamento de medida (s. m.)"@pt,
+        "echipament de măsurare (s. n.)"@ro ;
+    skos:prefLabel "equip de mesura"@ca,
+        "measuring equipment"@en,
+        "equipo de medición"@es,
+        "équipement de mesure"@fr,
+        "equipo de medición"@gl,
+        "apparecchiature per misurazione"@it,
+        "equipamento de medida"@pt,
+        "echipament de măsurare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:especificació a skos:Concept ;
+    skos:definition "Document que estableix requisits."@ca ;
+    skos:note "especificació (n. f.)"@ca,
+        "specification"@en,
+        "especificación (s. f.)"@es,
+        "spécification (n. f.)"@fr,
+        "especificación (n. f.)"@gl,
+        "specifica (s. f.)"@it,
+        "especificação (s. f.)"@pt,
+        "specificaţie (s. f.)"@ro ;
+    skos:prefLabel "especificació"@ca,
+        "specification"@en,
+        "especificación"@es,
+        "spécification"@fr,
+        "especificación"@gl,
+        "specifica"@it,
+        "especificação"@pt,
+        "specificaţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:estratègia a skos:Concept ;
+    skos:definition "Pla per a assolir un objectiu a llarg termini o global."@ca ;
+    skos:note "estratègia (n. f.)"@ca,
+        "strategy"@en,
+        "estrategia (s. f.)"@es,
+        "stratégie (n. f.)"@fr,
+        "estratexia (n. f.)"@gl,
+        "strategia (s. f.)"@it,
+        "estratégia (s. f.)"@pt,
+        "strategie (s. f.)"@ro ;
+    skos:prefLabel "estratègia"@ca,
+        "strategy"@en,
+        "estrategia"@es,
+        "stratégie"@fr,
+        "estratexia"@gl,
+        "strategia"@it,
+        "estratégia"@pt,
+        "strategie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:evidència_d_auditoria a skos:Concept ;
+    skos:altLabel "prova de auditoria"@pt ;
+    skos:definition "Registre, declaració de fets o qualsevol altra informació verificable i pertinent per als criteris d'auditoria."@ca ;
+    skos:note "evidència d'auditoria (n. f.)"@ca,
+        "audit evidence"@en,
+        "evidencia de la auditoría (s. f.)"@es,
+        "preuves d'audit (n. f. pl.)"@fr,
+        "evidencia da auditoría (n. f.)"@gl,
+        "evidenze dell'audit (n. f. pl.)"@it,
+        "comprovativo de auditoria (s. m.)"@pt,
+        "dovadă de audit (s. f.)"@ro ;
+    skos:prefLabel "evidència d'auditoria"@ca,
+        "audit evidence"@en,
+        "evidencia de la auditoría"@es,
+        "preuves d'audit"@fr,
+        "evidencia da auditoría"@gl,
+        "evidenze dell'audit"@it,
+        "comprovativo de auditoria"@pt,
+        "dovadă de audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:expert_tècnic a skos:Concept ;
+    skos:altLabel "experta tècnica"@ca,
+        "experta técnica"@es,
+        "experte technique"@fr,
+        "experta técnica"@gl,
+        "esperta tecnica"@it,
+        "perita técnica"@pt,
+        "expertă tehnică"@ro ;
+    skos:definition "Persona que aporta experiència o coneixements específics a l'equip d'auditoria."@ca ;
+    skos:note "expert tècnic (n. m.)"@ca,
+        "technical expert"@en,
+        "experto técnico (s. m.)"@es,
+        "expert technique (n. m.)"@fr,
+        "experto técnico (n. m.)"@gl,
+        "esperto tecnico (s. m.)"@it,
+        "perito técnico (s. m.)"@pt,
+        "expert tehnic (s. m.)"@ro ;
+    skos:prefLabel "expert tècnic"@ca,
+        "technical expert"@en,
+        "experto técnico"@es,
+        "expert technique"@fr,
+        "experto técnico"@gl,
+        "esperto tecnico"@it,
+        "perito técnico"@pt,
+        "expert tehnic"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:externalitzar a skos:Concept ;
+    skos:definition "Establir un acord pel qual una organització externa acompleix part d'una funció o un procés d'una organització."@ca ;
+    skos:note "externalitzar (v. tr.)"@ca,
+        "outsource, to"@en,
+        "contratar externamente (v. tr.)"@es,
+        "externaliser (v. tr.)"@fr,
+        "externalizar (v. tr.)"@gl,
+        "esternalizzare (v. tr.)"@it,
+        "externalizar (v. tr.)"@pt,
+        "externaliza (v. tr.)"@ro ;
+    skos:prefLabel "externalitzar"@ca,
+        "outsource, to"@en,
+        "contratar externamente"@es,
+        "externaliser"@fr,
+        "externalizar"@gl,
+        "esternalizzare"@it,
+        "externalizar"@pt,
+        "externaliza"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:factor_humà a skos:Concept ;
+    skos:definition "Característica d'una persona que té un impacte en un objecte que s'estigui considerant."@ca ;
+    skos:note "factor humà (n. m.)"@ca,
+        "human factor"@en,
+        "factor humano (s. m.)"@es,
+        "facteur humain (n. m.)"@fr,
+        "factor humano (n. m.)"@gl,
+        "fattore umano (s. m.)"@it,
+        "fator humano (s. m.)"@pt,
+        "factor uman (s. m.)"@ro ;
+    skos:prefLabel "factor humà"@ca,
+        "human factor"@en,
+        "factor humano"@es,
+        "facteur humain"@fr,
+        "factor humano"@gl,
+        "fattore umano"@it,
+        "fator humano"@pt,
+        "factor uman"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:funció_metrològica a skos:Concept ;
+    skos:definition "Unitat funcional amb responsabilitat administrativa i tècnica per a definir i implantar el sistema de gestió de la mesura."@ca ;
+    skos:note "funció metrològica (n. f.)"@ca,
+        "metrological function"@en,
+        "función metrológica (s. f.)"@es,
+        "fonction métrologique (n. f.)"@fr,
+        "función metrolóxica (n. f.)"@gl,
+        "funzione metrologica (s. f.)"@it,
+        "função metrológica (s. f.)"@pt,
+        "funcţie metrologică (s. f.)"@ro ;
+    skos:prefLabel "funció metrològica"@ca,
+        "metrological function"@en,
+        "función metrológica"@es,
+        "fonction métrologique"@fr,
+        "función metrolóxica"@gl,
+        "funzione metrologica"@it,
+        "função metrológica"@pt,
+        "funcţie metrologică"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:gestió a skos:Concept ;
+    skos:altLabel "conducere"@ro,
+        "gestionare"@ro,
+        "management"@ro ;
+    skos:definition "Conjunt d'activitats que es coordinen per a dirigir i controlar una organització."@ca ;
+    skos:note "gestió (n. f.)"@ca,
+        "management"@en,
+        "gestión (s. f.)"@es,
+        "management (n. m.)"@fr,
+        "xestión (n. f.)"@gl,
+        "gestione (s. f.)"@it,
+        "gestão (s. f.)"@pt,
+        "activitate de management (s. f.)"@ro ;
+    skos:prefLabel "gestió"@ca,
+        "management"@en,
+        "gestión"@es,
+        "management"@fr,
+        "xestión"@gl,
+        "gestione"@it,
+        "gestão"@pt,
+        "activitate de management"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:gestió_de_la_configuració a skos:Concept ;
+    skos:definition "Conjunt d'activitats que es coordinen per a dirigir i controlar la configuració."@ca ;
+    skos:note "gestió de la configuració (n. f.)"@ca,
+        "configuration management"@en,
+        "gestión de la configuración (s. f.)"@es,
+        "gestion de la configuration (n. f.)"@fr,
+        "xestión da configuración (n. f.)"@gl,
+        "gestione della configurazione (s. f.)"@it,
+        "gestão da configuração (s. f.)"@pt,
+        "management al configurării (s. f.)"@ro ;
+    skos:prefLabel "gestió de la configuració"@ca,
+        "configuration management"@en,
+        "gestión de la configuración"@es,
+        "gestion de la configuration"@fr,
+        "xestión da configuración"@gl,
+        "gestione della configurazione"@it,
+        "gestão da configuração"@pt,
+        "management al configurării"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:gestió_de_la_qualitat a skos:Concept ;
+    skos:altLabel "gestiune a calităţii"@ro,
+        "management al calităţii"@ro ;
+    skos:definition "Gestió respecte a la qualitat."@ca ;
+    skos:note "gestió de la qualitat (n. f.)"@ca,
+        "quality management"@en,
+        "gestión de la calidad (s. f.)"@es,
+        "management de la qualité (n. m.)"@fr,
+        "xestión da calidade (n. f.)"@gl,
+        "gestione della qualità (s. f.)"@it,
+        "gestão da qualidade (s. f.)"@pt,
+        "conducere a calităţii (s. f.)"@ro ;
+    skos:prefLabel "gestió de la qualitat"@ca,
+        "quality management"@en,
+        "gestión de la calidad"@es,
+        "management de la qualité"@fr,
+        "xestión da calidade"@gl,
+        "gestione della qualità"@it,
+        "gestão da qualidade"@pt,
+        "conducere a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:gestió_de_projectes a skos:Concept ;
+    skos:altLabel "management de proiect"@ro ;
+    skos:definition "Planificació, organització, seguiment, control i informe de tots els aspectes d'un projecte i també motivació de totes les persones que hi concorren per a assolir els objectius del projecte."@ca ;
+    skos:note "gestió de projectes (n. f.)"@ca,
+        "project management"@en,
+        "gestión de proyectos (s. f.)"@es,
+        "management de projet (n. m.)"@fr,
+        "xestión de proxectos (n. f.)"@gl,
+        "gestione del progetto (s. m.)"@it,
+        "gestão de projeto (s. f.)"@pt,
+        "gestiunde de proiect (s. f.)"@ro ;
+    skos:prefLabel "gestió de projectes"@ca,
+        "project management"@en,
+        "gestión de proyectos"@es,
+        "management de projet"@fr,
+        "xestión de proxectos"@gl,
+        "gestione del progetto"@it,
+        "gestão de projeto"@pt,
+        "gestiunde de proiect"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:guia a skos:Concept ;
+    skos:definition "Persona designada per l'organització auditada perquè assisteixi l'equip d'auditoria."@ca ;
+    skos:note "guia (n. m., f.)"@ca,
+        "guide"@en,
+        "guía (s. m., f.)"@es,
+        "guide (n. m., f.)"@fr,
+        "guía (n. m., f.)"@gl,
+        "guida (s. f.)"@it,
+        "guia (s. m., f.)"@pt,
+        "ghid (s. n.)"@ro ;
+    skos:prefLabel "guia"@ca,
+        "guide"@en,
+        "guía"@es,
+        "guide"@fr,
+        "guía"@gl,
+        "guida"@it,
+        "guia"@pt,
+        "ghid"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:informació a skos:Concept ;
+    skos:definition "Dades significatives."@ca ;
+    skos:note "informació (n. f.)"@ca,
+        "information"@en,
+        "información (s. f.)"@es,
+        "information (n. f.)"@fr,
+        "información (n. f.)"@gl,
+        "informazione (s. f.)"@it,
+        "informação (s. f.)"@pt,
+        "informaţie (s. f.)"@ro ;
+    skos:prefLabel "informació"@ca,
+        "information"@en,
+        "información"@es,
+        "information"@fr,
+        "información"@gl,
+        "informazione"@it,
+        "informação"@pt,
+        "informaţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:informació_documentada a skos:Concept ;
+    skos:altLabel "informação documentada"@pt ;
+    skos:definition "Informació que una organització ha de controlar i de mantenir i també el mitjà que conté la informació."@ca ;
+    skos:note "informació documentada (n. f.)"@ca,
+        "documented information"@en,
+        "información documentada (s. f.)"@es,
+        "information documentée (n. f.)"@fr,
+        "información documentada (n. f.)"@gl,
+        "informazione documentata (s. f.)"@it,
+        "informação atestada (s. f.)"@pt,
+        "informaţie documentată (s. f.)"@ro ;
+    skos:prefLabel "informació documentada"@ca,
+        "documented information"@en,
+        "información documentada"@es,
+        "information documentée"@fr,
+        "información documentada"@gl,
+        "informazione documentata"@it,
+        "informação atestada"@pt,
+        "informaţie documentată"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:informació_sobre_la_configuració_del_producte a skos:Concept ;
+    skos:definition "Requisit o una altra dada per al disseny, la realització, la verificació, el funcionament i el suport d'un producte."@ca ;
+    skos:note "informació sobre la configuració del producte (n. f.)"@ca,
+        "product configuration information"@en,
+        "información sobre configuración del producto (s. f.)"@es,
+        "information de configuration produit (n. f.)"@fr,
+        "información sobre a configuración do produto (n. f.)"@gl,
+        "informazioni sulla configurazione di prodotto (n. f. pl.)"@it,
+        "informação sobre configuração do produto (s. f.)"@pt,
+        "atribut al produsului (s. n.)"@ro ;
+    skos:prefLabel "informació sobre la configuració del producte"@ca,
+        "product configuration information"@en,
+        "información sobre configuración del producto"@es,
+        "information de configuration produit"@fr,
+        "información sobre a configuración do produto"@gl,
+        "informazioni sulla configurazione di prodotto"@it,
+        "informação sobre configuração do produto"@pt,
+        "atribut al produsului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:infraestructura a skos:Concept ;
+    skos:definition "Sistema d'instal·lacions, d'equips i de serveis necessaris per al funcionament d'una organització."@ca ;
+    skos:note "infraestructura (n. f.)"@ca,
+        "infrastructure"@en,
+        "infraestructura (s. f.)"@es,
+        "infrastructure (n. f.)"@fr,
+        "infraestrutura (n. f.)"@gl,
+        "infrastruttura (s. f.)"@it,
+        "infrastrutura (s. f.)"@pt,
+        "infrastructură (s. f.)"@ro ;
+    skos:prefLabel "infraestructura"@ca,
+        "infrastructure"@en,
+        "infraestructura"@es,
+        "infrastructure"@fr,
+        "infraestrutura"@gl,
+        "infrastruttura"@it,
+        "infrastrutura"@pt,
+        "infrastructură"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:innovació a skos:Concept ;
+    skos:definition "Objecte nou o canviat que crea o redistribueix valor."@ca ;
+    skos:note "innovació (n. f.)"@ca,
+        "innovation"@en,
+        "innovación (s. f.)"@es,
+        "innovation (n. f.)"@fr,
+        "innovación (n. f.)"@gl,
+        "innovazione (s. f.)"@it,
+        "inovação (s. f.)"@pt,
+        "inovaţie (s. f.)"@ro ;
+    skos:prefLabel "innovació"@ca,
+        "innovation"@en,
+        "innovación"@es,
+        "innovation"@fr,
+        "innovación"@gl,
+        "innovazione"@it,
+        "inovação"@pt,
+        "inovaţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:inspecció a skos:Concept ;
+    skos:definition "Determinació de la conformitat amb els requisits especificats."@ca ;
+    skos:note "inspecció (n. f.)"@ca,
+        "inspection"@en,
+        "inspección (s. f.)"@es,
+        "contrôle (n. m.)"@fr,
+        "inspección (n. f.)"@gl,
+        "ispezione (s. f.)"@it,
+        "inspecção (s. f.)"@pt,
+        "inspecţie (s. f.)"@ro ;
+    skos:prefLabel "inspecció"@ca,
+        "inspection"@en,
+        "inspección"@es,
+        "contrôle"@fr,
+        "inspección"@gl,
+        "ispezione"@it,
+        "inspecção"@pt,
+        "inspecţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:justificació_de_l_estat_de_la_configuració a skos:Concept ;
+    skos:definition "Registre i informe formalitzat de la informació sobre la configuració del producte, l'estat dels canvis proposats i l'estat de la implementació dels canvis aprovats."@ca ;
+    skos:note "justificació de l'estat de la configuració (n. f.)"@ca,
+        "configuration status accounting"@en,
+        "justificación del estado de la configuración (s. f.)"@es,
+        "enregistrement de l'état de la configuration (n. m.)"@fr,
+        "xustificación do estado de configuración (n. f.)"@gl,
+        "relazione stato configurazione (s. f.)"@it,
+        "registo de estado de configuração (s. m.)"@pt,
+        "registru de stare de configurare (s. n.)"@ro ;
+    skos:prefLabel "justificació de l'estat de la configuració"@ca,
+        "configuration status accounting"@en,
+        "justificación del estado de la configuración"@es,
+        "enregistrement de l'état de la configuration"@fr,
+        "xustificación do estado de configuración"@gl,
+        "relazione stato configurazione"@it,
+        "registo de estado de configuração"@pt,
+        "registru de stare de configurare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:manual_de_la_qualitat a skos:Concept ;
+    skos:definition "Especificació del sistema de gestió de la qualitat d'una organització."@ca ;
+    skos:note "manual de la qualitat (n. m.)"@ca,
+        "quality manual"@en,
+        "manual de la calidad (s. m.)"@es,
+        "manuel qualité (n. m.)"@fr,
+        "manual de calidade (n. m.)"@gl,
+        "manuale della qualità (s. m.)"@it,
+        "manual de qualidade (s. m.)"@pt,
+        "manual al calităţii (s. n.)"@ro ;
+    skos:prefLabel "manual de la qualitat"@ca,
+        "quality manual"@en,
+        "manual de la calidad"@es,
+        "manuel qualité"@fr,
+        "manual de calidade"@gl,
+        "manuale della qualità"@it,
+        "manual de qualidade"@pt,
+        "manual al calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:mesura a skos:Concept ;
+    skos:definition "Procés per a determinar un valor."@ca ;
+    skos:note "mesura (n. f.)"@ca,
+        "measurement"@en,
+        "medición (s. f.)"@es,
+        "mesure (n. f.)"@fr,
+        "medición (n. f.)"@gl,
+        "misura (s. f.)"@it,
+        "medida (s. f.)"@pt,
+        "măsurare (s. f.)"@ro ;
+    skos:prefLabel "mesura"@ca,
+        "measurement"@en,
+        "medición"@es,
+        "mesure"@fr,
+        "medición"@gl,
+        "misura"@it,
+        "medida"@pt,
+        "măsurare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:millora a skos:Concept ;
+    skos:altLabel "îmbunătăţire"@ro ;
+    skos:definition "Activitat per a augmentar l'acompliment."@ca ;
+    skos:note "millora (n. f.)"@ca,
+        "improvement"@en,
+        "mejora (s. f.)"@es,
+        "amélioration (n. f.)"@fr,
+        "mellora (n. f.)"@gl,
+        "miglioramento (s. m.)"@it,
+        "melhoria (s. f.)"@pt,
+        "ameliorare (s. f.)"@ro ;
+    skos:prefLabel "millora"@ca,
+        "improvement"@en,
+        "mejora"@es,
+        "amélioration"@fr,
+        "mellora"@gl,
+        "miglioramento"@it,
+        "melhoria"@pt,
+        "ameliorare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:millora_contínua a skos:Concept ;
+    skos:altLabel "îmbunătăţire continuă"@ro ;
+    skos:definition "Activitat recurrent per a millorar l'acompliment."@ca ;
+    skos:note "millora contínua (n. f.)"@ca,
+        "continual improvement"@en,
+        "mejora continua (s. f.)"@es,
+        "amélioration continue (n. f.)"@fr,
+        "mellora continua (n. f.)"@gl,
+        "miglioramento continuo (s. m.)"@it,
+        "melhoria contínua (s. f.)"@pt,
+        "ameliorare continuă (s. f.)"@ro ;
+    skos:prefLabel "millora contínua"@ca,
+        "continual improvement"@en,
+        "mejora continua"@es,
+        "amélioration continue"@fr,
+        "mellora continua"@gl,
+        "miglioramento continuo"@it,
+        "melhoria contínua"@pt,
+        "ameliorare continuă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:millora_de_la_qualitat a skos:Concept ;
+    skos:altLabel "îmbunătăţire a calităţii"@ro ;
+    skos:definition "Part de la gestió de la qualitat destinada a fer augmentar la capacitat per a complir els requisits de la qualitat."@ca ;
+    skos:note "millora de la qualitat (n. f.)"@ca,
+        "quality improvement"@en,
+        "mejora de la calidad (s. f.)"@es,
+        "amélioration de la qualité (n. f.)"@fr,
+        "mellora da calidade (n. f.)"@gl,
+        "miglioramento della qualità (s. m.)"@it,
+        "melhoria da qualidade (s. f.)"@pt,
+        "ameliorare a calităţii (s. f.)"@ro ;
+    skos:prefLabel "millora de la qualitat"@ca,
+        "quality improvement"@en,
+        "mejora de la calidad"@es,
+        "amélioration de la qualité"@fr,
+        "mellora da calidade"@gl,
+        "miglioramento della qualità"@it,
+        "melhoria da qualidade"@pt,
+        "ameliorare a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:missió a skos:Concept ;
+    skos:definition "Propòsit de l'existència de l'organització tal com l'expressa l'alta direcció."@ca ;
+    skos:note "missió (n. f.)"@ca,
+        "mission"@en,
+        "misión (s. f.)"@es,
+        "mission (n. f.)"@fr,
+        "misión (n. f.)"@gl,
+        "mission (s. f.)"@it,
+        "missão (s. f.)"@pt,
+        "misiune (s. f.)"@ro ;
+    skos:prefLabel "missió"@ca,
+        "mission"@en,
+        "misión"@es,
+        "mission"@fr,
+        "misión"@gl,
+        "mission"@it,
+        "missão"@pt,
+        "misiune"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:no_conformitat a skos:Concept ;
+    skos:definition "Incompliment d'un requisit."@ca ;
+    skos:note "no-conformitat (n. f.)"@ca,
+        "nonconformity"@en,
+        "no conformidad (s. f.)"@es,
+        "non-conformité (n. f.)"@fr,
+        "non-conformidade (n. f.)"@gl,
+        "non conformità (s. f.)"@it,
+        "não-conformidade (s. f.)"@pt,
+        "neconformitate (s. f.)"@ro ;
+    skos:prefLabel "no-conformitat"@ca,
+        "nonconformity"@en,
+        "no conformidad"@es,
+        "non-conformité"@fr,
+        "non-conformidade"@gl,
+        "non conformità"@it,
+        "não-conformidade"@pt,
+        "neconformitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:objecte a skos:Concept ;
+    skos:altLabel "item"@en,
+        "object"@en,
+        "objeto"@es,
+        "ítem"@es,
+        "entité"@fr,
+        "objet"@fr,
+        "obxecto"@gl,
+        "oggetto"@it,
+        "soggetto"@it,
+        "item"@pt,
+        "entitate"@ro,
+        "obiect"@ro ;
+    skos:definition "Qualsevol cosa que es pot percebre o concebre."@ca ;
+    skos:note "objecte (n. m.)"@ca,
+        "entity"@en,
+        "entidad (s. f.)"@es,
+        "article (n. m.)"@fr,
+        "ítem (n. m.)"@gl,
+        "articulo (s. m.)"@it,
+        "entidade (s. f.)"@pt,
+        "articol (s. n.)"@ro ;
+    skos:prefLabel "objecte"@ca,
+        "entity"@en,
+        "entidad"@es,
+        "article"@fr,
+        "ítem"@gl,
+        "articulo"@it,
+        "entidade"@pt,
+        "articol"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:objecte_de_configuració a skos:Concept ;
+    skos:definition "Objecte dins d'una configuració que satisfà una funció d'ús final."@ca ;
+    skos:note "objecte de configuració (n. m.)"@ca,
+        "configuration object"@en,
+        "objeto de la configuración (s. m.)"@es,
+        "objet de configuration (n. m.)"@fr,
+        "obxecto de configuración (n. m.)"@gl,
+        "oggetto della configurazione (s. m.)"@it,
+        "configuração apropriada (s. f.)"@pt,
+        "obiect de configurare (s. n.)"@ro ;
+    skos:prefLabel "objecte de configuració"@ca,
+        "configuration object"@en,
+        "objeto de la configuración"@es,
+        "objet de configuration"@fr,
+        "obxecto de configuración"@gl,
+        "oggetto della configurazione"@it,
+        "configuração apropriada"@pt,
+        "obiect de configurare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:objectiu a skos:Concept ;
+    skos:definition "Resultat a assolir."@ca ;
+    skos:note "objectiu (n. m.)"@ca,
+        "objective"@en,
+        "objetivo (s. m.)"@es,
+        "objectif (n. m.)"@fr,
+        "obxectivo (n. m.)"@gl,
+        "obiettivo (s. m.)"@it,
+        "objetivo (s. m.)"@pt,
+        "obiectiv (s. n.)"@ro ;
+    skos:prefLabel "objectiu"@ca,
+        "objective"@en,
+        "objetivo"@es,
+        "objectif"@fr,
+        "obxectivo"@gl,
+        "obiettivo"@it,
+        "objetivo"@pt,
+        "obiectiv"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:objectiu_de_la_qualitat a skos:Concept ;
+    skos:definition "Objectiu respecte a la qualitat."@ca ;
+    skos:note "objectiu de la qualitat (n. m.)"@ca,
+        "quality objective"@en,
+        "objetivo de la calidad (s. m.)"@es,
+        "objectif qualité (n. m.)"@fr,
+        "obxectivo da calidade (n. m.)"@gl,
+        "obiettivo della qualità (s. m.)"@it,
+        "objectivo qualidade (s. m.)"@pt,
+        "obiectiv al calităţii (s. n.)"@ro ;
+    skos:prefLabel "objectiu de la qualitat"@ca,
+        "quality objective"@en,
+        "objetivo de la calidad"@es,
+        "objectif qualité"@fr,
+        "obxectivo da calidade"@gl,
+        "obiettivo della qualità"@it,
+        "objectivo qualidade"@pt,
+        "obiectiv al calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:observador a skos:Concept ;
+    skos:altLabel "observadora"@ca,
+        "observadora"@es,
+        "observatrice"@fr,
+        "observadora"@gl,
+        "osservatrice"@it,
+        "observadora"@pt,
+        "observatoare"@ro ;
+    skos:definition "Persona que acompanya l'equip d'auditoria, però que no actua com a auditor."@ca ;
+    skos:note "observador (n. m.)"@ca,
+        "observer"@en,
+        "observador (s. m.)"@es,
+        "observateur (n. m.)"@fr,
+        "observador (n. m.)"@gl,
+        "osservatore (s. m.)"@it,
+        "observador (s. m.)"@pt,
+        "observator (s. m.)"@ro ;
+    skos:prefLabel "observador"@ca,
+        "observer"@en,
+        "observador"@es,
+        "observateur"@fr,
+        "observador"@gl,
+        "osservatore"@it,
+        "observador"@pt,
+        "observator"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:organització a skos:Concept ;
+    skos:altLabel "organização"@pt ;
+    skos:definition "Persona o grup de persones que tenen les seves pròpies funcions i responsabilitats, autoritats i relacions per a assolir els seus objectius."@ca ;
+    skos:note "organització (n. f.)"@ca,
+        "organization"@en,
+        "organización (s. f.)"@es,
+        "organisme (n. m.)"@fr,
+        "organización (n. f.)"@gl,
+        "organizzazione (s. f.)"@it,
+        "organismo (s. m.)"@pt,
+        "organitaţie (s. f.)"@ro ;
+    skos:prefLabel "organització"@ca,
+        "organization"@en,
+        "organización"@es,
+        "organisme"@fr,
+        "organización"@gl,
+        "organizzazione"@it,
+        "organismo"@pt,
+        "organitaţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:organització_auditada a skos:Concept ;
+    skos:altLabel "ens auditat"@ca,
+        "organización auditada"@gl,
+        "organização auditada"@pt ;
+    skos:definition "Organització que és objecte d'una auditoria."@ca ;
+    skos:note "organització auditada (n. f.)"@ca,
+        "auditee"@en,
+        "auditado (s. m.)"@es,
+        "audité (n. f.)"@fr,
+        "auditado (n. m.)"@gl,
+        "organizzazione oggetto dell'audit (s. f.)"@it,
+        "auditado (s. m.)"@pt,
+        "auditat (s. n.)"@ro ;
+    skos:prefLabel "organització auditada"@ca,
+        "auditee"@en,
+        "auditado"@es,
+        "audité"@fr,
+        "auditado"@gl,
+        "organizzazione oggetto dell'audit"@it,
+        "auditado"@pt,
+        "auditat"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:part_interessada a skos:Concept ;
+    skos:definition "Persona o organització que pot afectar una decisió o activitat, o bé pot ser afectada o percebuda com a afectada per aquesta decisió o activitat."@ca ;
+    skos:note "part interessada (n. f.)"@ca,
+        "interested party"@en,
+        "parte interesada (s. f.)"@es,
+        "partie intéressée (n. f.)"@fr,
+        "parte interesada (n. f.)"@gl,
+        "parte interessata (s. f.)"@it,
+        "parte interessada (s. f.)"@pt,
+        "parte interesată (s. f.)"@ro ;
+    skos:prefLabel "part interessada"@ca,
+        "interested party"@en,
+        "parte interesada"@es,
+        "partie intéressée"@fr,
+        "parte interesada"@gl,
+        "parte interessata"@it,
+        "parte interessada"@pt,
+        "parte interesată"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:participació_activa a skos:Concept ;
+    skos:altLabel "participare activă"@ro ;
+    skos:definition "Fet de prendre part en una activitat, un esdeveniment o una situació."@ca ;
+    skos:note "participació activa (n. f.)"@ca,
+        "involvement"@en,
+        "participación activa (s. f.)"@es,
+        "implication (n. f.)"@fr,
+        "implicare (s. f.)"@ro ;
+    skos:prefLabel "participació activa"@ca,
+        "involvement"@en,
+        "participación activa"@es,
+        "implication"@fr,
+        "implicare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:permís_de_desviació a skos:Concept ;
+    skos:definition "Autorització per a apartar-se dels requisits originalment especificats per a un producte o un servei abans que aquest es porti a terme."@ca ;
+    skos:note "permís de desviació (n. m.)"@ca,
+        "deviation permit"@en,
+        "permiso de desviación (s. m.)"@es,
+        "dérogation (avant production) (n. f.)"@fr,
+        "permiso de desvío (n. m.)"@gl,
+        "deroga (s. f.)"@it,
+        "autorização de não cumprimento (s. f.)"@pt,
+        "derogare înainte de fabricaţie (s. f.)"@ro ;
+    skos:prefLabel "permís de desviació"@ca,
+        "deviation permit"@en,
+        "permiso de desviación"@es,
+        "dérogation (avant production)"@fr,
+        "permiso de desvío"@gl,
+        "deroga"@it,
+        "autorização de não cumprimento"@pt,
+        "derogare înainte de fabricaţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:pla_d_auditoria a skos:Concept ;
+    skos:definition "Descripció de les activitats i els detalls per a una auditoria."@ca ;
+    skos:note "pla d'auditoria (n. m.)"@ca,
+        "audit plan"@en,
+        "plan de auditoría (s. m.)"@es,
+        "plan d'audit (n. m.)"@fr,
+        "plan de auditoría (n. m.)"@gl,
+        "piano dell'audit (s. m.)"@it,
+        "plano de auditoria (s. m.)"@pt,
+        "plan de audit (s. n.)"@ro ;
+    skos:prefLabel "pla d'auditoria"@ca,
+        "audit plan"@en,
+        "plan de auditoría"@es,
+        "plan d'audit"@fr,
+        "plan de auditoría"@gl,
+        "piano dell'audit"@it,
+        "plano de auditoria"@pt,
+        "plan de audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:pla_de_gestió_de_projectes a skos:Concept ;
+    skos:definition "Document que especifica què és necessari per a complir els objectius del projecte."@ca ;
+    skos:note "pla de gestió de projectes (n. m.)"@ca,
+        "project management plan"@en,
+        "plan de gestión de proyecto (s. m.)"@es,
+        "plan de management de projet (n. m.)"@fr,
+        "plan de xestión de proxecto (n. m.)"@gl,
+        "piano di gestione del progetto (s. m.)"@it,
+        "plano de gestão de projetos (s. m.)"@pt,
+        "plan de management al proiectului (s. f.)"@ro ;
+    skos:prefLabel "pla de gestió de projectes"@ca,
+        "project management plan"@en,
+        "plan de gestión de proyecto"@es,
+        "plan de management de projet"@fr,
+        "plan de xestión de proxecto"@gl,
+        "piano di gestione del progetto"@it,
+        "plano de gestão de projetos"@pt,
+        "plan de management al proiectului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:pla_de_la_qualitat a skos:Concept ;
+    skos:definition "Especificació que estableix quins procediments i recursos associats s'han d'aplicar, quan s'han d'aplicar i qui els ha d'aplicar a un objecte en particular."@ca ;
+    skos:note "pla de la qualitat (n. m.)"@ca,
+        "quality plan"@en,
+        "plan de la calidad (s. m.)"@es,
+        "plan qualité (n. m.)"@fr,
+        "plan da calidade (n. m.)"@gl,
+        "piano della qualità (s. m.)"@it,
+        "plano de qualidade (s. m.)"@pt,
+        "plan al calităţii (s. n.)"@ro ;
+    skos:prefLabel "pla de la qualitat"@ca,
+        "quality plan"@en,
+        "plan de la calidad"@es,
+        "plan qualité"@fr,
+        "plan da calidade"@gl,
+        "piano della qualità"@it,
+        "plano de qualidade"@pt,
+        "plan al calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:planificació_de_la_qualitat a skos:Concept ;
+    skos:definition "Part de la gestió de la qualitat destinada a establir els objectius de la qualitat i a especificar els processos operatius necessaris i els recursos que s'hi relacionen per a acomplir els objectius de la qualitat."@ca ;
+    skos:note "planificació de la qualitat (n. f.)"@ca,
+        "quality planning"@en,
+        "planificación de la calidad (s. f.)"@es,
+        "planification de la qualité (n. f.)"@fr,
+        "planificación da calidade (n. f.)"@gl,
+        "pianificazione della qualità (s. f.)"@it,
+        "planificação da qualidade (s. f.)"@pt,
+        "planificare a calităţii (s. f.)"@ro ;
+    skos:prefLabel "planificació de la qualitat"@ca,
+        "quality planning"@en,
+        "planificación de la calidad"@es,
+        "planification de la qualité"@fr,
+        "planificación da calidade"@gl,
+        "pianificazione della qualità"@it,
+        "planificação da qualidade"@pt,
+        "planificare a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:política a skos:Concept ;
+    skos:definition "Intencions i direcció d'una organització tal com l'expressa formalment la seva alta direcció."@ca ;
+    skos:note "política (n. f.)"@ca,
+        "policy"@en,
+        "política (s. f.)"@es,
+        "politique (n. f.)"@fr,
+        "política (n. f.)"@gl,
+        "policy (s. f.)"@it,
+        "política (s. f.)"@pt,
+        "politică (s. f.)"@ro ;
+    skos:prefLabel "política"@ca,
+        "policy"@en,
+        "política"@es,
+        "politique"@fr,
+        "política"@gl,
+        "policy"@it,
+        "política"@pt,
+        "politică"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:política_de_la_qualitat a skos:Concept ;
+    skos:definition "Política respecte a la qualitat."@ca ;
+    skos:note "política de la qualitat (n. f.)"@ca,
+        "quality policy"@en,
+        "política de la calidad (s. f.)"@es,
+        "politique qualité (n. f.)"@fr,
+        "política da calidade (n. f.)"@gl,
+        "politica per la qualità (s. f.)"@it,
+        "política de qualidade (s. f.)"@pt,
+        "politică a calităţii (s. f.)"@ro ;
+    skos:prefLabel "política de la qualitat"@ca,
+        "quality policy"@en,
+        "política de la calidad"@es,
+        "politique qualité"@fr,
+        "política da calidade"@gl,
+        "politica per la qualità"@it,
+        "política de qualidade"@pt,
+        "politică a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:procediment a skos:Concept ;
+    skos:definition "Manera especificada per a dur a terme una activitat o un procés."@ca ;
+    skos:note "procediment (n. m.)"@ca,
+        "procedure"@en,
+        "procedimiento (s. m.)"@es,
+        "procédure (n. f.)"@fr,
+        "procedemento (n. m.)"@gl,
+        "procedura (s. f.)"@it,
+        "procedimento (s. m.)"@pt,
+        "procedură (s. f.)"@ro ;
+    skos:prefLabel "procediment"@ca,
+        "procedure"@en,
+        "procedimiento"@es,
+        "procédure"@fr,
+        "procedemento"@gl,
+        "procedura"@it,
+        "procedimento"@pt,
+        "procedură"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:procés a skos:Concept ;
+    skos:definition "Conjunt d'activitats interrelacionades que utilitzen elements d'entrada per a assolir un resultat previst."@ca ;
+    skos:note "procés (n. m.)"@ca,
+        "process"@en,
+        "proceso (s. m.)"@es,
+        "processus (n. m.)"@fr,
+        "proceso (n. m.)"@gl,
+        "processo (s. m.)"@it,
+        "processo (s. m.)"@pt,
+        "proces (s. n.)"@ro ;
+    skos:prefLabel "procés"@ca,
+        "process"@en,
+        "proceso"@es,
+        "processus"@fr,
+        "proceso"@gl,
+        "processo"@it,
+        "processo"@pt,
+        "proces"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:procés_de_mesura a skos:Concept ;
+    skos:definition "Conjunt d'operacions que permeten determinar el valor d'una magnitud."@ca ;
+    skos:note "procés de mesura (n. m.)"@ca,
+        "measurement process"@en,
+        "proceso de medición (s. m.)"@es,
+        "processus de mesure (n. m.)"@fr,
+        "proceso de medición (n. m.)"@gl,
+        "processo di misurazione (s. m.)"@it,
+        "processo de medida (s. m.)"@pt,
+        "proces de măsurare (s. n.)"@ro ;
+    skos:prefLabel "procés de mesura"@ca,
+        "measurement process"@en,
+        "proceso de medición"@es,
+        "processus de mesure"@fr,
+        "proceso de medición"@gl,
+        "processo di misurazione"@it,
+        "processo de medida"@pt,
+        "proces de măsurare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:producte a skos:Concept ;
+    skos:definition "Element de sortida d'una organització que es pot produir sense necessitat de dur a terme cap transacció entre l'organització i el client."@ca ;
+    skos:note "producte (n. m.)"@ca,
+        "product"@en,
+        "producto (s. m.)"@es,
+        "produit (n. m.)"@fr,
+        "produto (n. m.)"@gl,
+        "prodotto (s. m.)"@it,
+        "produto (s. m.)"@pt,
+        "produs (s. n.)"@ro ;
+    skos:prefLabel "producte"@ca,
+        "product"@en,
+        "producto"@es,
+        "produit"@fr,
+        "produto"@gl,
+        "prodotto"@it,
+        "produto"@pt,
+        "produs"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:programa_d_auditoria a skos:Concept ;
+    skos:definition "Conjunt d'una o més auditories planificades per a un període de temps determinat i orientades a un propòsit específic."@ca ;
+    skos:note "programa d'auditoria (n. m.)"@ca,
+        "audit programme"@en,
+        "programa de la auditoría (s. m.)"@es,
+        "programme d'audit (n. m.)"@fr,
+        "programa de auditoría (n. m.)"@gl,
+        "programma di audit (s. m.)"@it,
+        "programa de auditoria (s. m.)"@pt,
+        "program de audit (s. n.)"@ro ;
+    skos:prefLabel "programa d'auditoria"@ca,
+        "audit programme"@en,
+        "programa de la auditoría"@es,
+        "programme d'audit"@fr,
+        "programa de auditoría"@gl,
+        "programma di audit"@it,
+        "programa de auditoria"@pt,
+        "program de audit"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:projecte a skos:Concept ;
+    skos:definition "Procés únic consistent en un conjunt d'activitats coordinades i controlades amb dates d'inici i d'acabament, dutes a termes per a assolir un objectiu conforme a uns requisits específics, que inclouen les limitacions de temps, de cost i de recursos."@ca ;
+    skos:note "projecte (n. m.)"@ca,
+        "project"@en,
+        "proyecto (s. m.)"@es,
+        "projet (n. m.)"@fr,
+        "proxecto (n. m.)"@gl,
+        "progetto (s. m.)"@it,
+        "projecto (s. m.)"@pt,
+        "proiect (s. n.)"@ro ;
+    skos:prefLabel "projecte"@ca,
+        "project"@en,
+        "proyecto"@es,
+        "projet"@fr,
+        "proxecto"@gl,
+        "progetto"@it,
+        "projecto"@pt,
+        "proiect"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:prova a skos:Concept ;
+    skos:altLabel "prueba"@es,
+        "proba"@gl,
+        "teste"@pt,
+        "probă"@ro ;
+    skos:definition "Determinació d'acord amb els requisits per a un ús o una aplicació previst específic."@ca ;
+    skos:note "prova (n. f.)"@ca,
+        "test"@en,
+        "ensayo (s. m.)"@es,
+        "essai (n. m.)"@fr,
+        "ensaio (n. m.)"@gl,
+        "prova (s. f.)"@it,
+        "ensaio (s. m.)"@pt,
+        "încercare (s. f.)"@ro ;
+    skos:prefLabel "prova"@ca,
+        "test"@en,
+        "ensayo"@es,
+        "essai"@fr,
+        "ensaio"@gl,
+        "prova"@it,
+        "ensaio"@pt,
+        "încercare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:prova_objectiva a skos:Concept ;
+    skos:definition "Dades que donen suport a l'existència o a la veracitat d'alguna cosa."@ca ;
+    skos:note "prova objectiva (n. f.)"@ca,
+        "objective evidence"@en,
+        "evidencia objetiva (s. f.)"@es,
+        "preuve tangible (n. f.)"@fr,
+        "evidencia obxectiva (n. f.)"@gl,
+        "evidenza oggettiva (s. f.)"@it,
+        "prova objectiva (s. f.)"@pt,
+        "dovadă obiectivă (s. f.)"@ro ;
+    skos:prefLabel "prova objectiva"@ca,
+        "objective evidence"@en,
+        "evidencia objetiva"@es,
+        "preuve tangible"@fr,
+        "evidencia obxectiva"@gl,
+        "evidenza oggettiva"@it,
+        "prova objectiva"@pt,
+        "dovadă obiectivă"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:proveïdor a skos:Concept ;
+    skos:altLabel "proveïdora"@ca,
+        "proveedora"@es,
+        "fournisseuse"@fr,
+        "proveedora"@gl,
+        "fornecedora"@pt ;
+    skos:definition "Organització que proporciona un producte o un servei."@ca ;
+    skos:note "proveïdor (n. m.)"@ca,
+        "supplier"@en,
+        "proveedor (s. m.)"@es,
+        "fournisseur (n. m.)"@fr,
+        "provedor (n. m.)"@gl,
+        "fornitore (s. m.)"@it,
+        "fornecedor (s. m.)"@pt,
+        "furnizor (s. m.)"@ro ;
+    skos:prefLabel "proveïdor"@ca,
+        "supplier"@en,
+        "proveedor"@es,
+        "fournisseur"@fr,
+        "provedor"@gl,
+        "fornitore"@it,
+        "fornecedor"@pt,
+        "furnizor"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:proveïdor_d_un_procés_de_resolució_de_conflictes a skos:Concept ;
+    skos:altLabel "proveïdora d'un procés de resolució de conflictes"@ca,
+        "DRP-provider"@en,
+        "proveedor de un proceso de resolución de conflictos"@es,
+        "proveedora de PRC"@es,
+        "proveedora de un proceso de resolución de conflictos"@es,
+        "prestataire PRC"@fr,
+        "provedora dun proceso de resolución de conflitos"@gl,
+        "fornitrice procedura di risoluzione delle controversie"@it,
+        "provedora de processo de resolução de conflitos"@pt ;
+    skos:definition "Persona o organització que proveeix i desenvolupa un procés de resolució de conflictes extern."@ca ;
+    skos:note "proveïdor d'un procés de resolució de conflictes (n. m.)"@ca,
+        "dispute resolution process provider"@en,
+        "proveedor de PRC (s. m.)"@es,
+        "prestataire de processus de résolution des conflits (n. m., f.)"@fr,
+        "provedor dun proceso de resolución de conflitos (n. m.)"@gl,
+        "fornitore procedura di risoluzione delle controversie (s. m.)"@it,
+        "provedor de processo de resolução de conflitos (s. m.)"@pt,
+        "mediator al procesului de soluţionare a conflictelor (s. m.)"@ro ;
+    skos:prefLabel "proveïdor d'un procés de resolució de conflictes"@ca,
+        "dispute resolution process provider"@en,
+        "proveedor de PRC"@es,
+        "prestataire de processus de résolution des conflits"@fr,
+        "provedor dun proceso de resolución de conflitos"@gl,
+        "fornitore procedura di risoluzione delle controversie"@it,
+        "provedor de processo de resolução de conflitos"@pt,
+        "mediator al procesului de soluţionare a conflictelor"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:proveïdor_extern a skos:Concept ;
+    skos:altLabel "proveïdora externa"@ca,
+        "subministrador extern"@ca,
+        "subministradora externa"@ca,
+        "external supplier"@en,
+        "proveedora externa"@es,
+        "fournisseuse externe"@fr,
+        "prestataire externe"@fr,
+        "provedora externa"@gl,
+        "fornitrice esterna"@it,
+        "provider esterna"@it,
+        "provider esterno"@it,
+        "provedora externa"@pt,
+        "furnizor extern"@ro ;
+    skos:definition "Proveïdor que no és part de l'organització."@ca ;
+    skos:note "proveïdor extern (n. m.)"@ca,
+        "external provider"@en,
+        "proveedor externo (s. m.)"@es,
+        "fournisseur externe (n. m.)"@fr,
+        "provedor externo (n. m.)"@gl,
+        "fornitore esterno (s. m.)"@it,
+        "provedor externo (s. m.)"@pt,
+        "distribuitor extern (s. m.)"@ro ;
+    skos:prefLabel "proveïdor extern"@ca,
+        "external provider"@en,
+        "proveedor externo"@es,
+        "fournisseur externe"@fr,
+        "provedor externo"@gl,
+        "fornitore esterno"@it,
+        "provedor externo"@pt,
+        "distribuitor extern"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:qualitat a skos:Concept ;
+    skos:definition "Grau en què un conjunt de característiques inherents a un objecte compleix els requisits."@ca ;
+    skos:note "qualitat (n. f.)"@ca,
+        "quality"@en,
+        "calidad (s. f.)"@es,
+        "qualité (n. f.)"@fr,
+        "calidade (n. f.)"@gl,
+        "qualità (s. f.)"@it,
+        "qualidade (s. f.)"@pt,
+        "calitate (s. f.)"@ro ;
+    skos:prefLabel "qualitat"@ca,
+        "quality"@en,
+        "calidad"@es,
+        "qualité"@fr,
+        "calidade"@gl,
+        "qualità"@it,
+        "qualidade"@pt,
+        "calitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:queixa a skos:Concept ;
+    skos:definition "Expressió d'insatisfacció que es presenta a una organització i fa referència al seu producte o al seu servei o al mateix procés de tractament de queixes, en què s'espera una resposta o resolució de manera explícita o implícita."@ca ;
+    skos:note "queixa (n. f.)"@ca,
+        "complaint"@en,
+        "queja (s. f.)"@es,
+        "réclamation (n. f.)"@fr,
+        "queixa (n. f.)"@gl,
+        "reclamo (s. m.)"@it,
+        "queixa (s. f.)"@pt,
+        "reclamaţie (s. f.)"@ro ;
+    skos:prefLabel "queixa"@ca,
+        "complaint"@en,
+        "queja"@es,
+        "réclamation"@fr,
+        "queixa"@gl,
+        "reclamo"@it,
+        "queixa"@pt,
+        "reclamaţie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:realització_del_sistema_de_gestió_de_la_qualitat a skos:Concept ;
+    skos:definition "Procés d'establiment, de documentació, d'implantació, de manteniment i de millora contínua d'un sistema de gestió de la qualitat."@ca ;
+    skos:note "realització del sistema de gestió de la qualitat (n. f.)"@ca,
+        "quality management system realization"@en,
+        "realización del sistema de gestión de la calidad (s. f.)"@es,
+        "réalisation du système de management de la qualité (n. f.)"@fr,
+        "realización do sistema de xestión da calidade (n. f.)"@gl,
+        "realizzazione del sistema di gestione della qualità (s. f.)"@it,
+        "monitorização do sistema de gestão da qualidade (s. f.)"@pt,
+        "implementarea sistemului de gestiune a calităţii (s. f.)"@ro ;
+    skos:prefLabel "realització del sistema de gestió de la qualitat"@ca,
+        "quality management system realization"@en,
+        "realización del sistema de gestión de la calidad"@es,
+        "réalisation du système de management de la qualité"@fr,
+        "realización do sistema de xestión da calidade"@gl,
+        "realizzazione del sistema di gestione della qualità"@it,
+        "monitorização do sistema de gestão da qualidade"@pt,
+        "implementarea sistemului de gestiune a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:rebuig a skos:Concept ;
+    skos:definition "Acció que es porta a terme en un producte o un servei que presenta no-conformitat, per a impedir-ne l'ús inicialment previst."@ca ;
+    skos:note "rebuig (n. m.)"@ca,
+        "scrap"@en,
+        "desecho (s. m.)"@es,
+        "rebut (n. m.)"@fr,
+        "rexeitamento (n. m.)"@gl,
+        "scarto (s. m.)"@it,
+        "refugo (s. m.)"@pt,
+        "rebutare (s. f.)"@ro ;
+    skos:prefLabel "rebuig"@ca,
+        "scrap"@en,
+        "desecho"@es,
+        "rebut"@fr,
+        "rexeitamento"@gl,
+        "scarto"@it,
+        "refugo"@pt,
+        "rebutare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:reclassificació a skos:Concept ;
+    skos:definition "Variació de la classe d'un producte o d'un servei que presenta no-conformitat, perquè esdevingui conforme als requisits que difereixen dels especificats inicialment."@ca ;
+    skos:note "reclassificació (n. f.)"@ca,
+        "regrade"@en,
+        "reclasificación (s. f.)"@es,
+        "reclassement (n. m.)"@fr,
+        "reclasificación (n. f.)"@gl,
+        "riclassificazione (s. f.)"@it,
+        "reclassificação (s. f.)"@pt,
+        "reclasare (s. f.)"@ro ;
+    skos:prefLabel "reclassificació"@ca,
+        "regrade"@en,
+        "reclasificación"@es,
+        "reclassement"@fr,
+        "reclasificación"@gl,
+        "riclassificazione"@it,
+        "reclassificação"@pt,
+        "reclasare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:reelaboració a skos:Concept ;
+    skos:definition "Acció que es porta a terme en un producte o un servei que presenta no-conformitat, perquè esdevingui conforme als requisits."@ca ;
+    skos:note "reelaboració (n. f.)"@ca,
+        "rework"@en,
+        "reproceso (s. m.)"@es,
+        "reprise (n. f.)"@fr,
+        "reelaboración (n. f.)"@gl,
+        "rilavorazione (s. f.)"@it,
+        "retoma (s. f.)"@pt,
+        "reprelucrare (s. f.)"@ro ;
+    skos:prefLabel "reelaboració"@ca,
+        "rework"@en,
+        "reproceso"@es,
+        "reprise"@fr,
+        "reelaboración"@gl,
+        "rilavorazione"@it,
+        "retoma"@pt,
+        "reprelucrare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:registre a skos:Concept ;
+    skos:definition "Document que presenta resultats obtinguts o aporta proves d'activitats que s'han acomplert."@ca ;
+    skos:note "registre (n. m.)"@ca,
+        "record"@en,
+        "registro (s. m.)"@es,
+        "enregistrement (n. m.)"@fr,
+        "rexistro (n. m.)"@gl,
+        "registrazione (s. f.)"@it,
+        "registo (s. m.)"@pt,
+        "înregistrare (s. f.)"@ro ;
+    skos:prefLabel "registre"@ca,
+        "record"@en,
+        "registro"@es,
+        "enregistrement"@fr,
+        "rexistro"@gl,
+        "registrazione"@it,
+        "registo"@pt,
+        "înregistrare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:reparació a skos:Concept ;
+    skos:definition "Acció que es porta a terme en un producte o un servei que presenta no-conformitat, perquè esdevingui acceptable per a l'ús previst."@ca ;
+    skos:note "reparació (n. f.)"@ca,
+        "repair"@en,
+        "reparación (s. f.)"@es,
+        "réparation (n. f.)"@fr,
+        "reparación (n. f.)"@gl,
+        "riparazione (s. f.)"@it,
+        "reparação (s. f.)"@pt,
+        "reparare (s. f.)"@ro ;
+    skos:prefLabel "reparació"@ca,
+        "repair"@en,
+        "reparación"@es,
+        "réparation"@fr,
+        "reparación"@gl,
+        "riparazione"@it,
+        "reparação"@pt,
+        "reparare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:requisit a skos:Concept ;
+    skos:altLabel "requisito"@pt ;
+    skos:definition "Necessitat o expectativa establerta, generalment implícita o obligatòria."@ca ;
+    skos:note "requisit (n. m.)"@ca,
+        "requirement"@en,
+        "requisito (s. m.)"@es,
+        "exigence (n. f.)"@fr,
+        "requisito (n. m.)"@gl,
+        "requisito (s. m.)"@it,
+        "exigência (s. f.)"@pt,
+        "cerinţe (n. f. pl.)"@ro ;
+    skos:prefLabel "requisit"@ca,
+        "requirement"@en,
+        "requisito"@es,
+        "exigence"@fr,
+        "requisito"@gl,
+        "requisito"@it,
+        "exigência"@pt,
+        "cerinţe"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:requisit_de_la_qualitat a skos:Concept ;
+    skos:definition "Requisit respecte a la qualitat."@ca ;
+    skos:note "requisit de la qualitat (n. m.)"@ca,
+        "quality requirement"@en,
+        "requisito de la calidad (s. m.)"@es,
+        "exigence pour la qualité (n. f.)"@fr,
+        "requisito da calidade (n. m.)"@gl,
+        "requisito di qualità (s. m.)"@it,
+        "requisito de qualidade (s. m.)"@pt,
+        "exigenţă a calităţii (s. f.)"@ro ;
+    skos:prefLabel "requisit de la qualitat"@ca,
+        "quality requirement"@en,
+        "requisito de la calidad"@es,
+        "exigence pour la qualité"@fr,
+        "requisito da calidade"@gl,
+        "requisito di qualità"@it,
+        "requisito de qualidade"@pt,
+        "exigenţă a calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:requisit_legal a skos:Concept ;
+    skos:definition "Requisit obligatori que és especificat per un organisme legislatiu."@ca ;
+    skos:note "requisit legal (n. m.)"@ca,
+        "statutory requirement"@en,
+        "requisito legal (s. m.)"@es,
+        "exigence légale (n. f.)"@fr,
+        "requisito legal (n. m.)"@gl,
+        "obbligo di legge (s. m.)"@it,
+        "requisito legal (s. m.)"@pt,
+        "cerinţă legală (s. f.)"@ro ;
+    skos:prefLabel "requisit legal"@ca,
+        "statutory requirement"@en,
+        "requisito legal"@es,
+        "exigence légale"@fr,
+        "requisito legal"@gl,
+        "obbligo di legge"@it,
+        "requisito legal"@pt,
+        "cerinţă legală"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:requisit_reglamentari a skos:Concept ;
+    skos:definition "Requisit obligatori que és especificat per una autoritat, la qual rep el mandat d'un òrgan legislatiu."@ca ;
+    skos:note "requisit reglamentari (n. m.)"@ca,
+        "regulatory requirement"@en,
+        "requisito reglamentario (s. m.)"@es,
+        "exigence réglementaire (n. f.)"@fr,
+        "requisito regulamentario (n. m.)"@gl,
+        "requisito normativo (s. m.)"@it,
+        "requisito regulamentar (s. m.)"@pt,
+        "cerinţă obligatorie (s. f.)"@ro ;
+    skos:prefLabel "requisit reglamentari"@ca,
+        "regulatory requirement"@en,
+        "requisito reglamentario"@es,
+        "exigence réglementaire"@fr,
+        "requisito regulamentario"@gl,
+        "requisito normativo"@it,
+        "requisito regulamentar"@pt,
+        "cerinţă obligatorie"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:responsable_de_la_resolució_de_conflictes a skos:Concept ;
+    skos:altLabel "provedora"@pt ;
+    skos:definition "Persona individual assignada per un proveïdor d'un procés de resolució de conflictes per a ajudar les parts a resoldre un conflicte."@ca ;
+    skos:note "responsable de la resolució de conflictes (n. m., f.)"@ca,
+        "dispute resolver"@en,
+        "responsable de la resolución de conflictos (s. m., f.)"@es,
+        "responsable de la résolution de conflits (n. m., f.)"@fr,
+        "responsable da resolución de conflitos (n. m., f.)"@gl,
+        "responsabile risoluzione controversie (s. m., f.)"@it,
+        "provedor (s. m.)"@pt,
+        "responsabil pentru rezolvarea conflictelor (s. m., f.)"@ro ;
+    skos:prefLabel "responsable de la resolució de conflictes"@ca,
+        "dispute resolver"@en,
+        "responsable de la resolución de conflictos"@es,
+        "responsable de la résolution de conflits"@fr,
+        "responsable da resolución de conflitos"@gl,
+        "responsabile risoluzione controversie"@it,
+        "provedor"@pt,
+        "responsabil pentru rezolvarea conflictelor"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:retorn_d_informació a skos:Concept ;
+    skos:definition "Opinions, comentaris i mostres d'interès per un producte, un servei o un procés de tractament de queixes."@ca ;
+    skos:note "retorn d'informació (n. m.)"@ca,
+        "feedback"@en,
+        "retroalimentación (s. f.)"@es,
+        "retour d'information (n. m.)"@fr,
+        "información de retorno (n. m.)"@gl,
+        "feedback (s. m.)"@it,
+        "retroinformação (s. f.)"@pt,
+        "feedback (s. n.)"@ro ;
+    skos:prefLabel "retorn d'informació"@ca,
+        "feedback"@en,
+        "retroalimentación"@es,
+        "retour d'information"@fr,
+        "información de retorno"@gl,
+        "feedback"@it,
+        "retroinformação"@pt,
+        "feedback"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:revisió a skos:Concept ;
+    skos:definition "Determinació de la conveniència, l'adequació o l'eficàcia d'un objecte per a assolir uns objectius establerts."@ca ;
+    skos:note "revisió (n. f.)"@ca,
+        "review"@en,
+        "revisión (s. f.)"@es,
+        "revue (n. f.)"@fr,
+        "revisión (n. f.)"@gl,
+        "riesame (s. m.)"@it,
+        "revisão (s. f.)"@pt,
+        "revizuire (s. f.)"@ro ;
+    skos:prefLabel "revisió"@ca,
+        "review"@en,
+        "revisión"@es,
+        "revue"@fr,
+        "revisión"@gl,
+        "riesame"@it,
+        "revisão"@pt,
+        "revizuire"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:risc a skos:Concept ;
+    skos:definition "Efecte de la incertesa."@ca ;
+    skos:note "risc (n. m.)"@ca,
+        "risk"@en,
+        "riesgo (s. m.)"@es,
+        "risque (n. m.)"@fr,
+        "risco (n. m.)"@gl,
+        "rischio (s. m.)"@it,
+        "risco (s. m.)"@pt,
+        "risc (s. n.)"@ro ;
+    skos:prefLabel "risc"@ca,
+        "risk"@en,
+        "riesgo"@es,
+        "risque"@fr,
+        "risco"@gl,
+        "rischio"@it,
+        "risco"@pt,
+        "risc"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:satisfacció_del_client a skos:Concept ;
+    skos:definition "Percepció del client sobre el grau en què s'han complert les seves expectatives."@ca ;
+    skos:note "satisfacció del client (n. f.)"@ca,
+        "customer satisfaction"@en,
+        "satisfacción del cliente (s. f.)"@es,
+        "satisfaction du client (n. f.)"@fr,
+        "satisfacción do cliente (n. f.)"@gl,
+        "soddisfazione del cliente (s. f.)"@it,
+        "satisfação do cliente (s. f.)"@pt,
+        "satisfacţie a clientului (s. f.)"@ro ;
+    skos:prefLabel "satisfacció del client"@ca,
+        "customer satisfaction"@en,
+        "satisfacción del cliente"@es,
+        "satisfaction du client"@fr,
+        "satisfacción do cliente"@gl,
+        "soddisfazione del cliente"@it,
+        "satisfação do cliente"@pt,
+        "satisfacţie a clientului"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:seguiment a skos:Concept ;
+    skos:definition "Determinació de l'estat d'un sistema, d'un procés, d'un producte, d'un servei o d'una activitat."@ca ;
+    skos:note "seguiment (n. m.)"@ca,
+        "monitoring"@en,
+        "seguimiento (s. m.)"@es,
+        "surveillance (n. f.)"@fr,
+        "seguimento (n. m.)"@gl,
+        "monitoraggio (s. m.)"@it,
+        "monitorização (s. f.)"@pt,
+        "monitorizare (s. f.)"@ro ;
+    skos:prefLabel "seguiment"@ca,
+        "monitoring"@en,
+        "seguimiento"@es,
+        "surveillance"@fr,
+        "seguimento"@gl,
+        "monitoraggio"@it,
+        "monitorização"@pt,
+        "monitorizare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:seguretat_de_funcionament a skos:Concept ;
+    skos:definition "Capacitat per a funcionar com i quan es requereixi."@ca ;
+    skos:note "seguretat de funcionament (n. f.)"@ca,
+        "dependability"@en,
+        "confiabilidad (s. f.)"@es,
+        "sûreté de fonctionnement (n. f.)"@fr,
+        "seguranza de funcionamento (n. f.)"@gl,
+        "fidatezza (s. f.)"@it,
+        "segurança de funcionamento (s. f.)"@pt,
+        "dependabilitate (s. f.)"@ro ;
+    skos:prefLabel "seguretat de funcionament"@ca,
+        "dependability"@en,
+        "confiabilidad"@es,
+        "sûreté de fonctionnement"@fr,
+        "seguranza de funcionamento"@gl,
+        "fidatezza"@it,
+        "segurança de funcionamento"@pt,
+        "dependabilitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:servei a skos:Concept ;
+    skos:definition "Element de sortida d'una organització que es produeix com a mínim amb una activitat necessàriament duta a terme entre l'organització i el client."@ca ;
+    skos:note "servei (n. m.)"@ca,
+        "service"@en,
+        "servicio (s. m.)"@es,
+        "service (n. m.)"@fr,
+        "servizo (n. m.)"@gl,
+        "servizio (s. m.)"@it,
+        "serviço (s. m.)"@pt,
+        "serviciu (s. n.)"@ro ;
+    skos:prefLabel "servei"@ca,
+        "service"@en,
+        "servicio"@es,
+        "service"@fr,
+        "servizo"@gl,
+        "servizio"@it,
+        "serviço"@pt,
+        "serviciu"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:servei_al_client a skos:Concept ;
+    skos:definition "Interacció de l'organització amb el client al llarg del cicle de vida d'un producte o d'un servei."@ca ;
+    skos:note "servei al client (n. m.)"@ca,
+        "customer service"@en,
+        "servicio al cliente (s. m.)"@es,
+        "service à la clientèle (n. m.)"@fr,
+        "servizo ao cliente (n. m.)"@gl,
+        "assistenza clienti (s. f.)"@it,
+        "serviço ao cliente (s. m.)"@pt,
+        "serviciu orientat către client (s. n.)"@ro ;
+    skos:prefLabel "servei al client"@ca,
+        "customer service"@en,
+        "servicio al cliente"@es,
+        "service à la clientèle"@fr,
+        "servizo ao cliente"@gl,
+        "assistenza clienti"@it,
+        "serviço ao cliente"@pt,
+        "serviciu orientat către client"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:sistema a skos:Concept ;
+    skos:definition "Conjunt d'elements que s'interrelacionen o interactuen."@ca ;
+    skos:note "sistema (n. m.)"@ca,
+        "system"@en,
+        "sistema (s. m.)"@es,
+        "système (n. m.)"@fr,
+        "sistema (n. m.)"@gl,
+        "sistema (s. m.)"@it,
+        "sistema (s. m.)"@pt,
+        "sistem (s. n.)"@ro ;
+    skos:prefLabel "sistema"@ca,
+        "system"@en,
+        "sistema"@es,
+        "système"@fr,
+        "sistema"@gl,
+        "sistema"@it,
+        "sistema"@pt,
+        "sistem"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:sistema_d_informació a skos:Concept ;
+    skos:definition "Xarxa de canals de comunicació que s'empren dins d'una organització."@ca ;
+    skos:note "sistema d'informació (n. m.)"@ca,
+        "information system"@en,
+        "sistema de información (s. m.)"@es,
+        "système d'information (n. m.)"@fr,
+        "sistema de información (n. m.)"@gl,
+        "sistema di informazione (s. m.)"@it,
+        "sistema de informação (s. m.)"@pt,
+        "reţea de informaţii (s. f.)"@ro ;
+    skos:prefLabel "sistema d'informació"@ca,
+        "information system"@en,
+        "sistema de información"@es,
+        "système d'information"@fr,
+        "sistema de información"@gl,
+        "sistema di informazione"@it,
+        "sistema de informação"@pt,
+        "reţea de informaţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:sistema_de_gestió a skos:Concept ;
+    skos:definition "Conjunt d'elements d'una organització que estan interrelacionats o interactuen per a establir polítiques i objectius i processos per a assolir els objectius."@ca ;
+    skos:note "sistema de gestió (n. m.)"@ca,
+        "management system"@en,
+        "sistema de gestión (s. m.)"@es,
+        "système de management (n. m.)"@fr,
+        "sistema de xestión (n. m.)"@gl,
+        "sistema di gestione (s. m.)"@it,
+        "sistema de gestão (s. m.)"@pt,
+        "sistem de management (s. n.)"@ro ;
+    skos:prefLabel "sistema de gestió"@ca,
+        "management system"@en,
+        "sistema de gestión"@es,
+        "système de management"@fr,
+        "sistema de xestión"@gl,
+        "sistema di gestione"@it,
+        "sistema de gestão"@pt,
+        "sistem de management"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:sistema_de_gestió_de_la_mesura a skos:Concept ;
+    skos:definition "Sistema d'elements que estan interrelacionats o que interactuen, necessaris per a aconseguir la confirmació metrològica i el control continu dels processos de mesura."@ca ;
+    skos:note "sistema de gestió de la mesura (n. m.)"@ca,
+        "measurement management system"@en,
+        "sistema de gestión de las mediciones (s. m.)"@es,
+        "système de management de la mesure (n. m.)"@fr,
+        "sistema de xestión das medicións (n. m.)"@gl,
+        "sistema di gestione della misurazione (s. m.)"@it,
+        "sistema de gestão das medidas (s. m.)"@pt,
+        "sistem de control al măsurării (s. n.)"@ro ;
+    skos:prefLabel "sistema de gestió de la mesura"@ca,
+        "measurement management system"@en,
+        "sistema de gestión de las mediciones"@es,
+        "système de management de la mesure"@fr,
+        "sistema de xestión das medicións"@gl,
+        "sistema di gestione della misurazione"@it,
+        "sistema de gestão das medidas"@pt,
+        "sistem de control al măsurării"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:sistema_de_gestió_de_la_qualitat a skos:Concept ;
+    skos:definition "Part d'un sistema de gestió respecte a la qualitat."@ca ;
+    skos:note "sistema de gestió de la qualitat (n. m.)"@ca,
+        "quality management system"@en,
+        "sistema de gestión de la calidad (s. m.)"@es,
+        "système de management de la qualité (n. m.)"@fr,
+        "sistema de xestión da calidade (n. m.)"@gl,
+        "sistema di gestione per la qualità (s. m.)"@it,
+        "sistema de gestão da qualidade (s. m.)"@pt,
+        "sistem de management al calităţii (s. n.)"@ro ;
+    skos:prefLabel "sistema de gestió de la qualitat"@ca,
+        "quality management system"@en,
+        "sistema de gestión de la calidad"@es,
+        "système de management de la qualité"@fr,
+        "sistema de xestión da calidade"@gl,
+        "sistema di gestione per la qualità"@it,
+        "sistema de gestão da qualidade"@pt,
+        "sistem de management al calităţii"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:traçabilitat a skos:Concept ;
+    skos:definition "Capacitat per a reproduir l'historial, l'aplicació o la localització d'un objecte."@ca ;
+    skos:note "traçabilitat (n. f.)"@ca,
+        "traceability"@en,
+        "trazabilidad (s. f.)"@es,
+        "traçabilité (n. f.)"@fr,
+        "rastrexabilidade (n. f.)"@gl,
+        "tracciabilità (s. f.)"@it,
+        "traçabilidade (s. f.)"@pt,
+        "trasabilitate (s. f.)"@ro ;
+    skos:prefLabel "traçabilitat"@ca,
+        "traceability"@en,
+        "trazabilidad"@es,
+        "traçabilité"@fr,
+        "rastrexabilidade"@gl,
+        "tracciabilità"@it,
+        "traçabilidade"@pt,
+        "trasabilitate"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:validació a skos:Concept ;
+    skos:definition "Confirmació mitjançant l'aportació de proves objectives de l'acompliment dels requisits per a una utilització o una aplicació específica prevista."@ca ;
+    skos:note "validació (n. f.)"@ca,
+        "validation"@en,
+        "validación (s. f.)"@es,
+        "validation (n. f.)"@fr,
+        "validación (n. f.)"@gl,
+        "validazione (s. f.)"@it,
+        "validare (s. f.)"@ro ;
+    skos:prefLabel "validació"@ca,
+        "validation"@en,
+        "validación"@es,
+        "validation"@fr,
+        "validación"@gl,
+        "validazione"@it,
+        "validare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:verificació a skos:Concept ;
+    skos:definition "Confirmació mitjançant l'aportació de proves objectives del compliment dels requisits especificats."@ca ;
+    skos:note "verificació (n. f.)"@ca,
+        "verification"@en,
+        "verificación (s. f.)"@es,
+        "vérification (n. f.)"@fr,
+        "verificación (n. f.)"@gl,
+        "verifica (s. f.)"@it,
+        "verificação (s. f.)"@pt,
+        "verificare (s. f.)"@ro ;
+    skos:prefLabel "verificació"@ca,
+        "verification"@en,
+        "verificación"@es,
+        "vérification"@fr,
+        "verificación"@gl,
+        "verifica"@it,
+        "verificação"@pt,
+        "verificare"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:visió a skos:Concept ;
+    skos:definition "Situació a què una organització aspira a arribar tal com l'expressa l'alta direcció."@ca ;
+    skos:note "visió (n. f.)"@ca,
+        "vision"@en,
+        "visión (s. f.)"@es,
+        "vision (n. f.)"@fr,
+        "visión (n. f.)"@gl,
+        "vision (s. f.)"@it,
+        "visão (s. f.)"@pt,
+        "viziune (s. f.)"@ro ;
+    skos:prefLabel "visió"@ca,
+        "vision"@en,
+        "visión"@es,
+        "vision"@fr,
+        "visión"@gl,
+        "vision"@it,
+        "visão"@pt,
+        "viziune"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:èxit a skos:Concept ;
+    skos:definition "Assoliment d'un objectiu."@ca ;
+    skos:note "èxit (n. m.)"@ca,
+        "success"@en,
+        "éxito (s. m.)"@es,
+        "succès (n. m.)"@fr,
+        "éxito (n. m.)"@gl,
+        "successo (s. m.)"@it,
+        "sucesso (s. m.)"@pt,
+        "succes (s. n.)"@ro ;
+    skos:prefLabel "èxit"@ca,
+        "success"@en,
+        "éxito"@es,
+        "succès"@fr,
+        "éxito"@gl,
+        "successo"@it,
+        "sucesso"@pt,
+        "succes"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020:èxit_sostingut a skos:Concept ;
+    skos:definition "Èxit que es manté durant un període de temps."@ca ;
+    skos:note "èxit sostingut (n. m.)"@ca,
+        "sustained success"@en,
+        "éxito sostenido (s. m.)"@es,
+        "performances durables (n. f. pl.)"@fr,
+        "éxito sustentado (n. m.)"@gl,
+        "successo duraturo (s. m.)"@it,
+        "sucesso sustentável (s. m.)"@pt,
+        "succes durabil (s. n.)"@ro ;
+    skos:prefLabel "èxit sostingut"@ca,
+        "sustained success"@en,
+        "éxito sostenido"@es,
+        "performances durables"@fr,
+        "éxito sustentado"@gl,
+        "successo duraturo"@it,
+        "sucesso sustentável"@pt,
+        "succes durabil"@ro ;
+    skos:topConceptOf pl_20_500_11752_OPEN_1020: .
+
+pl_20_500_11752_OPEN_1020: a skos:ConceptScheme ;
+    dc:created "2010-01-01"^^xsd:date ;
+    dc:creator "Colomer, Rosa" ;
+    dc:description "The Terminology of quality management is a project developed within the Pan-Latin Terminology Network (REALITER), which aims to develop a multilingual database of terms related to the field of quality management. The terms are presented in eight languages: French, Catalan, Spanish, Galician, Italian, Portuguese, Romanian and English. The definitions are given in Catalan."@en ;
+    dc:identifier "http://hdl.handle.net/20.500.11752/OPEN-1020" ;
+    dc:title "Terminology of quality management"@en ;
+    dct:language iso369-3:cat,
+        iso369-3:eng,
+        iso369-3:fra,
+        iso369-3:glg,
+        iso369-3:ita,
+        iso369-3:por,
+        iso369-3:ron,
+        iso369-3:spa ;
+    skos:hasTopConcept pl_20_500_11752_OPEN_1020:abast_de_l_auditoria,
+        pl_20_500_11752_OPEN_1020:acció_correctiva,
+        pl_20_500_11752_OPEN_1020:acció_preventiva,
+        pl_20_500_11752_OPEN_1020:acompliment,
+        pl_20_500_11752_OPEN_1020:activitat,
+        pl_20_500_11752_OPEN_1020:adquisició_de_competència,
+        pl_20_500_11752_OPEN_1020:alliberament,
+        pl_20_500_11752_OPEN_1020:alta_direcció,
+        pl_20_500_11752_OPEN_1020:ambient_de_treball,
+        pl_20_500_11752_OPEN_1020:assegurament_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:associació,
+        pl_20_500_11752_OPEN_1020:auditor,
+        pl_20_500_11752_OPEN_1020:auditoria,
+        pl_20_500_11752_OPEN_1020:auditoria_combinada,
+        pl_20_500_11752_OPEN_1020:auditoria_conjunta,
+        pl_20_500_11752_OPEN_1020:avaluació_del_progrés,
+        pl_20_500_11752_OPEN_1020:capacitat,
+        pl_20_500_11752_OPEN_1020:característica,
+        pl_20_500_11752_OPEN_1020:característica_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:característica_metrològica,
+        pl_20_500_11752_OPEN_1020:cas_específic,
+        pl_20_500_11752_OPEN_1020:classe,
+        pl_20_500_11752_OPEN_1020:client,
+        pl_20_500_11752_OPEN_1020:client_de_l_auditoria,
+        pl_20_500_11752_OPEN_1020:codi_de_conducta_de_la_satisfacció_del_client,
+        pl_20_500_11752_OPEN_1020:comitè_de_revisió,
+        pl_20_500_11752_OPEN_1020:competència,
+        pl_20_500_11752_OPEN_1020:compromís,
+        pl_20_500_11752_OPEN_1020:concessió,
+        pl_20_500_11752_OPEN_1020:conclusions_de_l_auditoria,
+        pl_20_500_11752_OPEN_1020:configuració,
+        pl_20_500_11752_OPEN_1020:configuració_de_referència,
+        pl_20_500_11752_OPEN_1020:confirmació_metrològica,
+        pl_20_500_11752_OPEN_1020:conflicte,
+        pl_20_500_11752_OPEN_1020:conformitat,
+        pl_20_500_11752_OPEN_1020:constatacions_d_auditoria,
+        pl_20_500_11752_OPEN_1020:consultor_del_sistema_de_gestió_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:context_de_l_organització,
+        pl_20_500_11752_OPEN_1020:contracte,
+        pl_20_500_11752_OPEN_1020:control_de_canvis,
+        pl_20_500_11752_OPEN_1020:control_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:correcció,
+        pl_20_500_11752_OPEN_1020:criteris_d_auditoria,
+        pl_20_500_11752_OPEN_1020:dades,
+        pl_20_500_11752_OPEN_1020:defecte,
+        pl_20_500_11752_OPEN_1020:determinació,
+        pl_20_500_11752_OPEN_1020:disseny_i_desenvolupament,
+        pl_20_500_11752_OPEN_1020:document,
+        pl_20_500_11752_OPEN_1020:eficiència,
+        pl_20_500_11752_OPEN_1020:eficàcia,
+        pl_20_500_11752_OPEN_1020:element_de_sortida,
+        pl_20_500_11752_OPEN_1020:equip_d_auditoria,
+        pl_20_500_11752_OPEN_1020:equip_de_mesura,
+        pl_20_500_11752_OPEN_1020:especificació,
+        pl_20_500_11752_OPEN_1020:estratègia,
+        pl_20_500_11752_OPEN_1020:evidència_d_auditoria,
+        pl_20_500_11752_OPEN_1020:expert_tècnic,
+        pl_20_500_11752_OPEN_1020:externalitzar,
+        pl_20_500_11752_OPEN_1020:factor_humà,
+        pl_20_500_11752_OPEN_1020:funció_metrològica,
+        pl_20_500_11752_OPEN_1020:gestió,
+        pl_20_500_11752_OPEN_1020:gestió_de_la_configuració,
+        pl_20_500_11752_OPEN_1020:gestió_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:gestió_de_projectes,
+        pl_20_500_11752_OPEN_1020:guia,
+        pl_20_500_11752_OPEN_1020:informació,
+        pl_20_500_11752_OPEN_1020:informació_documentada,
+        pl_20_500_11752_OPEN_1020:informació_sobre_la_configuració_del_producte,
+        pl_20_500_11752_OPEN_1020:infraestructura,
+        pl_20_500_11752_OPEN_1020:innovació,
+        pl_20_500_11752_OPEN_1020:inspecció,
+        pl_20_500_11752_OPEN_1020:justificació_de_l_estat_de_la_configuració,
+        pl_20_500_11752_OPEN_1020:manual_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:mesura,
+        pl_20_500_11752_OPEN_1020:millora,
+        pl_20_500_11752_OPEN_1020:millora_contínua,
+        pl_20_500_11752_OPEN_1020:millora_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:missió,
+        pl_20_500_11752_OPEN_1020:no_conformitat,
+        pl_20_500_11752_OPEN_1020:objecte,
+        pl_20_500_11752_OPEN_1020:objecte_de_configuració,
+        pl_20_500_11752_OPEN_1020:objectiu,
+        pl_20_500_11752_OPEN_1020:objectiu_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:observador,
+        pl_20_500_11752_OPEN_1020:organització,
+        pl_20_500_11752_OPEN_1020:organització_auditada,
+        pl_20_500_11752_OPEN_1020:part_interessada,
+        pl_20_500_11752_OPEN_1020:participació_activa,
+        pl_20_500_11752_OPEN_1020:permís_de_desviació,
+        pl_20_500_11752_OPEN_1020:pla_d_auditoria,
+        pl_20_500_11752_OPEN_1020:pla_de_gestió_de_projectes,
+        pl_20_500_11752_OPEN_1020:pla_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:planificació_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:política,
+        pl_20_500_11752_OPEN_1020:política_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:procediment,
+        pl_20_500_11752_OPEN_1020:procés,
+        pl_20_500_11752_OPEN_1020:procés_de_mesura,
+        pl_20_500_11752_OPEN_1020:producte,
+        pl_20_500_11752_OPEN_1020:programa_d_auditoria,
+        pl_20_500_11752_OPEN_1020:projecte,
+        pl_20_500_11752_OPEN_1020:prova,
+        pl_20_500_11752_OPEN_1020:prova_objectiva,
+        pl_20_500_11752_OPEN_1020:proveïdor,
+        pl_20_500_11752_OPEN_1020:proveïdor_d_un_procés_de_resolució_de_conflictes,
+        pl_20_500_11752_OPEN_1020:proveïdor_extern,
+        pl_20_500_11752_OPEN_1020:qualitat,
+        pl_20_500_11752_OPEN_1020:queixa,
+        pl_20_500_11752_OPEN_1020:realització_del_sistema_de_gestió_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:rebuig,
+        pl_20_500_11752_OPEN_1020:reclassificació,
+        pl_20_500_11752_OPEN_1020:reelaboració,
+        pl_20_500_11752_OPEN_1020:registre,
+        pl_20_500_11752_OPEN_1020:reparació,
+        pl_20_500_11752_OPEN_1020:requisit,
+        pl_20_500_11752_OPEN_1020:requisit_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:requisit_legal,
+        pl_20_500_11752_OPEN_1020:requisit_reglamentari,
+        pl_20_500_11752_OPEN_1020:responsable_de_la_resolució_de_conflictes,
+        pl_20_500_11752_OPEN_1020:retorn_d_informació,
+        pl_20_500_11752_OPEN_1020:revisió,
+        pl_20_500_11752_OPEN_1020:risc,
+        pl_20_500_11752_OPEN_1020:satisfacció_del_client,
+        pl_20_500_11752_OPEN_1020:seguiment,
+        pl_20_500_11752_OPEN_1020:seguretat_de_funcionament,
+        pl_20_500_11752_OPEN_1020:servei,
+        pl_20_500_11752_OPEN_1020:servei_al_client,
+        pl_20_500_11752_OPEN_1020:sistema,
+        pl_20_500_11752_OPEN_1020:sistema_d_informació,
+        pl_20_500_11752_OPEN_1020:sistema_de_gestió,
+        pl_20_500_11752_OPEN_1020:sistema_de_gestió_de_la_mesura,
+        pl_20_500_11752_OPEN_1020:sistema_de_gestió_de_la_qualitat,
+        pl_20_500_11752_OPEN_1020:traçabilitat,
+        pl_20_500_11752_OPEN_1020:validació,
+        pl_20_500_11752_OPEN_1020:verificació,
+        pl_20_500_11752_OPEN_1020:visió,
+        pl_20_500_11752_OPEN_1020:èxit,
+        pl_20_500_11752_OPEN_1020:èxit_sostingut .
+
