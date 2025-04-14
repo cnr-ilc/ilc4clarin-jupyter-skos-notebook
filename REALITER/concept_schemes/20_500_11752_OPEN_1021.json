@@ -1,0 +1,54 @@
+{
+    "item_id": 1138,
+    "dc_contributor_author": "Bover, Jordi",
+    "dc_date_accessioned": "2024-09-20T06:38:48Z",
+    "dc_date_available": "2024-09-20T06:38:48Z",
+    "dc_date_issued": "2012",
+    "dc_identifier_uri": "http://hdl.handle.net/20.500.11752/OPEN-1021",
+    "dc_description": "The Pan-Latin Lexicon of Social Networks, developed within the Pan-Latin Terminology Network (REALITER), presents a multilingual database of terms related to social networks in seven Romance languages (Catalan, Spanish, French, Galician, Italian, Portuguese, Romanian) and in English.  For the Spanish language, the equivalents in the Spanish of Spain and Mexico are included. For the Portuguese language, the Brazilian equivalents are also indicated. As Catalan is the source language of the terminology research, the definitions of are provided in Catalan.",
+    "dc_language_iso": [
+        {
+            "code": "cat"
+        },
+        {
+            "code": "spa"
+        },
+        {
+            "code": "fra"
+        },
+        {
+            "code": "glg"
+        },
+        {
+            "code": "ita"
+        },
+        {
+            "code": "por"
+        },
+        {
+            "code": "ron"
+        },
+        {
+            "code": "eng"
+        }
+    ],
+    "dc_publisher": "TERMCAT",
+    "dc_rights": "Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "dc_rights_uri": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "dc_rights_label": "PUB",
+    "dc_source_uri": "https://www.realiter.net/",
+    "dc_subject": [
+        "social network",
+        "Romance languages"
+    ],
+    "dc_title": "Pan-Latin Lexicon of Social Networks",
+    "dc_type": "lexicalConceptualResource",
+    "metashare_ResourceInfo#ContentInfo_detailedType": "terminilogicalResource",
+    "metashare_ResourceInfo#ContentInfo_mediaType": "text",
+    "local_has_files": "yes",
+    "local_branding": "OPEN",
+    "local_contact_person": "Klara@@Dankova@@klara.dankova@unicatt.it@@Università Cattolica del Sacro Cuore",
+    "local_size_info": "176@@entries",
+    "local_files_size": "47321",
+    "local_files_count": "1"
+}

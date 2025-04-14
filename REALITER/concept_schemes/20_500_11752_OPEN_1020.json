@@ -1,0 +1,54 @@
+{
+    "item_id": 1137,
+    "dc_contributor_author": "Colomer, Rosa",
+    "dc_date_accessioned": "2024-09-20T06:38:41Z",
+    "dc_date_available": "2024-09-20T06:38:41Z",
+    "dc_date_issued": "2010",
+    "dc_identifier_uri": "http://hdl.handle.net/20.500.11752/OPEN-1020",
+    "dc_description": "The Terminology of quality management is a project developed within the Pan-Latin Terminology Network (REALITER), which aims to develop a multilingual database of terms related to the field of quality management. The terms are presented in eight languages: French, Catalan, Spanish, Galician, Italian, Portuguese, Romanian and English. The definitions are given in Catalan.",
+    "dc_language_iso": [
+        {
+            "code": "fra"
+        },
+        {
+            "code": "cat"
+        },
+        {
+            "code": "spa"
+        },
+        {
+            "code": "glg"
+        },
+        {
+            "code": "ita"
+        },
+        {
+            "code": "por"
+        },
+        {
+            "code": "ron"
+        },
+        {
+            "code": "eng"
+        }
+    ],
+    "dc_publisher": "TERMCAT",
+    "dc_rights": "Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+    "dc_rights_uri": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "dc_rights_label": "PUB",
+    "dc_source_uri": "https://www.realiter.net/",
+    "dc_subject": [
+        "quality management",
+        "Romance languages"
+    ],
+    "dc_title": "Terminology of quality management",
+    "dc_type": "lexicalConceptualResource",
+    "metashare_ResourceInfo#ContentInfo_detailedType": "terminilogicalResource",
+    "metashare_ResourceInfo#ContentInfo_mediaType": "text",
+    "local_has_files": "yes",
+    "local_branding": "OPEN",
+    "local_contact_person": "Klara@@Dankova@@klara.dankova@unicatt.it@@Università Cattolica del Sacro Cuore",
+    "local_size_info": "138@@entries",
+    "local_files_size": "41294",
+    "local_files_count": "1"
+}
