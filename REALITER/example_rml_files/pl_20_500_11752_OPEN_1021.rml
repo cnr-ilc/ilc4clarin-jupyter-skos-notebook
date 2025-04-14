@@ -1,0 +1,245 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix iso369-3: <http://iso639-3.sil.org/code/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix pl_20_500_11752_OPEN_1021: <https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/>.
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rml: <http://w3id.org/rml/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix schema: <http://schema.org/>.
+@prefix formats: <http://www.w3.org/ns/formats/>.
+@prefix comp: <http://semweb.mmlab.be/ns/rml-compression#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix fnml: <http://semweb.mmlab.be/ns/fnml#>.
+@prefix grel: <http://users.ugent.be/~bjdmeest/function/grel.ttl#>.
+@base <http://example.com/ns#>.
+
+
+<pl_20_500_11752_OPEN_1021_concept_scheme_0> a rr:TriplesMap;
+
+	rml:logicalSource [
+		a rml:LogicalSource;
+		rml:source "/home/jovyan/work/REALITER/concept_schemes/20_500_11752_OPEN_1021.json";
+		rml:referenceFormulation ql:JSONPath;
+		rml:iterator "$";
+	];
+	rr:subjectMap [
+		a rr:SubjectMap;
+		rr:constant <https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/>;
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant rdf:type;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rr:constant skos:ConceptScheme;
+		];
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant dc:description;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "dc_description";
+			rr:language "en"
+		];
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant dc:identifier;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "dc_identifier_uri";
+		];
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant dc:title;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "dc_title";
+			rr:language "en"
+		];
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant dc:created;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "dc_date_issued";
+			rr:datatype xsd:date
+		];
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant dc:creator;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "dc_contributor_author";
+		];
+	].
+
+
+<pl_20_500_11752_OPEN_1021_concept_scheme_languages_0> a rr:TriplesMap;
+
+	rml:logicalSource [
+		a rml:LogicalSource;
+		rml:source "/home/jovyan/work/REALITER/concept_schemes/20_500_11752_OPEN_1021.json";
+		rml:referenceFormulation ql:JSONPath;
+		rml:iterator "$.dc_language_iso[*]";
+	];
+	rr:subjectMap [
+		a rr:SubjectMap;
+		rr:constant <https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/>;
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant dct:language;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rr:template "http://iso639-3.sil.org/code/{code}";
+		];
+	].
+
+
+<pl_20_500_11752_OPEN_1021_concepts_0> a rr:TriplesMap;
+
+	rml:logicalSource [
+		a rml:LogicalSource;
+		rml:source "/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json";
+		rml:referenceFormulation ql:JSONPath;
+		rml:iterator "$[*]";
+	];
+	rr:subjectMap [
+		a rr:SubjectMap;
+		rr:template "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/{concept}";
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant rdf:type;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rr:constant skos:Concept;
+		];
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant skos:definition;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "definition";
+			rml:languageMap [
+				a rml:LanguageMap;
+				rml:reference "definitionLang";
+			];
+		];
+	].
+
+
+<pl_20_500_11752_OPEN_1021_prefLabels_0> a rr:TriplesMap;
+
+	rml:logicalSource [
+		a rml:LogicalSource;
+		rml:source "/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json";
+		rml:referenceFormulation ql:JSONPath;
+		rml:iterator "$[*].prefLabels[*]";
+	];
+	rr:subjectMap [
+		a rr:SubjectMap;
+		rr:template "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/{concept}";
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant skos:prefLabel;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "value";
+			rml:languageMap [
+				a rml:LanguageMap;
+				rml:reference "lang";
+			];
+		];
+	].
+
+
+<pl_20_500_11752_OPEN_1021_altLabels_0> a rr:TriplesMap;
+
+	rml:logicalSource [
+		a rml:LogicalSource;
+		rml:source "/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json";
+		rml:referenceFormulation ql:JSONPath;
+		rml:iterator "$[*].altLabels[*]";
+	];
+	rr:subjectMap [
+		a rr:SubjectMap;
+		rr:template "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/{concept}";
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant skos:altLabel;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "value";
+			rml:languageMap [
+				a rml:LanguageMap;
+				rml:reference "lang";
+			];
+		];
+	].
+
+
+<pl_20_500_11752_OPEN_1021_notes_0> a rr:TriplesMap;
+
+	rml:logicalSource [
+		a rml:LogicalSource;
+		rml:source "/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json";
+		rml:referenceFormulation ql:JSONPath;
+		rml:iterator "$[*].note[*]";
+	];
+	rr:subjectMap [
+		a rr:SubjectMap;
+		rr:template "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/{concept}";
+	];
+	rr:predicateObjectMap [
+		rr:predicateMap [
+			a rr:PredicateMap;
+			rr:constant skos:note;
+		];
+		rr:objectMap [
+			a rr:ObjectMap;
+			rml:reference "value";
+			rml:languageMap [
+				a rml:LanguageMap;
+				rml:reference "lang";
+			];
+		];
+	].
+
+
