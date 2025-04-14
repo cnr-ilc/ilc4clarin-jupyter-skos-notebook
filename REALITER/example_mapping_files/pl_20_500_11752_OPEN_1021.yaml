@@ -1,0 +1,57 @@
+prefixes:
+  dc: http://purl.org/dc/elements/1.1/
+  dct: http://purl.org/dc/terms/
+  iso369-3: http://iso639-3.sil.org/code/
+  skos: http://www.w3.org/2004/02/skos/core#
+  xsd: http://www.w3.org/2001/XMLSchema#
+  pl_20_500_11752_OPEN_1021: https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/
+
+mappings:
+    pl_20_500_11752_OPEN_1021_concept_scheme:
+        sources:
+            - [/home/jovyan/work/REALITER/concept_schemes/20_500_11752_OPEN_1021.json~jsonpath, "$"]
+        subject: "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/"
+        predicateobjects:
+            - [a, skos:ConceptScheme]
+            - [dc:description, $(dc_description), en~lang]
+            - [dc:identifier,  $(dc_identifier_uri)]
+            - [dc:title, $(dc_title), en~lang]
+            - [dc:created, $(dc_date_issued), xsd:date]
+            - [dc:creator, $(dc_contributor_author)]
+
+
+    pl_20_500_11752_OPEN_1021_concept_scheme_languages:
+        sources:
+            - [/home/jovyan/work/REALITER/concept_schemes/20_500_11752_OPEN_1021.json~jsonpath, "$.dc_language_iso[*]"]
+        subject: "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/"
+        predicateobjects:
+            - [dct:language, "http://iso639-3.sil.org/code/$(code)"]
+    
+    pl_20_500_11752_OPEN_1021_concepts:
+        sources:
+            - [/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json~jsonpath, "$[*]"]
+        subject: "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/$(concept)"
+        predicateobjects:
+            - [a, skos:Concept]
+            - [skos:definition, $(definition), $(definitionLang)~lang]
+    
+    pl_20_500_11752_OPEN_1021_prefLabels:
+        sources:
+            - [/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json~jsonpath, "$[*].prefLabels[*]"]
+        subject: "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/$(concept)"
+        predicateobjects:
+            - [skos:prefLabel, $(value), $(lang)~lang]
+    
+    pl_20_500_11752_OPEN_1021_altLabels:
+        sources:
+            - [/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json~jsonpath, "$[*].altLabels[*]"]
+        subject: "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/$(concept)"
+        predicateobjects:
+            - [skos:altLabel, $(value), $(lang)~lang]
+    
+    pl_20_500_11752_OPEN_1021_notes:
+        sources:
+            - [/home/jovyan/work/REALITER/input_data/20_500_11752_OPEN_1021.json~jsonpath, "$[*].note[*]"]
+        subject: "https://vocabs.ilc4clarin.ilc.cnr.it/vocabularies/pl_20_500_11752_OPEN_1021/$(concept)"
+        predicateobjects:
+            - [skos:note, $(value), $(lang)~lang]
