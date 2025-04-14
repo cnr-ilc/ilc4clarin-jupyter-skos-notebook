@@ -50,10 +50,6 @@ pip install -r requirements.txt
 
 > A `requirements.txt` file will be included in the repository for convenience.
 
-## License
-
-This project is released under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 These notebooks are part of the ongoing efforts within the **CLARIN-IT** and **ILC-CNR** initiatives to support the creation and dissemination of Linked Open Data for the Humanities.
