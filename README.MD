@@ -33,3 +33,27 @@ Each notebook focuses on a specific task or use case, such as:
 1. Clone this repository:
    ```bash
    git clone https://github.com/ilc4clarin/ilc4clarin-jupyter-skos-notebook.git
+
+## Requirements
+
+- Python 3.8+
+- Jupyter Notebook or JupyterLab
+- Recommended libraries:
+  - `rdflib`
+  - `pandas`
+  - `openpyxl` (for Excel files)
+
+Install dependencies with:
+```bash
+pip install -r requirements.txt
+```
+
+> A `requirements.txt` file will be included in the repository for convenience.
+
+## License
+
+This project is released under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+These notebooks are part of the ongoing efforts within the **CLARIN-IT** and **ILC-CNR** initiatives to support the creation and dissemination of Linked Open Data for the Humanities.
